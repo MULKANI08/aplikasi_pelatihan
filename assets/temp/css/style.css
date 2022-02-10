@@ -1,0 +1,56 @@
+.app-header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    display: flex;
+    background-color: #150a50;
+    z-index: 1030;
+}
+
+.app-header__logo {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    display: block;
+    width: 230px;
+    background-color: #250e6b;
+}
+.app-sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    padding-top: 70px;
+    width: 230px;
+    overflow: auto;
+    z-index: 10;
+    background-color: #182058;
+    -webkit-box-shadow: 0px 8px 17px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 8px 17px rgba(0, 0, 0, 0.2);
+    -webkit-transition: left 0.3s ease,
+ width 0.3s ease;
+    -o-transition: left 0.3s ease,
+ width 0.3s ease;
+    transition: left 0.3s ease,
+ width 0.3s ease;
+}
+
+.treeview-menu {
+    max-height: 0;
+    overflow: hidden;
+    -webkit-transition: max-height 0.3s ease;
+    -o-transition: max-height 0.3s ease;
+    transition: max-height 0.3s ease;
+    background: #4121c3;
+}
+.material-half-bg .cover {
+    background-color: #131273;
+    height: 50vh;
+}
+.btn-primary {
+    color: #FFF;
+    background-color: #131273;
+    border-color: #009688;
+}

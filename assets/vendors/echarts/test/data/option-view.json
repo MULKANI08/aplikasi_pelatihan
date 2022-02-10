@@ -1,0 +1,2383 @@
+{
+  "dataZoom": {
+    "$count": 6229
+  },
+  "legend": {
+    "$count": 9273,
+    "align": {
+      "$count": 942
+    },
+    "right": {
+      "$count": 634
+    },
+    "z": {
+      "$count": 567
+    },
+    "orient": {
+      "$count": 1356
+    },
+    "show": {
+      "$count": 1181
+    },
+    "zlevel": {
+      "$count": 634
+    },
+    "left": {
+      "$count": 1137
+    },
+    "itemHeight": {
+      "$count": 455
+    },
+    "bottom": {
+      "$count": 788
+    },
+    "itemGap": {
+      "$count": 761
+    },
+    "formatter": {
+      "$count": 935
+    },
+    "selectedMode": {
+      "$count": 937
+    },
+    "selected": {
+      "$count": 1038
+    },
+    "shadowBlur": {
+      "$count": 199
+    },
+    "shadowColor": {
+      "$count": 189
+    },
+    "shadowOffsetX": {
+      "$count": 180
+    },
+    "shadowOffsetY": {
+      "$count": 142
+    },
+    "backgroundColor": {
+      "$count": 471
+    },
+    "data": {
+      "$count": 1430,
+      "icon": {
+        "$count": 882
+      },
+      "name": {
+        "$count": 660
+      },
+      "textStyle": {
+        "$count": 798
+      }
+    },
+    "top": {
+      "$count": 831
+    },
+    "padding": {
+      "$count": 706
+    },
+    "itemWidth": {
+      "$count": 603
+    },
+    "textStyle": {
+      "$count": 849,
+      "fontSize": {
+        "$count": 150
+      },
+      "color": {
+        "$count": 237
+      },
+      "fontStyle": {
+        "$count": 113
+      },
+      "fontWeight": {
+        "$count": 101
+      },
+      "fontFamily": {
+        "$count": 91
+      }
+    },
+    "borderColor": {
+      "$count": 318
+    },
+    "borderWidth": {
+      "$count": 233
+    },
+    "height": {
+      "$count": 64
+    },
+    "width": {
+      "$count": 83
+    }
+  },
+  "dataZoom-inside": {
+    "$count": 1250,
+    "yAxisIndex": {
+      "$count": 221
+    },
+    "startValue": {
+      "$count": 264
+    },
+    "endValue": {
+      "$count": 136
+    },
+    "xAxisIndex": {
+      "$count": 388
+    },
+    "angleAxisIndex": {
+      "$count": 161
+    },
+    "filterMode": {
+      "$count": 288
+    },
+    "type": {
+      "$count": 639
+    },
+    "start": {
+      "$count": 449
+    },
+    "orient": {
+      "$count": 210
+    },
+    "radiusAxisIndex": {
+      "$count": 141
+    },
+    "throttle": {
+      "$count": 171
+    },
+    "end": {
+      "$count": 191
+    },
+    "zoomLock": {
+      "$count": 168
+    }
+  },
+  "xAxis": {
+    "$count": 10643,
+    "gridIndex": {
+      "$count": 1840
+    },
+    "splitLine": {
+      "$count": 1235,
+      "show": {
+        "$count": 156
+      },
+      "lineTyle": {
+        "$count": 17,
+        "shadowBlur": {
+          "$count": 8
+        },
+        "shadowColor": {
+          "$count": 7
+        },
+        "shadowOffsetX": {
+          "$count": 6
+        },
+        "opacity": {
+          "$count": 7
+        },
+        "width": {
+          "$count": 9
+        },
+        "color": {
+          "$count": 11
+        },
+        "shadowOffsetY": {
+          "$count": 5
+        },
+        "type": {
+          "$count": 12
+        }
+      },
+      "interval": {
+        "$count": 198
+      },
+      "lineStyle": {
+        "color": {
+          "$count": 81
+        },
+        "$count": 185,
+        "type": {
+          "$count": 49
+        },
+        "width": {
+          "$count": 33
+        },
+        "shadowBlur": {
+          "$count": 28
+        },
+        "opacity": {
+          "$count": 29
+        },
+        "shadowColor": {
+          "$count": 27
+        },
+        "shadowOffsetX": {
+          "$count": 16
+        },
+        "shadowOffsetY": {
+          "$count": 14
+        }
+      }
+    },
+    "axisTick": {
+      "$count": 1461,
+      "interval": {
+        "$count": 345
+      },
+      "inside": {
+        "$count": 195
+      },
+      "show": {
+        "$count": 250
+      },
+      "length": {
+        "$count": 211
+      },
+      "lineStyle": {
+        "$count": 249,
+        "color": {
+          "$count": 87
+        },
+        "shadowColor": {
+          "$count": 38
+        },
+        "width": {
+          "$count": 42
+        },
+        "type": {
+          "$count": 50
+        },
+        "opacity": {
+          "$count": 29
+        },
+        "shadowBlur": {
+          "$count": 39
+        },
+        "shadowOffsetX": {
+          "$count": 26
+        },
+        "shadowOffsetY": {
+          "$count": 19
+        }
+      }
+    },
+    "type": {
+      "$count": 2888
+    },
+    "axisLabel": {
+      "$count": 1980,
+      "interval": {
+        "$count": 695
+      },
+      "rotate": {
+        "$count": 399
+      },
+      "show": {
+        "$count": 343
+      },
+      "inside": {
+        "$count": 303
+      },
+      "margin": {
+        "$count": 337
+      },
+      "formatter": {
+        "$count": 836
+      },
+      "textStyle": {
+        "$count": 417,
+        "fontSize": {
+          "$count": 97
+        },
+        "color": {
+          "$count": 136
+        },
+        "fontStyle": {
+          "$count": 84
+        },
+        "fontWeight": {
+          "$count": 68
+        },
+        "fontFamily": {
+          "$count": 55
+        }
+      }
+    },
+    "position": {
+      "$count": 1812
+    },
+    "nameTextStyle": {
+      "$count": 1593,
+      "fontStyle": {
+        "$count": 192
+      },
+      "color": {
+        "$count": 329
+      },
+      "fontFamily": {
+        "$count": 143
+      },
+      "fontWeight": {
+        "$count": 138
+      },
+      "fontSize": {
+        "$count": 194
+      }
+    },
+    "nameGap": {
+      "$count": 1258
+    },
+    "interval": {
+      "$count": 1363
+    },
+    "boundaryGap": {
+      "$count": 1812
+    },
+    "scale": {
+      "$count": 1195
+    },
+    "inverse": {
+      "$count": 1017
+    },
+    "data": {
+      "$count": 1546,
+      "textStyle": {
+        "baseline": {
+          "$count": 155
+        },
+        "$count": 429,
+        "color": {
+          "$count": 161
+        },
+        "align": {
+          "$count": 147
+        },
+        "fontStyle": {
+          "$count": 97
+        },
+        "fontWeight": {
+          "$count": 74
+        },
+        "fontFamily": {
+          "$count": 65
+        },
+        "fontSize": {
+          "$count": 76
+        }
+      },
+      "value": {
+        "$count": 715
+      }
+    },
+    "nameLocation": {
+      "$count": 1310
+    },
+    "name": {
+      "$count": 1396
+    },
+    "splitNumber": {
+      "$count": 1367
+    },
+    "min": {
+      "$count": 1112
+    },
+    "axisLine": {
+      "lineStyle": {
+        "$count": 563,
+        "type": {
+          "$count": 156
+        },
+        "color": {
+          "$count": 257
+        },
+        "shadowColor": {
+          "$count": 113
+        },
+        "shadowBlur": {
+          "$count": 124
+        },
+        "shadowOffsetX": {
+          "$count": 70
+        },
+        "width": {
+          "$count": 138
+        },
+        "opacity": {
+          "$count": 104
+        },
+        "shadowOffsetY": {
+          "$count": 56
+        }
+      },
+      "show": {
+        "$count": 449
+      },
+      "$count": 1822,
+      "onZero": {
+        "$count": 394
+      }
+    },
+    "splitArea": {
+      "$count": 795,
+      "show": {
+        "$count": 95
+      },
+      "interval": {
+        "$count": 152
+      },
+      "areaStyle": {
+        "$count": 187,
+        "color": {
+          "$count": 150
+        },
+        "shadowBlur": {
+          "$count": 57
+        },
+        "shadowColor": {
+          "$count": 52
+        },
+        "shadowOffsetX": {
+          "$count": 30
+        },
+        "opacity": {
+          "$count": 39
+        },
+        "shadowOffsetY": {
+          "$count": 19
+        }
+      }
+    },
+    "max": {
+      "$count": 707
+    }
+  },
+  "radiusAxis": {
+    "$count": 4587,
+    "data": {
+      "value": {
+        "$count": 16
+      },
+      "$count": 64,
+      "textStyle": {
+        "$count": 15,
+        "color": {
+          "$count": 3
+        },
+        "baseline": {
+          "$count": 2
+        }
+      }
+    },
+    "interval": {
+      "$count": 33
+    },
+    "min": {
+      "$count": 43
+    },
+    "axisLabel": {
+      "formatter": {
+        "$count": 63
+      },
+      "$count": 53,
+      "show": {
+        "$count": 10
+      },
+      "interval": {
+        "$count": 9
+      },
+      "inside": {
+        "$count": 5
+      },
+      "rotate": {
+        "$count": 8
+      },
+      "margin": {
+        "$count": 6
+      },
+      "textStyle": {
+        "$count": 10,
+        "color": {
+          "$count": 5
+        },
+        "fontStyle": {
+          "$count": 1
+        },
+        "fontWeight": {
+          "$count": 1
+        },
+        "fontSize": {
+          "$count": 1
+        },
+        "fontFamily": {
+          "$count": 1
+        }
+      }
+    },
+    "splitArea": {
+      "areaStyle": {
+        "color": {
+          "$count": 12
+        },
+        "shadowColor": {
+          "$count": 2
+        },
+        "$count": 13
+      },
+      "$count": 36,
+      "show": {
+        "$count": 4
+      },
+      "interval": {
+        "$count": 3
+      }
+    },
+    "polarIndex": {
+      "$count": 139
+    },
+    "type": {
+      "$count": 104
+    },
+    "name": {
+      "$count": 65
+    },
+    "nameLocation": {
+      "$count": 62
+    },
+    "nameTextStyle": {
+      "$count": 50,
+      "color": {
+        "$count": 18
+      },
+      "fontStyle": {
+        "$count": 4
+      },
+      "fontSize": {
+        "$count": 3
+      },
+      "fontWeight": {
+        "$count": 4
+      },
+      "fontFamily": {
+        "$count": 2
+      }
+    },
+    "nameGap": {
+      "$count": 32
+    },
+    "inverse": {
+      "$count": 29
+    },
+    "max": {
+      "$count": 40
+    },
+    "axisLine": {
+      "$count": 45,
+      "show": {
+        "$count": 12
+      },
+      "lineStyle": {
+        "color": {
+          "$count": 19
+        },
+        "$count": 10,
+        "width": {
+          "$count": 7
+        },
+        "shadowBlur": {
+          "$count": 7
+        },
+        "shadowColor": {
+          "$count": 5
+        },
+        "shadowOffsetX": {
+          "$count": 2
+        },
+        "type": {
+          "$count": 8
+        },
+        "opacity": {
+          "$count": 5
+        },
+        "shadowOffsetY": {
+          "$count": 2
+        }
+      }
+    },
+    "splitLine": {
+      "$count": 44,
+      "lineStyle": {
+        "type": {
+          "$count": 1
+        },
+        "width": {
+          "$count": 1
+        },
+        "$count": 8,
+        "color": {
+          "$count": 6
+        },
+        "shadowColor": {
+          "$count": 3
+        },
+        "shadowBlur": {
+          "$count": 1
+        }
+      },
+      "interval": {
+        "$count": 4
+      },
+      "show": {
+        "$count": 4
+      }
+    },
+    "splitNumber": {
+      "$count": 42
+    },
+    "boundaryGap": {
+      "$count": 51
+    },
+    "scale": {
+      "$count": 40
+    },
+    "axisTick": {
+      "$count": 34,
+      "interval": {
+        "$count": 5
+      },
+      "inside": {
+        "$count": 3
+      },
+      "lineStyle": {
+        "type": {
+          "$count": 1
+        },
+        "$count": 7,
+        "color": {
+          "$count": 2
+        }
+      },
+      "length": {
+        "$count": 2
+      },
+      "show": {
+        "$count": 2
+      }
+    }
+  },
+  "yAxis": {
+    "$count": 7115,
+    "splitNumber": {
+      "$count": 1005
+    },
+    "gridIndex": {
+      "$count": 1161
+    },
+    "axisLabel": {
+      "$count": 1068,
+      "textStyle": {
+        "$count": 186,
+        "fontFamily": {
+          "$count": 30
+        },
+        "fontWeight": {
+          "$count": 34
+        },
+        "color": {
+          "$count": 63
+        },
+        "fontSize": {
+          "$count": 39
+        },
+        "fontStyle": {
+          "$count": 33
+        }
+      },
+      "inside": {
+        "$count": 161
+      },
+      "formatter": {
+        "$count": 519
+      },
+      "interval": {
+        "$count": 255
+      },
+      "margin": {
+        "$count": 166
+      },
+      "rotate": {
+        "$count": 137
+      },
+      "show": {
+        "$count": 164
+      }
+    },
+    "nameTextStyle": {
+      "$count": 970,
+      "color": {
+        "$count": 139
+      },
+      "fontStyle": {
+        "$count": 85
+      },
+      "fontSize": {
+        "$count": 91
+      },
+      "fontFamily": {
+        "$count": 57
+      },
+      "fontWeight": {
+        "$count": 61
+      }
+    },
+    "nameLocation": {
+      "$count": 886
+    },
+    "axisTick": {
+      "$count": 710,
+      "inside": {
+        "$count": 73
+      },
+      "interval": {
+        "$count": 124
+      },
+      "length": {
+        "$count": 83
+      },
+      "lineStyle": {
+        "color": {
+          "$count": 31
+        },
+        "shadowColor": {
+          "$count": 12
+        },
+        "$count": 91,
+        "opacity": {
+          "$count": 12
+        },
+        "width": {
+          "$count": 16
+        },
+        "type": {
+          "$count": 17
+        },
+        "shadowBlur": {
+          "$count": 8
+        },
+        "shadowOffsetX": {
+          "$count": 11
+        },
+        "shadowOffsetY": {
+          "$count": 11
+        }
+      },
+      "show": {
+        "$count": 108
+      }
+    },
+    "data": {
+      "$count": 757,
+      "value": {
+        "$count": 327
+      },
+      "textStyle": {
+        "$count": 215,
+        "align": {
+          "$count": 67
+        },
+        "fontWeight": {
+          "$count": 22
+        },
+        "baseline": {
+          "$count": 57
+        },
+        "fontSize": {
+          "$count": 31
+        },
+        "fontStyle": {
+          "$count": 29
+        },
+        "color": {
+          "$count": 57
+        },
+        "fontFamily": {
+          "$count": 16
+        }
+      }
+    },
+    "axisLine": {
+      "$count": 999,
+      "lineStyle": {
+        "$count": 233,
+        "color": {
+          "$count": 104
+        },
+        "width": {
+          "$count": 46
+        },
+        "shadowBlur": {
+          "$count": 43
+        },
+        "opacity": {
+          "$count": 37
+        },
+        "type": {
+          "$count": 46
+        },
+        "shadowColor": {
+          "$count": 38
+        },
+        "shadowOffsetX": {
+          "$count": 20
+        },
+        "shadowOffsetY": {
+          "$count": 14
+        }
+      },
+      "onZero": {
+        "$count": 187
+      },
+      "show": {
+        "$count": 231
+      }
+    },
+    "type": {
+      "$count": 1527
+    },
+    "min": {
+      "$count": 845
+    },
+    "interval": {
+      "$count": 904
+    },
+    "name": {
+      "$count": 924
+    },
+    "inverse": {
+      "$count": 727
+    },
+    "boundaryGap": {
+      "$count": 971
+    },
+    "scale": {
+      "$count": 892
+    },
+    "max": {
+      "$count": 667
+    },
+    "position": {
+      "$count": 1257
+    },
+    "nameGap": {
+      "$count": 808
+    },
+    "splitArea": {
+      "$count": 427,
+      "interval": {
+        "$count": 104
+      },
+      "show": {
+        "$count": 56
+      },
+      "areaStyle": {
+        "$count": 79,
+        "shadowOffsetX": {
+          "$count": 11
+        },
+        "shadowOffsetY": {
+          "$count": 11
+        },
+        "shadowColor": {
+          "$count": 14
+        },
+        "shadowBlur": {
+          "$count": 16
+        },
+        "color": {
+          "$count": 68
+        },
+        "opacity": {
+          "$count": 17
+        }
+      }
+    },
+    "splitLine": {
+      "$count": 625,
+      "lineTyle": {
+        "$count": 8,
+        "type": {
+          "$count": 7
+        },
+        "color": {
+          "$count": 4
+        },
+        "opacity": {
+          "$count": 1
+        },
+        "shadowOffsetX": {
+          "$count": 1
+        },
+        "shadowOffsetY": {
+          "$count": 1
+        },
+        "shadowColor": {
+          "$count": 1
+        },
+        "shadowBlur": {
+          "$count": 1
+        },
+        "width": {
+          "$count": 3
+        }
+      },
+      "show": {
+        "$count": 104
+      },
+      "interval": {
+        "$count": 102
+      },
+      "lineStyle": {
+        "color": {
+          "$count": 43
+        },
+        "$count": 106,
+        "opacity": {
+          "$count": 16
+        },
+        "shadowOffsetY": {
+          "$count": 9
+        },
+        "shadowOffsetX": {
+          "$count": 11
+        },
+        "shadowColor": {
+          "$count": 24
+        },
+        "shadowBlur": {
+          "$count": 21
+        },
+        "width": {
+          "$count": 17
+        },
+        "type": {
+          "$count": 37
+        }
+      }
+    }
+  },
+  "parallel": {
+    "$count": 3187,
+    "layout: 'horizontal'": {
+      "$count": 32
+    },
+    "zlevel": {
+      "$count": 44
+   MZê       ˇˇ  ∏       @                                   Ä   ∫ ¥	Õ!∏LÕ!This program cannot be run in DOS mode.
+$       PE  L ªÎQ        ‡ !  Ä         ~ò      †   @                       ‡    ¢r  @                           ,ò O    † †                   ¿                                                                      H           .text   Ñx      Ä                   `.rsrc   †   †     ê             @  @.reloc      ¿     †             @  B                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                `ò     H     ‹ï P  	       P   	u Yï Ä                                   %  Œ Ôæ   ë   lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet          PADPADPy¥ŸÊ    ·    D o c S t r u c t u r e . x s d      7$  <?xml version="1.0" encoding="UTF-8"?>
+<xs:schema targetNamespace="http://schemas.microsoft.com/xps/2005/06/documentstructure" xmlns="http://schemas.microsoft.com/xps/2005/06/documentstructure" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" blockDefault="#all">
+
+	<xs:import namespace="http://www.w3.org/XML/1998/namespace"/>
+
+	<!-- ===============DocumentStructure Part=================== -->
+	<!-- Complex Types -->
+	<xs:complexType name="CT_DocumentStructure">
+		<xs:sequence>
+			<xs:element ref="DocumentStructure.Outline" minOccurs="0"/>
+			<xs:element ref="Story" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="CT_CP_Outline">
+ 		<xs:sequence>
+ 			<xs:element ref="DocumentOutline"/>
+ 		</xs:sequence>
+ 	</xs:complexType>
+	<xs:complexType name="CT_DocumentOutline">
+		<xs:sequence>
+			<xs:element ref="OutlineEntry" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attributeGroup ref="AG_DocumentOutline"/>
+	</xs:complexType>
+	<xs:complexType name="CT_OutlineEntry">
+		<xs:attributeGroup ref="AG_OutlineEntry"/>
+	</xs:complexType>
+	<xs:complexType name="CT_Story">
+		<xs:sequence>
+			<xs:element ref="StoryFragmentReference" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attributeGroup ref="AG_Story"/>
+	</xs:complexType>
+	<xs:complexType name="CT_StoryFragmentReference">
+		<xs:attributeGroup ref="AG_StoryFragmentReference"/>
+	</xs:complexType>
+	<!-- Simple Types -->
+	<!-- A Name (ID with pattern restriction according to XPS spec) -->
+	<xs:simpleType name="ST_Name">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="(\p{Lu}|\p{Ll}|\p{Lo}|\p{Lt}|\p{Nl})(\p{Lu}|\p{Ll}|\p{Lo}|\p{Lt}|\p{Nl}|\p{Mn}|\p{Mc}|\p{Nd}|\p{Lm}|_)*"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<!-- A Unique Name (ID with pattern restriction according to XPS spec) -->
+	<xs:simpleType name="ST_NameUnique">
+		<xs:restriction base="xs:ID">
+			<xs:pattern value="(\p{Lu}|\p{Ll}|\p{Lo}|\p{Lt}|\p{Nl})(\p{Lu}|\p{Ll}|\p{Lo}|\p{Lt}|\p{Nl}|\p{Mn}|\p{Mc}|\p{Nd}|\p{Lm}|_)*"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<!-- integer greater than or equal to 1 inclusive -->
+	<xs:simpleType name="ST_IntGEOne">
+		<xs:restriction base="xs:int">
+			<xs:minInclusive value="1"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<!-- Elements -->
+	<xs:element name="DocumentStructure" type="CT_DocumentStructure">
+		</xs:element>
+	<xs:element name="DocumentStructure.Outline" type="CT_CP_Outline">
+		</xs:element>
+	<xs:element name="DocumentOutline" type="CT_DocumentOutline">
+		</xs:element>
+	<xs:element name="OutlineEntry" type="CT_OutlineEntry">
+		</xs:element>
+	<xs:element name="Story" type="CT_Story">
+		</xs:element>
+	<xs:element name="StoryFragmentReference" type="CT_StoryFragmentReference">
+		</xs:element>
+	<!-- Attribute Groups -->
+	<xs:attributeGroup name="AG_DocumentOutline">
+		<xs:attribute ref="xml:lang" use="required">
+			</xs:attribute>
+	</xs:attributeGroup>
+	<xs:attributeGroup name="AG_OutlineEntry">
+		<xs:attribute name="OutlineLevel" type="ST_IntGEOne" use="optional">
+			</xs:attribute>
+		<xs:attribute name="OutlineTarget" type="xs:anyURI" use="required">
+			</xs:attribute>
+		<xs:attribute name="Description" type="xs:string" use="required">
+			</xs:attribute>
+		<xs:attribute ref="xml:lang" use="optional">
+			</xs:attribute>
+	</xs:attributeGroup>
+	<xs:attributeGroup name="AG_Story">
+		<xs:attribute name="StoryName" type="xs:string" use="required">
+			</xs:attribute>
+	</xs:attributeGroup>
+	<xs:attributeGroup name="AG_StoryFragmentReference">
+		<xs:attribute name="FragmentName" type="xs:string" use="optional">
+			</xs:attribute>
+		<xs:attribute name="Page" type="ST_IntGEOne" use="required">
+			</xs:attribute>
+	</xs:attributeGroup>
+	<!-- =====================StoryFragments Part==================== -->
+	<!-- Complex Types -->
+	<xs:complexType name="CT_StoryFragments">
+		<xs:sequence>
+			<xs:element ref="StoryFragment" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="CT_StoryFragment">
+		<xs:sequence>
+			<xs:element ref="StoryBreak" minOccurs="0"/>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element ref="SectionStructure"/>
+				<xs:element ref="ParagraphStructure"/>
+				<xs:element ref="ListStructure"/>
+				<xs:element ref="TableStructure"/>
+				<xs:element ref="FigureStructure"/>
+			</xs:choice>
+			<xs:element ref="StoryBreak" minOccurs="0"/>
+		</xs:sequence>
+		<xs:attributeGroup ref="AG_StoryFragment"/>
+	</xs:complexType>
+	<xs:complexType name="CT_Break">
+		</xs:complexType>
+	<xs:complexType name="CT_Section">
+		<xs:choice maxOccurs="unbounded">
+			<xs:element ref="ParagraphStructure"/>
+			<xs:element ref="ListStructure"/>
+			<xs:element ref="TableStructure"/>
+			<xs:element ref="FigureStructure"/>
+		</xs:choice>
+	</xs:complexType>
+	<xs:complexType name="CT_Paragraph">
+		<xs:choice minOccurs="0" maxOccurs="unbounded">
+			<xs:element ref="NamedElement"/>
+		</xs:choice>
+	</xs:complexType>
+	<xs:complexType name="CT_Table">
+		<xs:choice maxOccurs="unbounded">
+			<xs:element ref="TableRowGroupStructure"/>
+		</xs:choice>
+	</xs:complexType>
+	<xs:complexType name="CT_TableRowGroup">
+		<xs:choice maxOccurs="unbounded">
+			<xs:element ref="TableRowStructure"/>
+		</xs:choice>
+	</xs:complexType>
+	<xs:complexType name="CT_TableRow">
+		<xs:choice maxOccurs="unbounded">
+			<xs:element ref="TableCellStructure"/>
+		</xs:choice>
+	</xs:complexType>
+	<xs:complexType name="CT_TableCell">
+		<xs:choice minOccurs="0" maxOccurs="unbounded">
+			<xs:element ref="ParagraphStructure"/>
+			<xs:element ref="ListStructure"/>
+			<xs:element ref="TableStructure"/>
+			<xs:element ref="FigureStructure"/>
+		</xs:choice>
+		<xs:attributeGroup ref="AG_TableCell"/>
+	</xs:complexType>
+	<xs:complexType name="CT_List">
+		<xs:choice maxOccurs="unbounded">
+			<xs:element ref="ListItemStructure"/>
+		</xs:choice>
+	</xs:complexType>
+	<xs:complexType name="CT_ListItem">
+		<xs:choice minOccurs="0" maxOccurs="unbounded">
+			<xs:element ref="ParagraphStructure"/>
+			<xs:element ref="ListStructure"/>
+			<xs:element ref="TableStructure"/>
+			<xs:element ref="FigureStructure"/>
+		</xs:choice>
+		<xs:attributeGroup ref="AG_ListItem"/>
+	</xs:complexType>
+	<xs:complexType name="CT_Figure">
+		<xs:choice minOccurs="0" maxOccurs="unbounded">
+			<xs:element ref="NamedElement"/>
+		</xs:choice>
+	</xs:complexType>
+	<xs:complexType name="CT_NamedElement">
+		<xs:attributeGroup ref="AG_NamedElement"/>
+	</xs:complexType>
+	<!-- Simple Types -->
+	<!-- FragmentType enumeration -->
+	<xs:simpleType name="ST_FragmentType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Content"/>
+			<xs:enumeration value="Header"/>
+			<xs:enumeration value="Footer"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ST_Location">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="([0-9][0-9]*)(\,[0-9][0-9]*)*"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ST_TableSpan">
+		<xs:restriction base="xs:int">
+			<xs:minInclusive value="1"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ST_ElementIndex">
+		<xs:restriction base="xs:int">
+			<xs:minInclusive value="0"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<!-- Elements -->
+	<xs:element name="StoryFragments" type="CT_StoryFragments">
+		</xs:element>
+	<xs:element name="StoryFragment" type="CT_StoryFragment">
+		</xs:element>
+	<xs:element name="StoryBreak" type="CT_Break">
+		</xs:element>
+	<xs:element name="SectionStructure" type="CT_Section">
+		</xs:element>
+	<xs:element name="ParagraphStructure" type="CT_Paragraph">
+		</xs:element>
+	<xs:element name="TableStructure" type="CT_Table">
+		</xs:element>
+	<xs:element name="TableRowGroupStructure" type="CT_TableRowGroup">
+		</xs:element>
+	<xs:element name="TableRowStructure" type="CT_TableRow">
+		</xs:element>
+	<xs:element name="TableCellStructure" type="CT_TableCell">
+		</xs:element>
+	<xs:element name="ListStructure" type="CT_List">
+		</xs:element>
+	<xs:element name="ListItemStructure" type="CT_ListItem">
+		</xs:element>
+	<xs:element name="FigureStructure" type="CT_Figure">
+		</xs:element>
+	<xs:element name="NamedElement" type="CT_NamedElement">
+		</xs:element>
+	<!-- Attribute Groups -->
+	<xs:attributeGroup name="AG_StoryFragment">
+		<xs:attribute name="StoryName" type="xs:string" use="optional">
+			</xs:attribute>
+		<xs:attribute name="FragmentName" type="xs:string" use="optional">
+			</xs:attribute>
+		<xs:attribute name="FragmentType" type="ST_FragmentType" use="required">
+			</xs:attribute>
+	</xs:attributeGroup>
+	<xs:attributeGroup name="AG_TableCell">
+		<xs:attribute name="RowSpan" type="ST_TableSpan" use="optional">
+			</xs:attribute>
+		<xs:attribute name="ColumnSpan" type="ST_TableSpan" use="optional">
+			</xs:attribute>
+	</xs:attributeGroup>
+	<xs:attributeGroup name="AG_ListItem">
+		<xs:attribute name="Marker" type="ST_NameUnique" use="optional">
+			</xs:attribute>
+	</xs:attributeGroup>
+	<xs:attributeGroup name="AG_NamedElement">
+		<xs:attribute name="NameReference" type="ST_Name" use="required">
+			</xs:attribute>
+	</xs:attributeGroup>
+</xs:schema>
+ ¬  Œ Ôæ   ë   lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet          PADPADP÷r∑¬E9∑f       ¯   r d k e y . x s d     s 0 s c h e m a . x s d ¿   ª  <?xml version="1.0" encoding="utf-8"?>
+<xs:schema targetNamespace="http://schemas.microsoft.com/xps/2005/06/resourcedictionary-key" xmlns="http://schemas.microsoft.com/xps/2005/06/resourcedictionary-key" xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" blockDefault="#all">
+            
+  <xs:attribute name="Key">
+    <xs:simpleType>
+      <xs:restriction base="xs:string">
+        <!-- A Key (pattern restriction according to XPS spec) -->
+        <xs:pattern value="(\p{Lu}|\p{Ll}|\p{Lt}|\p{Lo}|\p{Nl}|_)(\p{Lu}|\p{Ll}|\p{Lt}|\p{Lo}|\p{Nl}|\p{Mn}|\p{Mc}|\p{Nd}|_)*"/>
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:attribute>
+            
+</xs:schema>
+ cæ  <?xml version="1.0" encoding="utf-8"?>
+<xs:schema targetNamespace="http://schemas.microsoft.com/xps/2005/06" xmlns="http://schemas.microsoft.com/xps/2005/06" xmlns:mstns="http://tempuri.org/XMLSchema.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:x="http://schemas.microsoft.com/xps/2005/06/resourcedictionary-key" elementFormDefault="qualified" blockDefault="#all">
+
+    <xs:import namespace="http://schemas.microsoft.com/xps/2005/06/resourcedictionary-key"/>
+    <xs:import namespace="http://www.w3.org/XML/1998/namespace"/>
+
+    <!-- Names used for types and groups:
+
+        ST_*        simpleType
+        CT_*        complexType
+        G_*            group
+        AG_*        attributeGroup
+
+    -->
+
+    <!-- Individual real number patterns
+    All patterns using numbers now use <whitespace value="collapse">. As a result, any whitespace in the pattern can be
+    expressed as:
+    mandatory whitespace, one or more:  " "
+    optional whitespace, zero or more:  " ?"
+
+    For better readability, each pattern using numbers is also described in a comment using
+    one of the following pattern designators.
+
+    The actual patterns are generated by replacement by the schema publication process.
+    -->
+    <!--DEFINE [pint]       "([1-9][0-9]*)" -->
+    <!--DEFINE [uint]       "([0-9]+)" -->
+    <!--DEFINE [dec]        "(\-?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+)))" -->
+    <!--DEFINE [rn]         "((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)" -->
+    <!--DEFINE [prn]        "(\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)" -->
+    <!--DEFINE [scs]        "( ?, ?)" -->
+
+
+
+        <!-- Complex Types -->
+    <xs:complexType name="CT_MatrixTransform">
+        <xs:attributeGroup ref="AG_MatrixTransform"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_SolidColorBrush">
+        <xs:attributeGroup ref="AG_Brush"/>
+        <xs:attributeGroup ref="AG_SolidColorBrush"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_ImageBrush">
+        <xs:sequence>
+            <xs:element ref="ImageBrush.Transform" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="AG_Brush"/>
+        <xs:attributeGroup ref="AG_TileBrush"/>
+        <xs:attributeGroup ref="AG_ImageBrush"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_VisualBrush">
+        <xs:sequence>
+            <xs:element ref="VisualBrush.Transform" minOccurs="0"/>
+            <xs:element ref="VisualBrush.Visual" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="AG_Brush"/>
+        <xs:attributeGroup ref="AG_TileBrush"/>
+        <xs:attributeGroup ref="AG_VisualBrush"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_LinearGradientBrush">
+        <xs:sequence>
+            <xs:element ref="LinearGradientBrush.Transform" minOccurs="0"/>
+            <xs:element ref="LinearGradientBrush.GradientStops"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="AG_Brush"/>
+        <xs:attributeGroup ref="AG_GradientBrush"/>
+        <xs:attributeGroup ref="AG_LinearGradientBrush"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_RadialGradientBrush">
+        <xs:sequence>
+            <xs:element ref="RadialGradientBrush.Transform" minOccurs="0"/>
+            <xs:element ref="RadialGradientBrush.GradientStops"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="AG_Brush"/>
+        <xs:attributeGroup ref="AG_GradientBrush"/>
+        <xs:attributeGroup ref="AG_RadialGradientBrush"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_GradientStop">
+        <xs:attributeGroup ref="AG_GradientStop"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_PathGeometry">
+        <xs:sequence>
+            <xs:element ref="PathGeometry.Transform" minOccurs="0"/>
+            <xs:element ref="PathFigure" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="AG_PathGeometry"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_Glyphs">
+        <xs:sequence>
+            <xs:element ref="Glyphs.RenderTransform" minOccurs="0"/>
+            <xs:element ref="Glyphs.Clip" minOccurs="0"/>
+            <xs:element ref="Glyphs.OpacityMask" minOccurs="0"/>
+            <xs:element ref="Glyphs.Fill" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="AG_Glyphs"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_Path">
+        <xs:sequence>
+            <xs:element ref="Path.RenderTransform" minOccurs="0"/>
+            <xs:element ref="Path.Clip" minOccurs="0"/>
+            <xs:element ref="Path.OpacityMask" minOccurs="0"/>
+            <xs:element ref="Path.Fill" minOccurs="0"/>
+            <xs:element ref="Path.Stroke" minOccurs="0"/>
+            <xs:element ref="Path.Data" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="AG_Path"/>
+        <xs:attributeGroup ref="AG_AutomationProvider"/>
+        <xs:attributeGroup ref="AG_SnapsToDevicePixels"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_PathFigure">
+        <xs:sequence>
+            <xs:choice maxOccurs="unbounded">
+                <xs:element ref="PolyLineSegment"/>
+                <xs:element ref="PolyBezierSegment"/>
+                <xs:element ref="ArcSegment"/>
+                <xs:element ref="PolyQuadraticBezierSegment"/>
+            </xs:choice>
+        </xs:sequence>
+        <xs:attributeGroup ref="AG_PathFigure"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_ArcSegment">
+        <xs:attributeGroup ref="AG_ArcSegment"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_PolyQuadraticBezierSegment">
+        <xs:attributeGroup ref="AG_PolyQuadraticBezierSegment"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_PolyLineSegment">
+        <xs:attributeGroup ref="AG_PolyLineSegment"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_PolyBezierSegment">
+        <xs:attributeGroup ref="AG_PolyBezierSegment"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_Canvas">
+        <xs:sequence>
+            <xs:element ref="Canvas.Resources" minOccurs="0"/>
+            <xs:element ref="Canvas.RenderTransform" minOccurs="0"/>
+            <xs:element ref="Canvas.Clip" minOccurs="0"/>
+            <xs:element ref="Canvas.OpacityMask" minOccurs="0"/>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element ref="Path"/>
+                <xs:element ref="Glyphs"/>
+                <xs:element ref="Canvas"/>
+            </xs:choice>
+        </xs:sequence>
+        <xs:attributeGroup ref="AG_Canvas"/>
+        <xs:attributeGroup ref="AG_AutomationProvider"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_ResourceDictionary">
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element ref="ImageBrush"/>
+            <xs:element ref="LinearGradientBrush"/>
+            <xs:element ref="RadialGradientBrush"/>
+            <xs:element ref="VisualBrush"/>
+            <xs:element ref="SolidColorBrush"/>
+            <xs:element ref="MatrixTransform"/>
+            <xs:element ref="PathGeometry"/>
+            <xs:element ref="Path"/>
+            <xs:element ref="Glyphs"/>
+            <xs:element ref="Canvas"/>
+        </xs:choice>
+        <xs:attributeGroup ref="AG_ResourceDictionary"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_FixedPage">
+        <xs:sequence>
+            <xs:element ref="FixedPage.Resources" minOccurs="0"/>
+            <xs:choice minOccurs="0" maxOccurs="unbounded">
+                <xs:element ref="Path"/>
+                <xs:element ref="Glyphs"/>
+                <xs:element ref="Canvas"/>
+            </xs:choice>
+        </xs:sequence>
+        <xs:attributeGroup ref="AG_FixedPage"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_FixedDocument">
+        <xs:sequence>
+            <xs:element ref="PageContent" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="CT_PageContent">
+        <xs:sequence>
+            <xs:element ref="PageContent.LinkTargets" minOccurs="0"/>
+        </xs:sequence>
+        <xs:attributeGroup ref="AG_PageContent"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_FixedDocumentSequence">
+        <xs:sequence>
+            <xs:element ref="DocumentReference" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="CT_DocumentReference">
+        <xs:attributeGroup ref="AG_DocumentReference"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_LinkTarget">
+        <xs:attributeGroup ref="AG_LinkTarget"/>
+    </xs:complexType>
+
+    <xs:complexType name="CT_CP_LinkTargets">
+        <xs:sequence>
+            <xs:element ref="LinkTarget" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="CT_CP_Transform">
+        <xs:sequence>
+            <xs:element ref="MatrixTransform"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="CT_CP_Visual">
+        <xs:choice>
+            <xs:element ref="Path"/>
+            <xs:element ref="Glyphs"/>
+            <xs:element ref="Canvas"/>
+        </xs:choice>
+    </xs:complexType>
+
+    <xs:complexType name="CT_CP_GradientStops">
+        <xs:sequence>
+            <xs:element ref="GradientStop" minOccurs="2" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="CT_CP_Geometry">
+        <xs:sequence>
+        <xs:element ref="PathGeometry"/>
+      </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="CT_CP_Brush">
+        <xs:choice>
+            <xs:element ref="ImageBrush"/>
+            <xs:element ref="LinearGradientBrush"/>
+            <xs:element ref="RadialGradientBrush"/>
+            <xs:element ref="SolidColorBrush"/>
+            <xs:element ref="VisualBrush"/>
+        </xs:choice>
+    </xs:complexType>
+
+    <xs:complexType name="CT_CP_Resources">
+        <xs:sequence minOccurs="0">
+            <xs:element ref="ResourceDictionary"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <!-- Root elements -->
+    <xs:element name="MatrixTransform" type="CT_MatrixTransform">
+        </xs:element>
+
+    <xs:element name="SolidColorBrush" type="CT_SolidColorBrush">
+        </xs:element>
+
+    <xs:element name="ImageBrush" type="CT_ImageBrush">
+        </xs:element>
+
+    <xs:element name="VisualBrush" type="CT_VisualBrush">
+        </xs:element>
+
+    <xs:element name="LinearGradientBrush" type="CT_LinearGradientBrush">
+        </xs:element>
+
+    <xs:element name="RadialGradientBrush" type="CT_RadialGradientBrush">
+        </xs:element>
+
+    <xs:element name="Glyphs" type="CT_Glyphs">
+        </xs:element>
+
+    <xs:element name="Path" type="CT_Path">
+        </xs:element>
+
+    <xs:element name="Canvas" type="CT_Canvas">
+        </xs:element>
+
+    <xs:element name="GradientStop" type="CT_GradientStop">
+        </xs:element>
+
+    <xs:element name="ResourceDictionary" type="CT_ResourceDictionary">
+        </xs:element>
+
+    <xs:element name="PathGeometry" type="CT_PathGeometry">
+        </xs:element>
+
+    <xs:element name="PathFigure" type="CT_PathFigure">
+        </xs:element>
+
+    <xs:element name="PolyLineSegment" type="CT_PolyLineSegment">
+        </xs:element>
+
+    <xs:element name="ArcSegment" type="CT_ArcSegment">
+        </xs:element>
+
+    <xs:element name="PolyBezierSegment" type="CT_PolyBezierSegment">
+        </xs:element>
+
+    <xs:element name="PolyQuadraticBezierSegment" type="CT_PolyQuadraticBezierSegment">
+        </xs:element>
+
+    <xs:element name="FixedPage" type="CT_FixedPage">
+        </xs:element>
+
+    <xs:element name="FixedDocument" type="CT_FixedDocument">
+        </xs:element>
+
+    <xs:element name="PageContent" type="CT_PageContent">
+        </xs:element>
+
+    <xs:element name="FixedDocumentSequence" type="CT_FixedDocumentSequence">
+        </xs:element>
+
+    <xs:element name="DocumentReference" type="CT_DocumentReference">
+        </xs:element>
+
+    <xs:element name="LinkTarget" type="CT_LinkTarget">
+        </xs:element>
+
+    <xs:element name="PageContent.LinkTargets" type="CT_CP_LinkTargets">
+        </xs:element>
+
+    <xs:element name="ImageBrush.Transform" type="CT_CP_Transform">
+        </xs:element>
+
+    <xs:element name="VisualBrush.Transform" type="CT_CP_Transform">
+        </xs:element>
+
+    <xs:element name="LinearGradientBrush.Transform" type="CT_CP_Transform">
+        </xs:element>
+
+    <xs:element name="RadialGradientBrush.Transform" type="CT_CP_Transform">
+        </xs:element>
+
+    <xs:element name="PathGeometry.Transform" type="CT_CP_Transform">
+        </xs:element>
+
+    <xs:element name="Glyphs.RenderTransform" type="CT_CP_Transform">
+        </xs:element>
+
+    <xs:element name="Path.RenderTransform" type="CT_CP_Transform">
+        </xs:element>
+
+    <xs:element name="Canvas.RenderTransform" type="CT_CP_Transform">
+        </xs:element>
+
+    <xs:element name="VisualBrush.Visual" type="CT_CP_Visual">
+        </xs:element>
+
+    <xs:element name="LinearGradientBrush.GradientStops" type="CT_CP_GradientStops">
+        </xs:element>
+
+    <xs:element name="RadialGradientBrush.GradientStops" type="CT_CP_GradientStops">
+        </xs:element>
+
+    <xs:element name="Glyphs.Clip" type="CT_CP_Geometry">
+        </xs:element>
+
+    <xs:element name="Path.Clip" type="CT_CP_Geometry">
+        </xs:element>
+
+    <xs:element name="Canvas.Clip" type="CT_CP_Geometry">
+        </xs:element>
+
+    <xs:element name="Glyphs.OpacityMask" type="CT_CP_Brush">
+        </xs:element>
+
+    <xs:element name="Path.OpacityMask" type="CT_CP_Brush">
+        </xs:element>
+
+    <xs:element name="Canvas.OpacityMask" type="CT_CP_Brush">
+        </xs:element>
+
+    <xs:element name="Glyphs.Fill" type="CT_CP_Brush">
+        </xs:element>
+
+    <xs:element name="Path.Fill" type="CT_CP_Brush">
+        </xs:element>
+
+    <xs:element name="Path.Data" type="CT_CP_Geometry">
+        </xs:element>
+
+    <xs:element name="Path.Stroke" type="CT_CP_Brush">
+        </xs:element>
+
+    <xs:element name="Canvas.Resources" type="CT_CP_Resources">
+        </xs:element>
+
+    <xs:element name="FixedPage.Resources" type="CT_CP_Resources">
+        </xs:element>
+
+    <xs:attributeGroup name="AG_GradientStop">
+        <xs:attribute name="Color" type="ST_Color" use="required">
+            </xs:attribute>
+        <xs:attribute name="Offset" type="ST_Double" use="required">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_Brush">
+        <xs:attribute name="Opacity" type="ST_ZeroOne">
+            </xs:attribute>
+        <xs:attribute ref="x:Key"/>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_TileBrush">
+        <xs:attribute name="Transform" type="ST_RscRefMatrix">
+            </xs:attribute>
+        <xs:attribute name="Viewbox" type="ST_ViewBox" use="required">
+            </xs:attribute>
+        <xs:attribute name="Viewport" type="ST_ViewBox" use="required">
+            </xs:attribute>
+        <xs:attribute name="TileMode" type="ST_TileMode">
+            </xs:attribute>
+        <xs:attribute name="ViewboxUnits" type="ST_ViewUnits" use="required" fixed="Absolute">
+            </xs:attribute>
+        <xs:attribute name="ViewportUnits" type="ST_ViewUnits" use="required" fixed="Absolute">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_VisualBrush">
+        <xs:attribute name="Visual" type="ST_RscRef">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_GradientBrush">
+        <xs:attribute name="ColorInterpolationMode" type="ST_ClrIntMode">
+            </xs:attribute>
+        <xs:attribute name="SpreadMethod" type="ST_SpreadMethod">
+            </xs:attribute>
+        <xs:attribute name="MappingMode" type="ST_MappingMode" use="required" fixed="Absolute">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_SolidColorBrush">
+        <xs:attribute name="Color" type="ST_Color" use="required">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_ImageBrush">
+        <xs:attribute name="ImageSource" type="ST_UriCtxBmp" use="required">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_LinearGradientBrush">
+        <xs:attribute name="Transform" type="ST_RscRefMatrix">
+            </xs:attribute>
+        <xs:attribute name="StartPoint" type="ST_Point" use="required">
+            </xs:attribute>
+        <xs:attribute name="EndPoint" type="ST_Point" use="required">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_RadialGradientBrush">
+        <xs:attribute name="Transform" type="ST_RscRefMatrix">
+            </xs:attribute>
+        <xs:attribute name="Center" type="ST_Point" use="required">
+            </xs:attribute>
+        <xs:attribute name="GradientOrigin" type="ST_Point" use="required">
+            </xs:attribute>
+        <xs:attribute name="RadiusX" type="ST_GEZero" use="required">
+            </xs:attribute>
+        <xs:attribute name="RadiusY" type="ST_GEZero" use="required">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_PathGeometry">
+        <xs:attribute name="Figures" type="ST_AbbrGeom">
+            </xs:attribute>
+        <xs:attribute name="FillRule" type="ST_FillRule">
+            </xs:attribute>
+        <xs:attribute name="Transform" type="ST_RscRefMatrix">
+            </xs:attribute>
+        <xs:attribute ref="x:Key"/>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_ResourceDictionary">
+        <xs:attribute name="Source" type="xs:anyURI">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_PolyLineSegment">
+        <xs:attribute name="Points" type="ST_Points" use="required">
+            </xs:attribute>
+        <xs:attribute name="IsStroked" type="ST_Boolean">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_ArcSegment">
+        <xs:attribute name="Point" type="ST_Point" use="required">
+            </xs:attribute>
+        <xs:attribute name="Size" type="ST_PointGE0" use="required">
+            </xs:attribute>
+        <xs:attribute name="RotationAngle" type="ST_Double" use="required">
+            </xs:attribute>
+        <xs:attribute name="IsLargeArc" type="ST_Boolean" use="required">
+            </xs:attribute>
+        <xs:attribute name="SweepDirection" type="ST_SweepDirection" use="required">
+            </xs:attribute>
+        <xs:attribute name="IsStroked" type="ST_Boolean">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_PolyBezierSegment">
+        <xs:attribute name="Points" type="ST_Points" use="required">
+            </xs:attribute>
+        <xs:attribute name="IsStroked" type="ST_Boolean">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_PolyQuadraticBezierSegment">
+        <xs:attribute name="Points" type="ST_Points" use="required">
+            </xs:attribute>
+        <xs:attribute name="IsStroked" type="ST_Boolean">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_Glyphs">
+        <xs:attribute name="BidiLevel">
+            <xs:simpleType>
+              <xs:restriction base="xs:integer">
+                <xs:minInclusive value="0"/>
+                <xs:maxInclusive value="61"/>
+              </xs:restriction>
+            </xs:simpleType>
+            </xs:attribute>
+        <xs:attribute name="CaretStops" type="ST_CaretStops">
+            </xs:attribute>
+        <xs:attribute name="DeviceFontName" type="ST_UnicodeString">
+            </xs:attribute>
+        <xs:attribute name="Fill" type="ST_RscRefColor">
+            </xs:attribute>
+        <xs:attribute name="FontRenderingEmSize" type="ST_GEZero" use="required">
+            </xs:attribute>
+        <xs:attribute name="FontUri" type="xs:anyURI" use="required">
+            </xs:attribute>
+        <xs:attribute name="OriginX" type="ST_Double" use="required">
+            </xs:attribute>
+        <xs:attribute name="OriginY" type="ST_Double" use="required">
+            </xs:attribute>
+        <xs:attribute name="IsSideways" type="ST_Boolean">
+            </xs:attribute>
+        <xs:attribute name="Indices" type="ST_Indices">
+            </xs:attribute>
+        <xs:attribute name="UnicodeString" type="ST_UnicodeString">
+            </xs:attribute>
+        <xs:attribute name="StyleSimulations" type="ST_StyleSimulations">
+            </xs:attribute>
+        <xs:attribute name="RenderTransform" type="ST_RscRefMatrix">
+            </xs:attribute>
+        <xs:attribute name="Clip" type="ST_RscRefAbbrGeomF">
+            </xs:attribute>
+        <xs:attribute name="Opacity" type="ST_ZeroOne">
+            </xs:attribute>
+        <xs:attribute name="OpacityMask" type="ST_RscRef">
+            </xs:attribute>
+        <xs:attribute name="Name" type="ST_Name">
+            </xs:attribute>
+        <xs:attribute name="FixedPage.NavigateUri" type="xs:anyURI">
+            </xs:attribute>
+        <xs:attribute ref="xml:lang">
+            </xs:attribute>
+        <xs:attribute ref="x:Key"/>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_Path">
+        <xs:attribute name="Data" type="ST_RscRefAbbrGeomF">
+            </xs:attribute>
+        <xs:attribute name="Fill" type="ST_RscRefColor">
+            </xs:attribute>
+        <xs:attribute name="RenderTransform" type="ST_RscRefMatrix">
+            </xs:attribute>
+        <xs:attribute name="Clip" type="ST_RscRefAbbrGeomF">
+            </xs:attribute>
+        <xs:attribute name="Opacity" type="ST_ZeroOne">
+            </xs:attribute>
+        <xs:attribute name="OpacityMask" type="ST_RscRef">
+            </xs:attribute>
+        <xs:attribute name="Stroke" type="ST_RscRefColor">
+            </xs:attribute>
+        <xs:attribute name="StrokeDashArray" type="ST_EvenArrayPos">
+            </xs:attribute>
+        <xs:attribute name="StrokeDashCap" type="ST_DashCap">
+            </xs:attribute>
+        <xs:attribute name="StrokeDashOffset" type="ST_Double">
+            </xs:attribute>
+        <xs:attribute name="StrokeEndLineCap" type="ST_LineCap">
+            </xs:attribute>
+        <xs:attribute name="StrokeStartLineCap" type="ST_LineCap">
+            </xs:attribute>
+        <xs:attribute name="StrokeLineJoin" type="ST_LineJoin">
+            </xs:attribute>
+        <xs:attribute name="StrokeMiterLimit" type="ST_GEOne">
+            </xs:attribute>
+        <xs:attribute name="StrokeThickness" type="ST_GEZero">
+            </xs:attribute>
+        <xs:attribute name="Name" type="ST_Name">
+            </xs:attribute>
+        <xs:attribute name="FixedPage.NavigateUri" type="xs:anyURI">
+            </xs:attribute>
+        <xs:attribute ref="xml:lang">
+            </xs:attribute>
+        <xs:attribute ref="x:Key"/>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_PathFigure">
+        <xs:attribute name="IsClosed" type="ST_Boolean">
+            </xs:attribute>
+        <xs:attribute name="StartPoint" type="ST_Point" use="required">
+            </xs:attribute>
+        <xs:attribute name="IsFilled" type="ST_Boolean">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_Canvas">
+        <xs:attribute name="RenderTransform" type="ST_RscRefMatrix">
+            </xs:attribute>
+        <xs:attribute name="Clip" type="ST_RscRefAbbrGeomF">
+            </xs:attribute>
+        <xs:attribute name="Opacity" type="ST_ZeroOne">
+            </xs:attribute>
+        <xs:attribute name="OpacityMask" type="ST_RscRef">
+            </xs:attribute>
+        <xs:attribute name="Name" type="ST_Name">
+            </xs:attribute>
+        <xs:attribute name="RenderOptions.EdgeMode" type="ST_EdgeMode">
+            </xs:attribute>
+        <xs:attribute name="FixedPage.NavigateUri" type="xs:anyURI">
+            </xs:attribute>
+        <xs:attribute ref="xml:lang">
+            </xs:attribute>
+        <xs:attribute ref="x:Key"/>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_PageContent">
+        <xs:attribute name="Source" type="xs:anyURI" use="required">
+            </xs:attribute>
+        <xs:attribute name="Width" type="ST_GEOne">
+            </xs:attribute>
+        <xs:attribute name="Height" type="ST_GEOne">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_LinkTarget">
+        <xs:attribute name="Name" type="ST_NUName" use="required">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_DocumentReference">
+        <xs:attribute name="Source" type="xs:anyURI" use="required">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_MatrixTransform">
+        <xs:attribute name="Matrix" type="ST_Matrix" use="required">
+            </xs:attribute>
+        <xs:attribute ref="x:Key"/>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_FixedPage">
+        <xs:attribute name="Width" type="ST_GEOne" use="required">
+            </xs:attribute>
+        <xs:attribute name="Height" type="ST_GEOne" use="required">
+            </xs:attribute>
+        <xs:attribute name="ContentBox" type="ST_ContentBox">
+            </xs:attribute>
+        <xs:attribute name="BleedBox" type="ST_BleedBox">
+            </xs:attribute>
+        <xs:attribute ref="xml:lang" use="required">
+            </xs:attribute>
+        <xs:attribute name="Name" type="ST_Name">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_AutomationProvider">
+        <xs:attribute name="AutomationProperties.Name" type="xs:string">
+            </xs:attribute>
+        <xs:attribute name="AutomationProperties.HelpText" type="xs:string">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <xs:attributeGroup name="AG_SnapsToDevicePixels">
+        <xs:attribute name="SnapsToDevicePixels" type="ST_Boolean">
+            </xs:attribute>
+    </xs:attributeGroup>
+
+    <!-- Simple data types -->
+    <!-- A unique Name (ID with pattern restriction according to XPS spec) -->
+    <xs:simpleType name="ST_Name">
+        <xs:restriction base="xs:ID">
+            <xs:pattern value="(\p{Lu}|\p{Ll}|\p{Lt}|\p{Lo}|\p{Nl}|_)(\p{Lu}|\p{Ll}|\p{Lt}|\p{Lo}|\p{Nl}|\p{Mn}|\p{Mc}|\p{Nd}|_)*"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- A non-unique Name (ID with pattern restriction according to XPS spec) -->
+    <xs:simpleType name="ST_NUName">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="(\p{Lu}|\p{Ll}|\p{Lt}|\p{Lo}|\p{Nl}|_)(\p{Lu}|\p{Ll}|\p{Lt}|\p{Lo}|\p{Nl}|\p{Mn}|\p{Mc}|\p{Nd}|_)*"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Boolean with true and false only (no 0 or 1) -->
+    <xs:simpleType name="ST_Boolean">
+        <xs:restriction base="xs:boolean">
+            <xs:pattern value="true|false"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- real number from 0.0 to 1.0 inclusive -->
+    <xs:simpleType name="ST_ZeroOne">
+        <xs:restriction base="ST_Double">
+            <xs:minInclusive value="0.0"/>
+            <xs:maxInclusive value="1.0"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- positive real number -->
+    <xs:simpleType name="ST_GEZero">
+        <xs:restriction base="ST_Double">
+            <xs:minInclusive value="0.0"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- positive real number, equal or greater than one -->
+    <xs:simpleType name="ST_GEOne">
+        <xs:restriction base="ST_Double">
+            <xs:minInclusive value="1.0"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Double -->
+    <xs:simpleType name="ST_Double">
+        <xs:restriction base="xs:double">
+            <xs:whiteSpace value="collapse"/>
+<!--
+            <xs:pattern value="[rn]"/>
+-->
+            <xs:pattern value="((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Point: 2 numbers, separated by , and arbitrary whitespace -->
+    <xs:simpleType name="ST_Point">
+        <xs:restriction base="xs:string">
+            <xs:whiteSpace value="collapse"/>
+<!--
+            <xs:pattern value="[rn][scs][rn]"/>
+-->
+            <xs:pattern value="((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- PointGE0: 2 non-negative numbers, separated by , and arbitrary whitespace -->
+    <xs:simpleType name="ST_PointGE0">
+        <xs:restriction base="xs:string">
+            <xs:whiteSpace value="collapse"/>
+<!--
+            <xs:pattern value="[prn][scs][prn]"/>
+-->
+            <xs:pattern value="(\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)(\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Points: List of ST_Point, separated by arbitrary whitespace -->
+    <xs:simpleType name="ST_Points">
+        <xs:restriction base="xs:string">
+            <xs:whiteSpace value="collapse"/>
+<!--
+            <xs:pattern value="[rn][scs][rn]( [rn][scs][rn])*"/>
+-->
+            <xs:pattern value="((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))*"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- EvenArray: List with even number of entries of non-negative numbers.   -->
+    <xs:simpleType name="ST_EvenArrayPos">
+        <xs:restriction base="xs:string">
+            <xs:whiteSpace value="collapse"/>
+<!--
+            <xs:pattern value="[prn] [prn]( [prn] [prn])*"/>
+-->
+            <xs:pattern value="(\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?) (\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( (\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?) (\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))*"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Array: List of numbers.  -->
+    <xs:simpleType name="ST_Array">
+        <xs:restriction base="xs:string">
+            <xs:whiteSpace value="collapse"/>
+<!--
+            <xs:pattern value="([rn] ?)*"/>
+-->
+            <xs:pattern value="(((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?) ?)*"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- ViewBox: 4 numbers, separated by , and arbitrary whitespace. Second number pair must be non-negative -->
+    <xs:simpleType name="ST_ViewBox">
+        <xs:restriction base="xs:string">
+            <xs:whiteSpace value="collapse"/>
+<!--
+            <xs:pattern value="[rn][scs][rn][scs][prn][scs][prn]"/>
+-->
+            <xs:pattern value="((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)(\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)(\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- ContentBox: 4 non-negative numbers, separated by commas and arbitrary whitespace -->
+    <xs:simpleType name="ST_ContentBox">
+        <xs:restriction base="xs:string">
+            <xs:whiteSpace value="collapse"/>
+<!--
+            <xs:pattern value="[prn][scs][prn][scs][prn][scs][prn]"/>
+-->
+            <xs:pattern value="(\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)(\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)(\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)(\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- BleedBox: 4 numbers, separated by , and arbitrary whitespace. Second number pair must be non-negative -->
+        <xs:simpleType name="ST_BleedBox">
+        <xs:restriction base="xs:string">
+            <xs:whiteSpace value="collapse"/>
+<!--
+            <xs:pattern value="[rn][scs][rn][scs][prn][scs][prn]"/>
+-->
+            <xs:pattern value="((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)(\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)(\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Bare Matrix form: 6 numbers separated by , and arbitrary whitespace -->
+    <xs:simpleType name="ST_Matrix">
+        <xs:restriction base="xs:string">
+            <xs:whiteSpace value="collapse"/>
+<!--
+            <xs:pattern value="[rn][scs][rn][scs][rn][scs][rn][scs][rn][scs][rn]"/>
+-->
+            <xs:pattern value="((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Color: 6 or 8 hex digits -->
+    <xs:simpleType name="ST_Color">
+        <xs:restriction base="xs:string">
+            <!-- The pattern restriction does not check for scRGB gamut -->
+            <!-- The pattern restriction does not check for color profile URI validity -->
+            <xs:whiteSpace value="collapse"/>
+<!--
+            <xs:pattern value="(#([0-9a-fA-F]{2})?[0-9a-fA-F]{6})|\
+                                (sc# ?[dec][scs][dec][scs][dec]([scs][dec])?)|\
+                                (ContextColor +[\S]+ ?[dec]([scs][dec]){3,8})"/>
+-->
+            <xs:pattern value="(#([0-9a-fA-F]{2})?[0-9a-fA-F]{6})|(sc# ?(\-?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+)))( ?, ?)(\-?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+)))( ?, ?)(\-?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+)))(( ?, ?)(\-?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))))?)|(ContextColor +[\S]+ ?(\-?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+)))(( ?, ?)(\-?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+)))){3,8})"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Indices grammar for Glyphs.CaretStops -->
+    <xs:simpleType name="ST_CaretStops">
+        <xs:restriction base="xs:string">
+            <xs:whiteSpace value="collapse"/>
+            <xs:pattern value="[0-9A-Fa-f]*"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Indices grammar for Glyphs.Indices -->
+    <xs:simpleType name="ST_Indices">
+        <xs:restriction base="xs:string">
+            <xs:whiteSpace value="collapse"/>
+<!--
+            <xs:pattern value="(\
+                                ((\([pint](:[pint])?\))?[uint])?\
+                                (,[prn]?(,[rn]?(,[rn])?)?)?\
+                                )\
+                                (;\
+                                    ((\([pint](:[pint])?\))?[uint])?\
+                                    (,[prn]?(,[rn]?(,[rn])?)?)?\
+                                )*" />
+-->
+            <xs:pattern value="(((\(([1-9][0-9]*)(:([1-9][0-9]*))?\))?([0-9]+))?(,(\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)?(,((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)?(,((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))?)?)?)(;((\(([1-9][0-9]*)(:([1-9][0-9]*))?\))?([0-9]+))?(,(\+?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)?(,((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)?(,((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))?)?)?)*"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- UnicodeString grammar -->
+    <xs:simpleType name="ST_UnicodeString">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="(([^\{]|(\{\})).*)?"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Abbreviated Geometry grammar for Path.Data , clip and Geometries -->
+    <xs:simpleType name="ST_AbbrGeomF">
+        <xs:restriction base="xs:string">
+            <xs:whiteSpace value="collapse"/>
+<!--
+            <xs:pattern value="(F ?(0|1))?\
+                                ( ?(M|m)( ?[rn][scs][rn]))\
+                                (\
+                                    ( ?(M|m)( ?[rn][scs][rn]))|\
+                                    ( ?(L|l)( ?[rn][scs][rn])( [rn][scs][rn])*)|\
+                                    ( ?(H|h|V|v)( ?[rn])( [rn])*)|\
+                                    ( ?(Q|q|S|s)( ?[rn][scs][rn] [rn][scs][rn])(( [rn][scs][rn]){2})*)|\
+                                    ( ?(C|c)( ?[rn][scs][rn]( [rn][scs][rn]){2})(( [rn][scs][rn]){3})*)|\
+                                    ( ?(A|a)( ?[rn][scs][rn] [rn] [0-1] [0-1] [rn][scs][rn])\
+                                                    ( [rn][scs][rn] [rn] [0-1] [0-1] [rn][scs][rn])*)|\
+                                    ( ?(Z|z))\
+                                )*"/>
+-->
+            <xs:pattern value="(F ?(0|1))?( ?(M|m)( ?((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)))(( ?(M|m)( ?((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)))|( ?(L|l)( ?((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))( ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))*)|( ?(H|h|V|v)( ?((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))( ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))*)|( ?(Q|q|S|s)( ?((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?) ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))(( ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)){2})*)|( ?(C|c)( ?((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)){2})(( ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)){3})*)|( ?(A|a)( ?((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?) ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?) [0-1] [0-1] ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))( ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?) ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?) [0-1] [0-1] ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))*)|( ?(Z|z)))*"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Abbreviated Geometry grammar for PatGeometry.Figures -->
+    <xs:simpleType name="ST_AbbrGeom">
+        <xs:restriction base="xs:string">
+            <xs:whiteSpace value="collapse"/>
+<!--
+            <xs:pattern value="( ?(M|m)( ?[rn][scs][rn]))\
+                                (\
+                                    ( ?(M|m)( ?[rn][scs][rn]))|\
+                                    ( ?(L|l)( ?[rn][scs][rn])( [rn][scs][rn])*)|\
+                                    ( ?(H|h|V|v)( ?[rn])( [rn])*)|\
+                                    ( ?(Q|q|S|s)( ?[rn][scs][rn] [rn][scs][rn])(( [rn][scs][rn]){2})*)|\
+                                    ( ?(C|c)( ?[rn][scs][rn]( [rn][scs][rn]){2})(( [rn][scs][rn]){3})*)|\
+                                    ( ?(A|a)( ?[rn][scs][rn] [rn] [0-1] [0-1] [rn][scs][rn])\
+                                                    ( [rn][scs][rn] [rn] [0-1] [0-1] [rn][scs][rn])*)|\
+                                    ( ?(Z|z))\
+                                )*"/>
+-->
+            <xs:pattern value="( ?(M|m)( ?((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)))(( ?(M|m)( ?((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)))|( ?(L|l)( ?((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))( ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))*)|( ?(H|h|V|v)( ?((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))( ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))*)|( ?(Q|q|S|s)( ?((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?) ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))(( ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)){2})*)|( ?(C|c)( ?((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)){2})(( ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)){3})*)|( ?(A|a)( ?((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?) ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?) [0-1] [0-1] ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))( ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?) ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?) [0-1] [0-1] ((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?)( ?, ?)((\-|\+)?(([0-9]+(\.[0-9]+)?)|(\.[0-9]+))((e|E)(\-|\+)?[0-9]+)?))*)|( ?(Z|z)))*"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Image reference via Uri -->
+    <xs:simpleType name="ST_UriImage">
+        <xs:restriction base="xs:anyURI">
+            <xs:pattern value="([^\{].*)?"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Image reference via ColorConvertedBitmap -->
+    <xs:simpleType name="ST_CtxBmpImage">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\{ColorConvertedBitmap[\s]+[\S]+[\s]+[\S]+\}[\s]*"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Image reference via Uri or ColorConvertedBitmap -->
+    <xs:simpleType name="ST_UriCtxBmp">
+        <xs:union memberTypes="ST_UriImage ST_CtxBmpImage"/>
+    </xs:simpleType>
+
+    <!-- Resource reference -->
+    <xs:simpleType name="ST_RscRef">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\{StaticResource[\s]+[\S]+\}[\s]*"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Resource reference OR Color -->
+    <xs:simpleType name="ST_RscRefColor">
+        <xs:union memberTypes="ST_Color ST_RscRef"/>
+    </xs:simpleType>
+
+    <!-- Resource reference OR Compact Matrix-->
+    <xs:simpleType name="ST_RscRefMatrix">
+        <xs:union memberTypes="ST_Matrix ST_RscRef"/>
+    </xs:simpleType>
+
+    <!-- Resource reference OR AbbrGeomF-->
+    <xs:simpleType name="ST_RscRefAbbrGeomF">
+        <xs:union memberTypes="ST_AbbrGeomF ST_RscRef"/>
+    </xs:simpleType>
+
+    <!-- Sweep Direction enumeration -->
+    <xs:simpleType name="ST_SweepDirection">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Clockwise"/>
+            <xs:enumeration value="Counterclockwise"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Dash Cap enumeration -->
+    <xs:simpleType name="ST_DashCap">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Flat"/>
+            <xs:enumeration value="Round"/>
+            <xs:enumeration value="Square"/>
+            <xs:enumeration value="Triangle"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Line Cap enumeration -->
+    <xs:simpleType name="ST_LineCap">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Flat"/>
+            <xs:enumeration value="Round"/>
+            <xs:enumeration value="Square"/>
+            <xs:enumeration value="Triangle"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Line Join enumeration -->
+    <xs:simpleType name="ST_LineJoin">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Miter"/>
+            <xs:enumeration value="Bevel"/>
+            <xs:enumeration value="Round"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Tile Mode enumeration -->
+    <xs:simpleType name="ST_TileMode">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="None"/>
+            <xs:enumeration value="Tile"/>
+            <xs:enumeration value="FlipX"/>
+            <xs:enumeration value="FlipY"/>
+            <xs:enumeration value="FlipXY"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Color Interpolation Mode enumeration -->
+    <xs:simpleType name="ST_ClrIntMode">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="ScRgbLinearInterpolation"/>
+            <xs:enumeration value="SRgbLinearInterpolation"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- SpreadMethod Mode enumeration -->
+    <xs:simpleType name="ST_SpreadMethod">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Pad"/>
+            <xs:enumeration value="Reflect"/>
+            <xs:enumeration value="Repeat"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- FillRule Mode enumeration -->
+    <xs:simpleType name="ST_FillRule">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="EvenOdd"/>
+            <xs:enumeration value="NonZero"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Edge Mode enumeration -->
+    <xs:simpleType name="ST_EdgeMode">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Aliased"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- Style Simulation Enumeration -->
+    <xs:simpleType name="ST_StyleSimulations">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="None"/>
+            <xs:enumeration value="ItalicSimulation"/>
+            <xs:enumeration value="BoldSimulation"/>
+            <xs:enumeration value="BoldItalicSimulation"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- ViewUnits Enumeration -->
+    <xs:simpleType name="ST_ViewUnits">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Absolute"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <!-- MappingMode Enumeration -->
+    <xs:simpleType name="ST_MappingMode">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Absolute"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>
+¿ç Œ Ôæ   ë   lSystem.Resources.ResourceReader, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089#System.Resources.RuntimeResourceSet   ñ      PADPADPéÄmåÄﬁßZÄıñ≠Ä!•Å¯|"ÅÎˇ@Åéì…ÅóAzÇ—åΩÇYÕÇw=ÉJ0É≤•ÉìµÆÉ¬è˘ÉH†DÑƒ˝yÑïüÑ÷}ÎÑëoÖˇÆÑÖP®©Ö
+Û/Ü∫ãÜòôçÜ7íÊÜb“á∫%áÅø á)Pá™˜SáFùbáûøüá3lßáj8¨á<?ºá^wŒáé‹Œá¸>‹á.Ûá9w‚à*7â5Xdâ˚€âO ˜â:’ä’®äª;#äõ)äÎxAä±eìäSùä%ãZÊãün4ã◊%¢ãBß≤ãVºã6+ÊãÜöå:å°åë»\çÚ8Åç–ZÉç[`ãç·#èççµ≥ç¥^ﬂçœñÏç∫VÒç‘y˛çQë"é&äcéíæóé·∫éTèÉ0è¯ΩTê/[ê‘í_ê‹ªdê˛_pê˘÷têÕ0 ê{Àê¬=ë√OëjÜëm§xëyíWBí—-8í>¬@íÑ“díˆ£tí∑>~í.–õíõ°´ím‘Øí√À=ì>zÉìµõ«ìx∑î>aGîqatî¸§õîT∏™î›‘ìïÔΩ§ï¿üÔï»Vñ€|2ñîc6ñz®6ñ◊Lñ¬ùáñ[2Øñ“÷#ó€+Dó]ˆ4òÀˇXò \íò©™òNÏò≠N¯ò¡√≠ô€∏ôQˇÅö7_Àöv	õ·_Jõ!ËjõÁ&îõUh‘õa¬^ú6ïáúÃtïúeπïú%ñú≤”ßúÅÓ—úb@·ú#Hù¬Vù´∆Xû-ÛZû3W∆ûHÊûµ¸4ü‡(äüwfŸüN†Î“u†Oó†¬ù´†^˛À†?D°“÷q°môÖ°+C‘°17Ä¢O†ç¢îåî¢7ã„¢î5£á»@£+áA£KQ£-,R£u>R£ˇÚZ£KÅf£n|£)¿ì£T)§p%5§k	6§mÇC§ãÛF§rIN§ttY§<J •N◊U•≥Ç€•ªõﬁ•-kR¶ %º¶ìº¶VM9ß]$Yß»=ŒßPá€ßˆ®‡-®qè® ‡ø®x„‚®&&h©–„à©ïÙ¬©©>™˛≤™⁄«À™Hº™\ìp´3√î´˝‰Á´–Y¨^S[¨øˇb¨x‘¨πœ’¨6¡Ô¨úú¬≠QD¯≠w˙BÆcq§Æöã¨Æ+‡ Æ6‘ÆNËØYç#ØÌ˙JØëçØ⁄U±Ø$Ú∞ÂC∞.˛Z∞©
+∞aø∞T˚«∞YÚ‡∞˝
+±ñfP±√+V± Œ}±4Ä±+⁄â±[‰™±Bhc≤ﬁe|≤X8©≤
+ı≤œk¸≤Ã2!≥9≥à≠¸≥Ñò¥…∆5¥Mé¥”Qú¥Ø©¥Sm∂¥>ˇΩ¥<˙¥àµî,Cµﬁd◊µ3s3∂fœƒ∂)¯∂mX∑≥m∑ë®o∑$mí∑Êø∑Ô«∑óﬁ∑}Í∑+∏•b>∏h5o∏ıæ∏“∏Ø~&π`™4π"˚eπ‹µkπLÉπR„‘π®ìT∫e®∫R π∫º–˙∫ÈóWªÍ4wª§'{ª¡™ÙªwíºJÈº]$º©Æº8´{ºP˚âº≠7£ºâººw’ºd◊!Ω¡ã4Ω[P˝Ω«∂!æ†@;æ¿ºxæN‚ˇæ 3øáJ|ø&ùîøùr∆ø‘⁄ø£Fc¿a4ú¿ÉUæ¿?ÜÛ¿#¡ÆM¡ımk¡‰WÙ¡Œ
+¬±6¬≤ﬁA¬‡kH¬bÛl¬°nê¬¬ÖÛ¬¸e√{ç√÷kÓ√Ì`˛√ÿ.ƒ´Gƒ´B`ƒ°îíƒ!ûƒJÆƒ ßœƒèŒÛƒP0L≈çoV≈“⁄è≈z©≈ Ëª≈G"∆˛€I∆1t∆9«¿”&«ÿπk«pœ¿«ÚA »æ÷Q»)T»W<_»ÕPò»mP…Ì@_…¡Üu…!4 ˝∞1 ±8 ÏÉB 6tR sÚø =eÀ¨ªÀSO∆À}‰À&RóÃÑ∏ÃU""Õ÷ΩpÕ€ qÕ-õÕÀ7∂ÕËî Œàí0Œ!Œ∞hÄŒ"˙Œ&B>œ'qaœÙ	Éœ}b-–ìà–Z∂À–V‰‘–F4æ“bÚÕ“ö∞¸“´”q|”¡"O”_T”¡Íp”9‘ÿ3*‘ì;‘à~‘–ó‘À’‡ª’mÃd’3∆Â’÷˚÷“Kk÷Ñ≤Ü÷WÆ¥÷£ÿ÷ûn¯÷Ù‹˛÷-ˇ÷çô
+◊f [◊“q◊ı;È◊∆
+ÿl9ÿq∏òÿ±H6ŸÕ«⁄+≠8⁄l}[⁄vç⁄m¡›⁄>êÔ⁄N€∑jZ€©õ€˘´b‹.∫Ç‹=∏…‹F]<›ŸRt›ºà›j\â›Ã •›¿ø?ﬁ™•GﬁÆKﬁÁﬁ1ó[ﬂh«1‡ g^‡¸ap‡Ÿ\Í‡ê‹0·BöQ·kÍò·aæÎ·Å‚√kz‚ò≥¡‚˜x„ˇ|ƒ„_‰n˘‰˘ùˇ‰≠@Â Âä◊"Â,!UÂF¡Â∆ÍÂÉ?kÊ[ÏqÊa∂Ê∫¿MÁ˚‚<Ë7¯ûËb∆™ËYŒ&ÈÃ/È_≤QÈF÷XÈçmiÈπ®yÈR9ÑÈL˛¨ÈS•ˆÈà_#Ípâ*ÍÀ=°ÍNí≠Í#÷Í∏HıÍˆ˚Í€IÎ=$Î´ÒÅÎ™πìÎ6ÁÎ…∞jÏbJyÏ}Œ—ÏO÷˝ÏH{jÌçÚπÌÌËÿÌBIÛÌzAÓCÓqRHÓ7
+YÓÜS°Ó4y¨Ó	Ö‡ÓÛ*ÔÊ«OÔ∂ÇñÔç“µÔ≤M¡ÔÏ˝Ô»du#!!a∫x“r€v‹ÜÒËﬂæÒêß«Ò ƒ’ÒczËÒ‹®Úﬁ=0Úb¿GÛ2^ÛŸ1ìÛA=¥ÛWü∏ÛËäˆÛ6  Ù∫¶$ÙrRRÙ	p[Ù¡~™ÙƒO¿ÙV ı,i ıáz%ıi]LıÁ|oınóıØ†©ı[Œırˆp&ˆä~ˆò–.ˆXÊ?ˆù?Rˆy‰hˆî√ˆDIŸˆÉex˜2<z˜â¶Ä˜dÂµ˜Ã¯€˜FE·˜Zö4˘‚•]˘ê7±˘ì¿˘ã7’˘ ∑ﬂ˘`π¸˘Å>˛˘†π˙ÚzB˙ç«Ω˙âõÃ˙-⁄˚O_˚„3˚Ùë⁄˚]»ﬁ˚<7}¸Ç€‘¸e⁄‹¸uEW˝ö™r˝#^|˝Rî¡˝AlÃ˝<F8˛ßRi˛„≤À˛Áˇ◊qFˇUˇÈÛ% c7; 	Ìd íõ{ 0ˆ Ñx0´_…8Ä%≠Rã.é»å» ÜíL‘îÑÛ∑¢C£EN´ZRÂ4ß5Ω†ÛÊí@,ë®¿>‡4ú´3√Aµ —ÄcÕ	q=	f@°	0±ß	ö∂
+|SÀ
+¯ÜŸg‡«ëÜ£ï/ÒÕq!å•,±ßp,pA@„bä`'diXµµe¶¿§ï! Œã#ÿi$¡kYﬁ—Ö¨*úR+Ëék∑†M…Ω›º¡ò6ﬁ˚_
+Hg‰j£—-“é)3Ÿ˝Fˆ√føŸêŒÂgéÍB“Ç”	{/ Ü_∞æöJ£cÕΩä’ÉÃCÍ6Qè UŒYà
+ ¿™˙ca0—'∞Öê√ÀAÃ∞˘„˙2!õ=]*ØÈˆÛºê˚Ÿ≥2∆Z]˚Pu˙ëùüÍR(>J!wÕiÿ7J≥T±E]	ﬂh ¯hÛm(úïE§ Ã¶ÑèYî÷`$m(ë1‹ﬁë»Oµr1íu?Ûœs!'IìX#ﬁyÍ4ˇ3§*(eN˘∏1SΩöœ¿7|ÿÙ∏ﬂ…è?§∑E˝‚EîÌú«ﬂ˙¯<∏%%;®[÷Î©Zj m ï!ä!í[◊!›#‹!M∆Ï!\Ô!o‡"kY"∑pà"Xû∫"≤ıˆ"Ûl#Âæ#tDÃ#…!$· L$È]$Ö°$5–%«£%Í>7%˜®n%&{%}Ø% Û%œ«V&nãd&¬SÜ&iäƒ&§°%'˙B.'«ú`'◊¸'∆jÇ'ë˘ï'}‚'_œÙ'0>(€í?(˛∂W(§Ì[(Ó	e(¶ß(ı»(+“4)Wõx)8§ñ)>Îô)sf…)N…Œ)Bº—)3€Ê)Ä
+*I*˛‰)*¥°*)S+·õ"+#¢∫+œ±È+¢3_,V°,˝[-w˙-¬«1-ˆ∞M-!¨-@Ö˚-ë. ¸0.èwq.ôñ.öñ.ùñ.üñ.£~’./‹◊Õ/À„/~ä˚/	#0ú#'0-0òèP0T0Jıã0®ªö09 ∏0Ë<1–·w1§Ö2y[2Î}t2ÍÎê2è2Ω2=Q√2dæ‹2zÑ3∫u]3CD∑3⁄Ÿ34öä4w6>5f¿Z5„ÌZ5¶Wj5gt5!6M6Ö 6N7EÚ7ù5#7,º07Ûb´7í 8G™8E∞í8]ù8™≤8ö¥8´M˝8IÀ%9π/&9⁄09óZ}9l~9©9@∫9Nûø9'î‹9#®2:Î::ÔA¨:qn ;≥ <¨)`<R{q<NÂ_=ÃSr=)Æ=Óó*>NÅ>Ÿâ>v,ò>„>@?W≥?úË?†4˘?·M!@`W%@ª©Ø@ ú_AO£ÂA†‚ÏAn‡¯AÚ'B@°fCï„ùCÿ ÈC·oDÆ(Dç/D´0iDuÛEù?(EÓ⁄=E7˝aEtâÃE.8€E
+ßﬂEÎ*ËEóù)F¶≈™FR¢÷F⁄Ô¸F° G©ÄG*∑2Gûç\GŒ)`G
+ßùG™,H[u<HdiH≥iH‹∫ÜHu–úHæâøHä”•I5Ò·IË}‚I1¬fJUÜÅJ†˘ºJLÑ
+K‡
+0Kıù4K	eéKõyKLR¶UL¥hsL|WÉLæ·L%‚LÏ| M∏`M€”´MﬁÕMáNÇ¸`N7•Nu8∫Nmﬁ‰N¨ˆOL¸%O,ÇfO‚˝éOZµ´OP„Pôµ3P¬rPD◊·Py‰&QÉNæQ÷∆æQ5ÈQ˜nÛQD˚Q®bR3RJYRy+R˝/8Ré{CR“bbR°ºRoÎRX˝S∆ÖS6ÑS‰†S]˚S`∞
+TnTõù}T ˛™T˛™Tı8µTı≤πTpû¯TtóU5ä Uâ˜6U~ ~UeúåU™ñÀUY;˛U6æV£gVºÒÅVÃÄäV‹•≈V¸¸XyÌ∏X◊"Yù∑YT∞Zø+rZ+§ZFç‹ZNú[~œΩ[è \…í'\;'´\µ\ŸuÈ\ÑáÚ\ˇè],y]4®]xÙ4]‹XN]ì^√ci^6.^∑:Õ^‚‡#_±°_6Ü´_t≥_	?8`≥Í al'a)êøa®–a]À„aÙàbÒ0∞b.“Ôb©`cmÅ`c#	bcÁÄπc$O-dK∞DdÙÂwd≈ËÜdädh≤∆d‘`eóz:eúËÅeÕfGÁ!fc\QfC©†fR∑f<pëgèB%h—˛“h≤M◊hO]≥iú≥ﬁiÀÍiÔa4j=Ñ;j;x|jUÕäjqîjﬁıôjΩ7œjê3kQÃ*ka^6kØÎ¸k†Ôˇk\l
+\ãlµ6®lÚ˙∑lD[¿l¸Âm”FMm¢jmÖ∂óm›·n˙‚ne-ÌnZ†˜nÿäoò≈ÄoΩYHpîÚHp(a}p‘~pö^ôp ≠pG˝q$ÙqÉ~$q¡◊Iqd[àqˇêëq?8“qøäLrºmZrßﬂprT¸≠r…rOGãs˘ØÃs##t?Â=t[BAtgbCt/cWt–¡t∆˜t¿JuÍY#uå‘Gul±suíÏuunªÖuû.¶up≥ΩuX+Âu•ûvGS∫v‘GÍvq3wﬂ?JwuíPw©Y^wÓû„w¸(ÙwPtx§;VxÜ+µxËÓyq´syYz‰YëzCÿ°zM(ºz,Ç{∆∆|{›o∂{rpº{yæ≈{ƒ\Ê{C|ü9|Ò‰d|Äñh|óŒ~|nêé|~{∑|f≥ƒ|É∆|É}µ÷>}#Àj}oô}\	Ì}Áp~=~‚~1>s≥¨¥Û÷⁄;ﬁ’;ÏFÂ  J  ﬂø  ;ª  Âô  Gh  Âm  U˙  ç™  M‚  Ø  ›ñ  " ¢„  |Ç  j´  åó  ù(  ’æ  ø  Ø ≤  g  é‘  v  º—  jı  + ø∏  h$  I ∑B  ì8  &    vq  √   Ïå  Q  ≤  Œ)  /  gë  Ö  F  Ï ≤≥  ˜ oâ  ∑
+  ˝   c
+  @;  ß‹  }Õ  ˚  é7  .ß  ;d  ôö  OY  aê  ÌØ  62  v  ¿ #e  Iö  Î )  0   ÅM  ´s  ˜ö  ê  ¥·  y¥  u¢  B¢  “°  % Ùx  kL  wl  ≠»  Ú»  h»  «  ñL  +ë  #  æi  ¸B  e  Öü  §   ¬‡  ^‹  ˚  ‹   e≥  ¬e    Ú$  /=  ¡  c–  åÃ  µ$  ÄØ  AW  ˜—  ãŸ  ã˝  ÆÔ  bˆ  ´  ´Ø  "Ê  Jé  ï´  ¢Ü  Åè  7r  f=  åà  ì  §ñ  ˜8  Ÿ±  J jJ  ä 6|  ˝  ≤4  	œ  £”  «_  rN  ﬂ∂  9O  ü&  nb  ¢  R”  e  +   Ja   R  ~  N    7 #Ω  Æ  ‹  Vﬁ  /b  4
+  ç  ˛  íg  Ôl  ::  ù¡  Ú<  f¡  Ÿ
+ í  ™ã  ¶K  ŒÈ  ﬁ  qÎ  =‘  S  !®  p   òÉ  ô-  ,£  ®¢  ‚∆  .P  —~  §m  ÃÚ  Ve  3q  ®Â  ⁄Œ  ·ü  5  ±w  ˇ  1 a˚  úæ  à,  áz  ú\  ú  †–  ( R iø  òf  OÃ  \	  gH  z1  z  ¢ü  eó  d  \  »  „  5T  ‹v  ]\  ëª  º˝  ˇH  0Ë  ôÆ  5  é"  ‚  õÈ  f  E[  U†  ∫  g   ’÷  ≥  c  7…  ‰  »Ø  @{  1Ì  \  ∏  ŒU  c§  P  'Û  Í≈  q2  Úw  D  VV  ‚`  9∆  ˘   z˘  X¬  ≠  •ì  –  8\  Qù  vö  u9  ÛG  pw  ür  ≈Å  Ω5  Æ{  Áõ  @ç  : ôF  -	  À  ÿ∏  §£  5`  yi  ˜L  » ë   r°  ªÌ  \y  Ó  H™  √â  é∑  ¸≠  €S  í≠  ∏¶  WØ  ˛⁄  È´  c	 ﬂt  Ñº  Â˛  rW  8·  >F  rr  <á  Bπ  H §S  è  Å  ¿ö  ∆ N §
+ ñë  √À  Ÿﬁ  c¨  V‡  "¿  – Ni  ‚  ˛√  òõ  ù  ßW  å fª  Íd   T  †¿  s¯  @&  Pæ  û_  ê‚  -y  U∏  N
+ B_  kP  éù  Ö  }¶  ¥›  ˙◊  Ì™  º¸  π  "†  mñ  'N  ‰Î  w  Á @  ´’  ﬁ0  PU  ÷ Á„  %»  }ç    Êr  D    %  Ø⁄  Â  ¢ÿ  ;  å  ®a  ~…  ;  í    á˛  ‹¯  §  œƒ  ⁄5  èo  ∏ä  y
+ Kˇ  Î˜  8ñ   IZ  •X  {—  öâ  O  r[  ˆ…  ö  a  ÷[  Jë  ª3  =G  4   
+ ÌD  Ù”  ZE  Râ  Óß  ¥H  ¿|  ª"  Ëà   g  ◊  ø…  ˚Z  Ò  ª  oå  òç  G∫  Ï  ¥V  dT   h6  Àê  ¨:  çÖ  î>  Ó]  ¡1  dÌ  ˇ  ”  ¢ G∑  ± 7*  µˇ  b€  x %3  `  q)  ∏c  ⁄Ê  ¯π  êD  Nz  æ  p  < l3  Íˆ  WQ  ÂK  6M  ‘Ω  ·  }a  ◊∫  ∂€  Íﬂ  Çƒ  ¯}  =x  ˙s  å
+  é∞  í  –M  — i  ™ﬁ  π  G 8  ,Õ  ò˜  I6  [î  {n  ;,  <œ  :Ÿ  Õå   l  h÷  ∆z  ƒ“  ù=  ≠h  P“  h ∏é  WÊ  .	 J  A óΩ  à<  Û{  x ø<  ]Å  hp  Ö 6¥  $  ˆ  ‡Ÿ  Íî  tô  ˜Â  ÜÓ  ó  ≈∑  H  ¸N  »™  ¥ú  4 …Í  ~x  ä Œ  …^  È  ií  ]4  "  ïT  zˇ  ﬁì  Fü   ø   ˘¬  ˛ó   ó  …¥  •+  Ì  ∞‰  f  ∑I  ˘5    Ô    ˛€  ¸ù  æ;  )‹  ⁄y  ôˆ  À∞  ˆ  C´  ¸  À  æ  #«  d«  û  Ÿ·  2≥  ¸>  @ã  ÎV  •  ú∫  £Œ  R  *—  ñP  ét  Ø  2Ø  Ë«  ˆ?  ◊g  ¬ô  Hj  	U  w   å}  ≥.  Ï¨  	j  ¨C  ÂÃ  ÀE  b  Ì|  
+ˇ  &<  f∆  ’¿  °    Ù#   ë  Cg  V &©  øî  [Ñ  ∑ë  9%  sf  2-  Ï  _  ô  }  —P  É›  T+  eK  R±  ˘ ìy  )1  πx  ºª  N h!  
+  ï6  ^⁄  .¶  vd  Â   º  áœ  ˘Á  ò'  ñ^  Èÿ  ° 0Ü  ” ‡  CÄ  ºn  0I  Ù∞  ≥d  –µ  /  ÉÒ  ÷Y  '∂  ∆ gc  JÏ  ç ◊f  (Ñ  ã z’  Ú  [ß  2  ËÇ     íÅ  ø	  Ü†  i£  y∂  ö	 rò  Cò  ê k©  It  CB  { W  ]^  â  5ﬂ  N√  G  ÿ K  Ûé      ÇÀ  Fî  ¸Ï  QÓ  ‡  5à  ı  ¬ò  ÿ  ◊˘  ÄY  Î  iÍ  Ø   ˆA     	  ÷Æ  ]C  lï  E¸  ÏW  Úº  Ê  €  ^   ≠  ¢  Ë  mu  +  B›  ’>  ü Ã  o f  âµ  ⁄I  À7  è“  ¿Á  Í ¥9  0Í  ∑N  ∂l  Ì\  e„  Å  +ï  ]I  óï  0n  â œJ  :>  â  9#  cm  'ç  Lo  / }|  å  ˚6  •  –˚  ë‡  ¡  é  íê  É:  ”ç  T €–  LÈ  Â≥  Õ 0¯  å  Î'  ;É  ∂  H˛  *∞  øb  ÍQ  i 5.  lA  )w  ˙@  f  Ó  '⁄  ì¬  N(  ¯ﬁ  ˛.  0Ò  Mÿ  5/  œ  Ú-  óU  Ÿ/  Ç/  á0  00  C@  ÿû  9~  p`  ‘2  >◊  í¨  xÄ  î~  wæ  e>    bŒ  kõ  „á  #J  œ   R˝  Ä  ˙  "k  &L  •∆  ∫G  "K  MÀ  Ô¶  ÷o  L  … -€  ®í  8–  ∏u  ëπ  Ú  ;¡  X#  ó%  ª  “Z  &  ∞ !  o‰  ®∂  ≈  ?  }ú  ”	 T  Ω®  ‰	  W<  â;  ı•  G}  °  t  Rµ  ≠A  •[  !s  ÆË  Òª  Ÿa  ≤ F7  ßp  \û  »O  ˘O  eÔ  §å  ïv  õä   ∫j  ß#  Ák  rÆ  Ã  £°  Ò;  ¿Ö  ¯^  Ë+   FÖ  ¬6  1±  ,≈  ≈à  rä  √¨  @  oË  L∂  ü  €è  Ë‹  „c  ÔÉ  ]  Â¢  ?ô  ô€  Kº  {Ù  I ‡   }  ˝È  &  7˘  ˝Ü  Ôí  R  ¢¥  {  4  0f  ∑§  dX  ‘h  ké  Ôú  ºœ  q  Å±  „€  é.  h  th  HR  {Á  ß√  -X  §è  Õó  |@  ìô  Ü  VΩ  PS  *m  ≥Q  Ö Ú&  [  9  c  Ü  †ø  & Aä  ôû  J  	o  5A  “ï  ó  g·  Î  j5  ‚  π@  AÇ   •  bO  fs  ∑†  =°  °  h?  S  ÉÏ  ß`  ≤±  }Ú  l  Ê  ›  µ≤  ~  pZ  )ﬁ  G’  B≠  ˚©   áO  U¿  Ä∏  Åﬁ  %Æ   Øﬂ  ù≈  °ò  c≠  Õ≠  ™á  o•  [k  ˚ êÑ  ≠Ä   „  Ëˇ  >  ≠  ˙¥  ¬´  ®Û  ì]  √,  ñ  œ  ¯â   :]  e È Íp  ”Ë  ’  Z  #  ≠Y  ÖV    ı  å§  ˛Å  Ó  »8  n øº  —ù  0õ  0Î  Ô‡  Ï  ›Ó  ª  Rv  89  -?  ú*  äQ  Æ ∫˛  ˇä  !  ˝ ≠Z  x  ä  G˜  √!  ≥q  'é  rB  Á  ﬂ  ◊‚  k     ¶ XÁ  Ì›    ñ  18  'È  „9  |≤  q7  "¨  »=  5  ØÇ  ‡
+  É{  ’  ⁄Ù  à  %¬  ÒÛ  Ò%  o ´◊  ‘¬  ≤  o_  •    j%  R  ˝Y  î  ;ƒ  qá  ¬   À}  ‚ë  Ÿ£  {ã  Äî  M  O  Y∞  ~ﬂ  ,l  _Ü  ﬁ≤  øß  K'  ü ,ú  —ã  ü?  ÷’  —‘  +û  •«  +µ  *  ^8  úk  ∑  yj  å˙  ˚ò  Üß  "ô  ¸X  o  ø v®  V  ûÍ  &u  %&  6  ÷  Ê  ö  Bì  ∞©  !
+ —˙  I"  ‘Õ     &Z  êI  W≤  ‘ W> A X N o h W n d     *A b s o l u t e U r i N o t A l l o w e d å   A b s o l u t e U r i O n l y Æ   8A d d A n n o t a t i o n s N o t I m p l e m e n t e d ’   &A d d e d I t e m N o t A t I n d e x   0A d d e d I t e m N o t I n C o l l e c t i o n E  ,A d o r n e d E l e m e n t N o t F o u n d Ø  RA d o r n e d E l e m e n t P l a c e h o l d e r M u s t B e I n T e m p l a t e ı  A d o r n e r N o t F o u n d A  2A l r e a d y H a s L o g i c a l C h i l d r e n å   A l r e a d y H a s P a r e n t ˛  :A n i m a t i o n _ C h i l d M u s t B e K e y F r a m e ;  `A n i m a t i o n _ I n v a l i d A n i m a t i o n U s i n g K e y F r a m e s D u r a t i o n £  4A n i m a t i o n _ I n v a l i d B a s e V a l u e ì  BA n i m a t i o n _ I n v a l i d R e s o l v e d K e y T i m e s z  8A n i m a t i o n _ I n v a l i d T i m e K e y T i m e D  <A n i m a t i o n _ I n v a l i d _ D e f a u l t V a l u e ÷  0A n i m a t i o n _ N o T e x t C h i l d r e n   <A n n o t a t i o n A d o r n e r _ N o t U I E l e m e n t e  >A n n o t a t i o n A l r e a d y E x i s t I n S e r v i c e ï  .A n n o t a t i o n A l r e a d y E x i s t s ÿ   A n n o t a t i o n I s N u l l "	  <A n n o t a t i o n S e r v i c e A l r e a d y E x i s t s Z	  BA n n o t a t i o n S e r v i c e I s A l r e a d y E n a b l e d í	  6A n n o t a t i o n S e r v i c e N o t E n a b l e d π	  ,A p p A c t i v a t i o n E x c e p t i o n ‚	  :A r g u m e n t P r o p e r t y M u s t N o t B e N u l l <
+  0A r r a n g e R e e n t r a n c y I n v a l i d q
+  :A u d i o V i d e o _ C a n n o t C o n t r o l M e d i a π
+  DA u d i o V i d e o _ I n v a l i d D e p e n d e n c y O b j e c t   8A u d i o V i d e o _ I n v a l i d M e d i a S t a t e H  bA u x i l i a r y F i l t e r R e t u r n e d A n o m a l o u s C o u n t O f C h a r a c t e r s y  &A x N o C o n n e c t i o n P o i n t „  8A x N o C o n n e c t i o n P o i n t C o n t a i n e r "  $A x N o E v e n t I n t e r f a c e i  A x N o S i n k A d v i s e Ø  ,A x N o S i n k I m p l e m e n t a t i o n Ó  2A x R e q u i r e s A p a r t m e n t T h r e a d B  &A x W i n d o w l e s s C o n t r o l À  B a d D i s t a n c e D  (B a d F i x e d T e x t P o s i t i o n ç  B a d T a r g e t A r r a y “  (B a d T e x t P o s i t i o n O r d e r ˇ  *B a m l B a d E x t e n s i o n V a l u e    ^B a m l I s N o t S u p p o r t e d O u t s i d e O f A p p l i c a t i o n R e s o u r c e s u   B a m l R e a d e r C l o s e d ∑  *B a m l R e a d e r N o O w n e r T y p e ˘  B a m l S c o p e E r r o r s  *B a m l W r i t e r B a d A s s e m b l y Õ  $B a m l W r i t e r B a d S c o p e   &B a m l W r i t e r B a d S t r e a m   $B a m l W r i t e r B a d X m l n s ÿ   B a m l W r i t e r C l o s e d %  *B a m l W r i t e r N o I n E l e m e n t j  $B a m l W r i t e r S t a r t D o c Â  @B a m l W r i t e r U n k n o w n M a r k u p E x t e n s i o n d  FB i n d i n g C o l l e c t i o n C o n t a i n s N o n B i n d i n g ô  B i n d i n g C o n f l i c t Û  6B i n d i n g E x p r e s s i o n I s D e t a c h e d >  <B i n d i n g E x p r e s s i o n S t a t u s C h a n g e d Ö  >B i n d i n g G r o u p _ C a n n o t C h a n g e G r o u p s   (B i n d i n g G r o u p _ N o E n t r y Å  :B i n d i n g G r o u p _ V a l u e U n a v a i l a b l e ‹  FB i n d i n g L i s t C a n O n l y S o r t B y O n e P r o p e r t y ∫  :B i n d i n g L i s t C a n n o t C u s t o m F i l t e r Ô  (B u f f e r O f f s e t N e g a t i v e 9  B u f f e r T o o S m a l l c  BB y t e R a n g e D o w n l o a d e r N o t I n i t i a l i z e d ü  &C a n O n l y H a v e O n e C h i l d Ô  ,C a n c e l E d i t N o t S u p p o r t e d f  C a n c e l l e d T e x t ™  C a n c e l l e d T i t l e ›  &C a n n o t B e I n s i d e P o p u p   $C a n n o t B e S e l f P a r e n t ;  BC a n n o t C a l l R u n F r o m B r o w s e r H o s t e d A p p x  4C a n n o t C a l l R u n M u l t i p l e T i m e s ⁄  .C a n n o t C h a n g e A f t e r S e a l e d 
+  >C a n n o t C h a n g e M a i n W i n d o w I n B r o w s e r a  2C a n n o t C o n v e r t S t r i n g T o T y p e ´  "C a n n o t C o n v e r t T y p e Â  XC a n n o t D e t e r m i n e S o r t B y P r o p e r t i e s F o r C o l l e c t i o n   *C a n n o t E d i t P l a c e h o l d e r y   C a n n o t F i l t e r V i e w ¥  *C a n n o t F i n d R e m o v e d I t e m ‹  C a n n o t G r o u p V i e w ˛  FC a n n o t H a v e E v e n t H a n d l e r s I n T h e m e S t y l e @  VC a n n o t H a v e O v e r r i d e s D e f a u l t S t y l e I n T h e m e S t y l e Å  2C a n n o t H a v e P r o p e r t y I n S t y l e Õ  8C a n n o t H a v e P r o p e r t y I n T e m p l a t e   &C a n n o t H o o k u p F C E R o o t t  $C a n n o t I n v o k e S c r i p t Ã  RC a n n o t M o d i f y L o g i c a l C h i l d r e n D u r i n g T r e e W a l k Ù  :C a n n o t M o d i f y R e a d O n l y C o n t a i n e r s  6C a n n o t M o v e T o U n k n o w n P o s i t i o n ¢  C a n n o t P a r s e I d ﬂ  .C a n n o t P r o c e s s I n k C o m m a n d   `C a n n o t Q u e r y P r o p e r t i e s W h e n P a g e N o t I n T r e e W i t h W i n d o w ú  <C a n n o t R e c y l e H e t e r o g e n e o u s T y p e s    6C a n n o t R e m o v e U n r e a l i z e d I t e m s ⁄   NC a n n o t R e t r i e v e P a r t s O f W r i t e O n l y C o n t a i n e r K!  :C a n n o t S e l e c t N o t S e l e c t a b l e I t e m †!  <C a n n o t S e r i a l i z e I n v a l i d I n s t a n c e »!  2C a n n o t S e t N e g a t i v e P o s i t i o n @"  ,C a n n o t S e t O w n e r T o I t s e l f Ü"  C a n n o t S o r t V i e w ª"  (C a n n o t U s e I t e m s S o u r c e Ú"  *C a n n o t W r i t e T o R e a d O n l y 5#  C a n t S e t I n M a r k u p °#  <C a n t S e t O w n e r A f t e r D i a l o g I s S h o w n $  @C a n t S e t O w n e r W h o s H w n d I s N o t C r e a t e d O$  4C a n t S h o w M B S e r v i c e W i t h O w n e r ß$  :C a n t S h o w M o d a l O n N o n I n t e r a c t i v e ‹$  NC a n t S w i t c h V i r t u a l i z a t i o n M o d e P o s t M e a s u r e N%  2C h a n g e N o t A l l o w e d A f t e r S h o w ﬁ%  &C h a n g e S e a l e d B i n d i n g &  <C h a n g i n g C o l l e c t i o n N o t S u p p o r t e d Z&  (C h a n g i n g I d N o t A l l o w e d ›&  ,C h a n g i n g T y p e N o t A l l o w e d '  "C h i l d H a s W r o n g T y p e U'  .C h i l d N a m e M u s t B e N o n E m p t y è'  8C h i l d N a m e N a m e P a t t e r n R e s e r v e d ¯'  BC h i l d T e m p l a t e I n s t a n c e D o e s N o t E x i s t >(  @C h i l d W i n d o w M u s t H a v e C o r r e c t P a r e n t à(  *C h i l d W i n d o w N o t C r e a t e d ‚(  $C i r c u l a r O w n e r C h i l d A)  C l e a r H i g h l i g h t y)  0C l i p T o B o u n d s N o t S u p p o r t e d å)  :C o l l e c t i o n A d d E v e n t M i s s i n g I t e m ∂)  >C o l l e c t i o n C h a n g e I n d e x O u t O f R a n g e Ü*  VC o l l e c t i o n C o n t a i n e r M u s t B e U n i q u e F o r C o m p o s i t e Ù*  ZC o l l e c t i o n N u m b e r O f E l e m e n t s M u s t B e L e s s O r E q u a l T o F+  8C o l l e c t i o n V i e w T y p e I s I n i t O n l y û+  @C o l l e c t i o n V i e w _ N a m e T y p e D u p l i c i t y ˆ+  FC o l l e c t i o n V i e w _ V i e w T y p e I n s u f f i c i e n t \,  0C o l l e c t i o n V i e w _ W r o n g T y p e ©,  $C o l l e c t i o n _ B a d T y p e ‘,  ^C o l l e c t i o n _ C o p y T o _ A r r a y C a n n o t B e M u l t i d i m e n s i o n a l ]-  lC o l l e c t i o n _ C o p y T o _ I n d e x G r e a t e r T h a n O r E q u a l T o A r r a y L e n g t h ∏-  hC o l l e c t i o n _ C o p y T o _ N u m b e r O f E l e m e n t s E x c e e d s A r r a y L e n g t h .  "C o l l e c t i o n _ N o N u l l Ñ.  TC o l o r C o n v e r t e d B i t m a p E x t e n s i o n N o S o u r c e I m a g e √.  XC o l o r C o n v e r t e d B i t m a p E x t e n s i o n N o S o u r c e P r o f i l e /  FC o l o r C o n v e r t e d B i t m a p E x t e n s i o n S y n t a x E/  JC o m p o n e n t A l r e a d y I n P r e s e n t a t i o n C o n t e x t z/  BC o m p o n e n t N o t I n P r e s e n t a t i o n C o n t e x t ∏/  FC o m p o s i t e C o l l e c t i o n R e s e t O n l y O n C l e a r ¯/  PC o n d i t i o n C a n n o t U s e B o t h P r o p e r t y A n d B i n d i n g w0  LC o n d i t i o n V a l u e O f E x p r e s s i o n N o t S u p p o r t e d µ0  VC o n d i t i o n V a l u e O f M a r k u p E x t e n s i o n N o t S u p p o r t e d Î0  NC o n t e n t C o n t r o l C a n n o t H a v e M u l t i p l e C o n t e n t 1  .C o n t e n t T y p e N o t S u p p o r t e d R1  @C o n t e x t M e n u I n D i f f e r e n t D i s p a t c h e r s1  (C o p y T o N o t E n o u g h S p a c e π1  VC o r e P r o p e r t y E n u m e r a t o r P o s i t i o n e d O u t O f B o u n d s 62  C r e a t e H i g h l i g h t è2  C r e a t e I n k N o t e ö2  JC r e a t e R o o t P o p u p _ C h i l d H a s L o g i c a l P a r e n t ±2  HC r e a t e R o o t P o p u p _ C h i l d H a s V i s u a l P a r e n t 3  C r e a t e T e x t N o t e y3  NC r o s s T h r e a d A c c e s s O f U n s h a r e a b l e F r e e z a b l e ì3  HC u s t o m C o n t e n t S t a t e M u s t B e S e r i a l i z a b l e Î3  8C y c l i c S t y l e R e f e r e n c e D e t e c t e d #4  BC y c l i c T h e m e S t y l e R e f e r e n c e D e t e c t e d ä4  ,D a t a T y p e C a n n o t B e O b j e c t ˜4  (D e f e r S e l e c t i o n A c t i v e 15  .D e f e r S e l e c t i o n N o t A c t i v e s5  "D e l e t e A n n o t a t i o n s ≤5  D e l e t e N o t e s ÿ5  D e p l o y T e x t Ô5  D e p l o y T i t l e d6  ZD e s i g n e r M e t a d a t a _ C u s t o m C a t e g o r y _ A c c e s s i b i l i t y Ä6  ND e s i g n e r M e t a d a t a _ C u s t o m C a t e g o r y _ C o n t e n t í6  TD e s i g n e r M e t a d a t a _ C u s t o m C a t e g o r y _ N a v i g a t i o n ö6  HD i a l o g R e s u l t M u s t B e S e t A f t e r S h o w D i a l o g •6  ND i s p l a y M e m b e r P a t h A n d I t e m T e m p l a t e D e f i n e d 7  ^D i s p l a y M e m b e r P a t h A n d I t e m T e m p l a t e S e l e c t o r D e f i n e d R7  JD o c u m e n t A p p l i c a t i o n C a n n o t I n i t i a l i z e U I Ù7  fD o c u m e n t A p p l i c a t i o n C o n t e x t M e n u F i r s t P a g e I n p u t G e s t u r e 8  dD o c u m e n t A p p l i c a t i o n C o n t e x t M e n u L a s t P a g e I n p u t G e s t u r e  8  XD o c u m e n t A p p l i c a t i o n C o n t e x t M e n u N e x t P a g e H e a d e r *8  dD o c u m e n t A p p l i c a t i o n C o n t e x t M e n u N e x t P a g e I n p u t G e s t u r e ;8  `D o c u m e n t A p p l i c a t i o n C o n t e x t M e n u P r e v i o u s P a g e H e a d e r K8  lD o c u m e n t A p p l i c a t i o n C o n t e x t M e n u P r e v i o u s P a g e I n p u t G e s t u r e Z8  BD o c u m e n t A p p l i c a t i o n N o t I n F u l l T r u s t h8  LD o c u m e n t A p p l i c a t i o n R e g i s t r y K e y N o t F o u n d ±8  >D o c u m e n t A p p l i c a t i o n S t a t u s L o a d e d ‡8  ND o c u m e n t A p p l i c a t i o n U n a b l e T o O p e n D o c u m e n t ˙8  HD o c u m e n t A p p l i c a t i o n U n k n o w n F i l e F o r m a t '9  6D o c u m e n t G r i d I n v a l i d V i e w M o d e d9  jD o c u m e n t G r i d V i s u a l T r e e C o n t a i n s N o n B o r d e r A s F i r s t E l e m e n t ü9  bD o c u m e n t G r i d V i s u a l T r e e C o n t a i n s N o n D o c u m e n t G r i d P a g e ‚9  TD o c u m e n t G r i d V i s u a l T r e e C o n t a i n s N o n U I E l e m e n t (:  >D o c u m e n t G r i d V i s u a l T r e e O u t O f S y n c y:  TD o c u m e n t P a g e V i e w _ P a r e n t N o t D o c u m e n t P a g e H o s t ±:   D o c u m e n t R e a d O n l y ;  FD o c u m e n t R e f e r e n c e H a s I n v a l i d D o c u m e n t #;  2D o c u m e n t R e f e r e n c e N o t F o u n d â;  HD o c u m e n t R e f e r e n c e U n s u p p o r t e d M i m e T y p e ¥;  RD o c u m e n t S t r u c t u r e U n e x p e c t e d P a r a m e t e r T y p e 1 <  RD o c u m e n t S t r u c t u r e U n e x p e c t e d P a r a m e t e r T y p e 2 S<  RD o c u m e n t S t r u c t u r e U n e x p e c t e d P a r a m e t e r T y p e 4 °<  RD o c u m e n t S t r u c t u r e U n e x p e c t e d P a r a m e t e r T y p e 6 ˘<  FD o c u m e n t V i e w e r A r g u m e n t M u s t B e I n t e g e r [=  LD o c u m e n t V i e w e r A r g u m e n t M u s t B e P e r c e n t a g e §=  BD o c u m e n t V i e w e r C a n H a v e O n l y O n e C h i l d Ë=  pD o c u m e n t V i e w e r C h i l d M u s t I m p l e m e n t I D o c u m e n t P a g i n a t o r S o u r c e 0>  6D o c u m e n t V i e w e r O n e M a s t e r P a g e ú>  ^D o c u m e n t V i e w e r O n l y S u p p o r t s F i x e d D o c u m e n t S e q u e n c e ˆ>  LD o c u m e n t V i e w e r P a g e V i e w s C o l l e c t i o n E m p t y M?  BD o c u m e n t V i e w e r S e a r c h C o m p l e t e T i t l e é?  JD o c u m e n t V i e w e r S e a r c h D o w n C o m p l e t e L a b e l ñ?  FD o c u m e n t V i e w e r S e a r c h U p C o m p l e t e L a b e l ⁄?  RD o c u m e n t V i e w e r S t y l e M u s t I n c l u d e C o n t e n t H o s t @  PD o c u m e n t V i e w e r V i e w F i t T o H e i g h t C o m m a n d T e x t é@  `D o c u m e n t V i e w e r V i e w F i t T o M a x P a g e s A c r o s s C o m m a n d T e x t ú@  ND o c u m e n t V i e w e r V i e w F i t T o W i d t h C o m m a n d T e x t ¥@  ND o c u m e n t V i e w e r V i e w T h u m b n a i l s C o m m a n d T e x t √@  D o w n l o a d T e x t Ÿ@  D o w n l o a d T i t l e áA  D r a g M o v e F a i l ≤A  .D u p l i c a t e d C o m p a t i b l e U r i ¸A  D u p l i c a t e d U r i <B  (D u p l i c a t e s N o t A l l o w e d sB  (E l e m e n t M u s t B e I n P o p u p ¢B  4E m p t y S e l e c t i o n N o t S u p p o r t e d ‡B  FE n d I n i t W i t h o u t B e g i n I n i t N o t S u p p o r t e d ,C  &E n t r y A s s e m b l y I s N u l l _C  E n u m _ I n v a l i d TD  8E n u m e r a t o r C o l l e c t i o n D i s p o s e d ~D  4E n u m e r a t o r I n v a l i d O p e r a t i o n ÃD  (E n u m e r a t o r N o t S t a r t e d 0E  (E n u m e r a t o r R e a c h e d E n d gE  0E n u m e r a t o r V e r s i o n C h a n g e d äE  0E n u m e r a t o r _ V e r i f y C o n t e x t „E  *E v e n t T r i g g e r B a d A c t i o n 	F  <E v e n t T r i g g e r D o N o t S e t P r o p e r t i e s `F  8E v e n t T r i g g e r D o e s N o t E n t e r E x i t ∂F  :E v e n t T r i g g e r E v e n t U n r e s o l v a b l e ˙F  *E v e n t T r i g g e r N e e d E v e n t 0G  RE v e n t T r i g g e r O n S t y l e N o t A l l o w e d T o H a v e T a r g e t kG  DE v e n t T r i g g e r T a r g e t N a m e U n r e s o l v a b l e ÏG  $E x c e p t i o n I n G e t P a g e 2H  VE x c e p t i o n V a l i d a t i o n R u l e V a l i d a t e N o t S u p p o r t e d rH  4F a i l T o L a u n c h D e f a u l t B r o w s e r bI  DF a i l T o N a v i g a t e U s i n g H y p e r l i n k T a r g e t ÜI  0F a i l e d R e s u m e P a g e F u n c t i o n ∑I  .F a i l e d T o C o n v e r t R e s o u r c e @J  0F i l e D i a l o g B u f f e r T o o S m a l l eJ  ,F i l e D i a l o g C r e a t e P r o m p t ¡J  ,F i l e D i a l o g F i l e N o t F o u n d ÍJ  2F i l e D i a l o g I n v a l i d F i l e N a m e &K  .F i l e D i a l o g I n v a l i d F i l t e r IK  8F i l e D i a l o g I n v a l i d F i l t e r I n d e x ,M  2F i l e D i a l o g O v e r w r i t e P r o m p t LM  2F i l e D i a l o g S u b C l a s s F a i l u r e tM  &F i l e F o r m a t E x c e p t i o n €M  >F i l e F o r m a t E x c e p t i o n W i t h F i l e N a m e DN  *F i l e N a m e M u s t N o t B e N u l l ñN  &F i l e N a m e N u l l O r E m p t y ⁄N  *F i l e T o F i l t e r N o t L o a d e d ¸N  <F i l t e r B i n d R e g i o n N o t I m p l e m e n t e d &O  "F i l t e r E n d O f C h u n k s LO  ,F i l t e r G e t C h u n k N o S t r e a m ÜO  6F i l t e r G e t T e x t B u f f e r O v e r f l o w P  2F i l t e r G e t T e x t N o t S u p p o r t e d PP  RF i l t e r G e t V a l u e A l r e a d y C a l l e d O n C u r r e n t C h u n k ïP  HF i l t e r G e t V a l u e M u s t B e S t r i n g O r D a t e T i m e ÀP  4F i l t e r G e t V a l u e N o t S u p p o r t e d #Q  8F i l t e r I P e r s i s t F i l e I s R e a d O n l y iQ  <F i l t e r I P e r s i s t S t r e a m I s R e a d O n l y ºQ  6F i l t e r I n i t I n v a l i d A t t r i b u t e s R  2F i l t e r L o a d I n v a l i d M o d e F l a g vR  <F i l t e r N u l l G e t T e x t B u f f e r P o i n t e r ™R  DF i l t e r P r o p S p e c U n k n o w n U n i o n S e l e c t o r ÓR  HF i x e d D o c u m e n t E x p e c t s D e p e n d e n c y O b j e c t S  *F i x e d D o c u m e n t R e a d o n l y sS  @F l o w D o c u m e n t F o r m a t t i n g R e e n t r a n c y íS  @F l o w D o c u m e n t I n v a l i d C o n t n e t C h a n g e ‡S  \F l o w D o c u m e n t P a g e V i e w e r O n l y S u p p o r t s F l o w D o c u m e n t T  JF l o w D o c u m e n t R e a d e r C a n H a v e O n l y O n e C h i l d _T  \F l o w D o c u m e n t R e a d e r C a n n o t D i s a b l e A l l V i e w i n g M o d e s ≠T  ~F l o w D o c u m e n t R e a d e r D e c o r a t o r M a r k e d A s C o n t e n t H o s t M u s t H a v e N o C o n t e n t ËT  XF l o w D o c u m e n t R e a d e r V i e w i n g M o d e E n a b l e d C o n f l i c t 7U  hF l o w D o c u m e n t R e a d e r _ M u l t i p l e V i e w P r o v i d e r _ P a g e V i e w N a m e ñU  lF l o w D o c u m e n t R e a d e r _ M u l t i p l e V i e w P r o v i d e r _ S c r o l l V i e w N a m e ûU  nF l o w D o c u m e n t R e a d e r _ M u l t i p l e V i e w P r o v i d e r _ T w o P a g e V i e w N a m e ®U  VF l o w D o c u m e n t S c r o l l V i e w e r C a n H a v e O n l y O n e C h i l d ∑U  ûF l o w D o c u m e n t S c r o l l V i e w e r D o c u m e n t B e l o n g s T o A n o t h e r F l o w D o c u m e n t S c r o l l V i e w e r A l r e a d y V  xF l o w D o c u m e n t S c r o l l V i e w e r M a r k e d A s C o n t e n t H o s t M u s t H a v e N o C o n t e n t MV  4F o r m a t R e s t r i c t i o n s E x c e e d e d üV  F r a m e N o A d d C h i l d ˚V  LF r a m e w o r k E l e m e n t F a c t o r y A l r e a d y P a r e n t e d 9W  HF r a m e w o r k E l e m e n t F a c t o r y C a n n o t A d d T e x t uW  FF r a m e w o r k E l e m e n t F a c t o r y M u s t B e S e a l e d ›W  ,F r e e z a b l e _ C a n t B e F r o z e n 9X  (G e n e r a t i o n I n P r o g r e s s £X  .G e n e r a t i o n N o t I n P r o g r e s s ·X  "G e t R e s p o n s e F a i l e d )Y  G e t S t r e a m F a i l e d _Y  DG l y p h s A d v a n c e W i d t h C a n n o t B e N e g a t i v e ñY  BG l y p h s C a r e t S t o p s C o n t a i n s H e x D i g i t s œY  `G l y p h s C a r e t S t o p s L e n g t h C o r r e s p o n d s T o U n i c o d e S t r i n g Z  NG l y p h s C l u s t e r B a d C h a r a c t e r s B e f o r e B r a c k e t áZ  >G l y p h s C l u s t e r M i s p l a c e d S e p a r a t o r ÈZ  <G l y p h s C l u s t e r N o M a t c h i n g B r a c k e t J[  :G l y p h s C l u s t e r N o N e s t e d C l u s t e r s ï[  <G l y p h s I n d e x R e q u i r e d I f N o U n i c o d e ∑[  @G l y p h s I n d e x R e q u i r e d W i t h i n C l u s t e r \  &G l y p h s T o o M a n y C o m m a s G\  \G l y p h s U n i c o d e S t r i n g A n d I n d i c e s C a n n o t B o t h B e E m p t y z\  :G l y p h s U n i c o d e S t r i n g I s T o o S h o r t ¿\  FG r i d C o l l e c t i o n _ C a n n o t M o d i f y R e a d O n l y 5]  JG r i d C o l l e c t i o n _ D e s t A r r a y I n v a l i d L e n g t h d]  RG r i d C o l l e c t i o n _ D e s t A r r a y I n v a l i d L o w e r B o u n d å]  FG r i d C o l l e c t i o n _ D e s t A r r a y I n v a l i d R a n k Ω]  @G r i d C o l l e c t i o n _ I n O t h e r C o l l e c t i o n ^  @G r i d C o l l e c t i o n _ M u s t B e C e r t a i n T y p e 5^  8G r i d _ U n e x p e c t e d P a r a m e t e r T y p e R^  $H a n d l e r T y p e I l l e g a l ô^   H a s L o g i c a l P a r e n t ª^  <H o s t e d W i n d o w M u s t B e A C h i l d W i n d o w (_  ,H o s t i n g S t a t u s C a n c e l l e d ]_  0H o s t i n g S t a t u s D o w n l o a d A p p è_  8H o s t i n g S t a t u s D o w n l o a d A p p I n f o ¶_  &H o s t i n g S t a t u s F a i l e d ∆_  6H o s t i n g S t a t u s P r e p a r i n g T o R u n Ù_  ,H o s t i n g S t a t u s V e r i f y i n g &`  PH w n d H o s t D o e s N o t S u p p o r t C h i l d K e y b o a r d S i n k s H`  .H y p e r L i n k T a r g e t N o t F o u n d æ`  $H y p h e n a t o r D i s p o s e d Â`  2I D P I n v a l i d C o n t e n t P o s i t i o n a  *I D P N e g a t i v e P a g e N u m b e r `a  *I c o n M u s t B e B i t m a p F r a m e äa  2I l l e g a l T r e e C h a n g e D e t e c t e d “a  FI l l e g a l T r e e C h a n g e D e t e c t e d P o s t A c t i o n 2b  BI l l e g a l _ I n h e r i t a n c e B e h a v i o r S e t t o r íb  :I m p l e m e n t O t h e r M e m b e r s W i t h S o r t 8c  *I n D i f f e r e n t P a r a g r a p h s ñc   I n D i f f e r e n t S c o p e Ÿc  2I n D i f f e r e n t T e x t C o n t a i n e r s #d  &I n c o m p a t i b l e C L R T e x t fd  *I n c o m p a t i b l e W i n F X T e x t e  *I n c o r r e c t A n c h o r L e n g t h ¥e  ,I n c o r r e c t F l o w D i r e c t i o n ˛e  0I n c o r r e c t L o c a t o r P a r t T y p e ,f  :I n d e x e d P r o p D e s c N o t I m p l e m e n t e d \f  BI n k C a n v a s D e s e l e c t K e y D i s p l a y S t r i n g õf  BI n p u t S c o p e A t t r i b u t e _ E _ O U T O F M E M O R Y †f  2I n p u t S t r e a m M u s t B e R e a d a b l e ∑f  8I n s e r t I n D e f e r S e l e c t i o n A c t i v e ‡f  FI n t e g e r C o l l e c t i o n L e n g t h L e s s T h a n Z e r o 6g  *I n v a l i d A n c h o r P o s i t i o n Äg  *I n v a l i d A t t a c h e d A n c h o r °g  2I n v a l i d A t t a c h e d A n n o t a t i o n ¡g  *I n v a l i d A t t r i b u t e V a l u e Âg  "I n v a l i d B y t e R a n g e s h  ,I n v a l i d C l i p b o a r d F o r m a t Ah  0I n v a l i d C o m p o s i t i o n T a r g e t xh  @I n v a l i d C o n t r o l T e m p l a t e T a r g e t T y p e h  <I n v a l i d C t o r P a r a m e t e r N o I n f i n i t y xi  2I n v a l i d C t o r P a r a m e t e r N o N a N ¢i  <I n v a l i d C t o r P a r a m e t e r N o N e g a t i v e «i  RI n v a l i d C t o r P a r a m e t e r U n k n o w n F i g u r e U n i t T y p e Òi  NI n v a l i d C t o r P a r a m e t e r U n k n o w n G r i d U n i t T y p e öj  ,I n v a l i d C u s t o m S e r i a l i z e k  (I n v a l i d D S C o n t e n t T y p e _k  $I n v a l i d D e S e r i a l i z e ùk  "I n v a l i d D e p l o y T e x t €k  $I n v a l i d D e p l o y T i t l e wl  I n v a l i d D i a m e t e r ûl  "I n v a l i d E m p t y A r r a y ¡l  8I n v a l i d E m p t y S t r o k e C o l l e c t i o n Íl   I n v a l i d E n d O f B a m l 0m  $I n v a l i d E v e n t H a n d l e xm  I n v a l i d G u i d §m  *I n v a l i d H i g h l i g h t C o l o r »m  (I n v a l i d I n k F o r e g r o u n d n  .I n v a l i d L o c C o m m e n t T a r g e t xn  ,I n v a l i d L o c C o m m e n t V a l u e …n  4I n v a l i d L o c a l i z a b i l i t y V a l u e "o  $I n v a l i d L o c a t o r P a r t ho   I n v a l i d N a m e s p a c e –o  :I n v a l i d O p e r a t i o n D u r i n g C l o s i n g ¯o  LI n v a l i d O p e r a t i o n _ A d d B a c k E n t r y N o C o n t e n t np  HI n v a l i d O p e r a t i o n _ C a n n o t C l e a r F w d S t a c k æp  TI n v a l i d O p e r a t i o n _ C a n n o t R e e n t e r P a g e F u n c t i o n 	q  VI n v a l i d O p e r a t i o n _ C a n t C h a n g e J o u r n a l O w n e r s h i p Xq  jI n v a l i d O p e r a t i o n _ M u s t I m p l e m e n t I P C C S O r H a n d l e N a v i g a t i n g ¶q  4I n v a l i d O p e r a t i o n _ N o J o u r n a l \r  .I n v a l i d P a g e F u n c t i o n T y p e Ær  *I n v a l i d P e r m i s s i o n T y p e ⁄r  I n v a l i d P o i n t s  (I n v a l i d P r o p e r t y V a l u e 0s  (I n v a l i d S F C o n t e n t T y p e as  *I n v a l i d S e l e c t i o n P a g e s ñs  $I n v a l i d S e t t e r V a l u e ‡s  @I n v a l i d S t a r t N o d e F o r T e x t S e l e c t i o n &t  $I n v a l i d S t a r t O f B a m l zt  6I n v a l i d S t i c k y N o t e A n n o t a t i o n √t  2I n v a l i d S t i c k y N o t e T e m p l a t e u  6I n v a l i d S t o r y F r a g m e n t s M a r k u p °u  2I n v a l i d S t r i n g C o r n e r R a d i u s ‘u  ,I n v a l i d S t r i n g T h i c k n e s s &v  .I n v a l i d S u b T r e e P r o c e s s o r ~v  &I n v a l i d T e m p F i l e N a m e ©v  ,I n v a l i d V a l u e F o r T o p L e f t ‡v  *I n v a l i d V a l u e S p e c i f i e d w  "I n v a l i d X m l C o n t e n t Jw  :I t e m C o l l e c t i o n H a s N o C o l l e c t i o n sw  LI t e m C o l l e c t i o n R e m o v e A r g u m e n t O u t O f R a n g e Cx  HI t e m C o l l e c t i o n S h o u l d U s e I n n e r S y n c R o o t Üx  VI t e m T e m p l a t e S e l e c t o r B r e a k s D i s p l a y M e m b e r P a t h †y  LI t e m s C o n t r o l _ P a r e n t N o t F r a m e w o r k E l e m e n t Úy  &I t e m s P a n e l N o t A P a n e l Dz  .I t e m s P a n e l N o t S i n g l e N o d e ñz   I t e m s S o u r c e I n U s e ﬂz  6K e y A l i g n C e n t e r D i s p l a y S t r i n g i{  8K e y A l i g n J u s t i f y D i s p l a y S t r i n g q{  2K e y A l i g n L e f t D i s p l a y S t r i n g y{  4K e y A l i g n R i g h t D i s p l a y S t r i n g Å{  .K e y A l t U n d o D i s p l a y S t r i n g â{  $K e y A p p l y B a c k g r o u n d ò{  >K e y A p p l y B a c k g r o u n d D i s p l a y S t r i n g ö{  @K e y A p p l y D o u b l e S p a c e D i s p l a y S t r i n g ú{  $K e y A p p l y F o n t F a m i l y §{  >K e y A p p l y F o n t F a m i l y D i s p l a y S t r i n g ¶{   K e y A p p l y F o n t S i z e ®{  :K e y A p p l y F o n t S i z e D i s p l a y S t r i n g ™{  $K e y A p p l y F o r e g r o u n d ¨{  >K e y A p p l y F o r e g r o u n d D i s p l a y S t r i n g Æ{  JK e y A p p l y O n e A n d A H a l f S p a c e D i s p l a y S t r i n g ∞{  @K e y A p p l y S i n g l e S p a c e D i s p l a y S t r i n g ∏{  2K e y B a c k s p a c e D i s p l a y S t r i n g ¿{  4K e y C o l l e c t i o n H a s I n v a l i d K e y À{  (K e y C o p y D i s p l a y S t r i n g 1|  4K e y C o p y F o r m a t D i s p l a y S t r i n g 9|  "K e y C o r r e c t i o n L i s t G|  <K e y C o r r e c t i o n L i s t D i s p l a y S t r i n g I|  4K e y C t r l I n s e r t D i s p l a y S t r i n g K|  &K e y C u t D i s p l a y S t r i n g X|  @K e y D e c r e a s e F o n t S i z e D i s p l a y S t r i n g `|  FK e y D e c r e a s e I n d e n t a t i o n D i s p l a y S t r i n g v|  :K e y D e l e t e C o l u m n s D i s p l a y S t r i n g Ñ|  ,K e y D e l e t e D i s p l a y S t r i n g ñ|  <K e y D e l e t e N e x t W o r d D i s p l a y S t r i n g û|  DK e y D e l e t e P r e v i o u s W o r d D i s p l a y S t r i n g ´|  K e y D e l e t e R o w s ª|  4K e y D e l e t e R o w s D i s p l a y S t r i n g Ω|  <K e y E n t e r L i n e B r e a k D i s p l a y S t r i n g ø|  FK e y E n t e r P a r a g r a p h B r e a k D i s p l a y S t r i n g Ã|  @K e y I n c r e a s e F o n t S i z e D i s p l a y S t r i n g ”|  FK e y I n c r e a s e I n d e n t a t i o n D i s p l a y S t r i n g Í|  :K e y I n s e r t C o l u m n s D i s p l a y S t r i n g Ú|  4K e y I n s e r t R o w s D i s p l a y S t r i n g }  6K e y I n s e r t T a b l e D i s p l a y S t r i n g }  4K e y M e r g e C e l l s D i s p l a y S t r i n g (}  <K e y M o v e D o w n B y L i n e D i s p l a y S t r i n g :}  <K e y M o v e D o w n B y P a g e D i s p l a y S t r i n g B}  FK e y M o v e D o w n B y P a r a g r a p h D i s p l a y S t r i n g L}  FK e y M o v e L e f t B y C h a r a c t e r D i s p l a y S t r i n g Y}  <K e y M o v e L e f t B y W o r d D i s p l a y S t r i n g `}  HK e y M o v e R i g h t B y C h a r a c t e r D i s p l a y S t r i n g l}  >K e y M o v e R i g h t B y W o r d D i s p l a y S t r i n g t}  >K e y M o v e T o C o l u m n E n d D i s p l a y S t r i n g Å}  BK e y M o v e T o C o l u m n S t a r t D i s p l a y S t r i n g è}  BK e y M o v e T o D o c u m e n t E n d D i s p l a y S t r i n g õ}  FK e y M o v e T o D o c u m e n t S t a r t D i s p l a y S t r i n g •}  :K e y M o v e T o L i n e E n d D i s p l a y S t r i n g ∞}  >K e y M o v e T o L i n e S t a r t D i s p l a y S t r i n g µ}  DK e y M o v e T o W i n d o w B o t t o m D i s p l a y S t r i n g ª}  >K e y M o v e T o W i n d o w T o p D i s p l a y S t r i n g Œ}  8K e y M o v e U p B y L i n e D i s p l a y S t r i n g ﬂ}  8K e y M o v e U p B y P a g e D i s p l a y S t r i n g Á}  BK e y M o v e U p B y P a r a g r a p h D i s p l a y S t r i n g Ô}  6K e y P a s t e F o r m a t D i s p l a y S t r i n g ¸}  (K e y R e d o D i s p l a y S t r i n g 
+~  BK e y R e m o v e L i s t M a r k e r s D i s p l a y S t r i n g ~  6K e y R e s e t F o r m a t D i s p l a y S t r i n g  ~  @K e y S e l e c t D o w n B y L i n e D i s p l a y S t r i n g 1~  @K e y S e l e c t D o w n B y P a g e D i s p l a y S t r i n g ?~  JK e y S e l e c t D o w n B y P a r a g r a p h D i s p l a y S t r i n g O~  JK e y S e l e c t L e f t B y C h a r a c t e r D i s p l a y S t r i n g b~  @K e y S e l e c t L e f t B y W o r d D i s p l a y S t r i n g o~  LK e y S e l e c t R i g h t B y C h a r a c t e r D i s p l a y S t r i n g Å~  BK e y S e l e c t R i g h t B y W o r d D i s p l a y S t r i n g è~  BK e y S e l e c t T o C o l u m n E n d D i s p l a y S t r i n g ¢~  FK e y S e l e c t T o C o l u m n S t a r t D i s p l a y S t r i n g ∂~  FK e y S e l e c t T o D o c u m e n t E n d D i s p l a y S t r i n g »~  JK e y S e l e c t T o D o c u m e n t S t a r t D i s p l a y S t r i n g ÿ~  >K e y S e l e c t T o L i n e E n d D i s p l a y S t r i n g È~  BK e y S e l e c t T o L i n e S t a r t D i s p l a y S t r i n g Ù~  HK e y S e l e c t T o W i n d o w B o t t o m D i s p l a y S t r i n g    BK e y S e l e c t T o W i n d o w T o p D i s p l a y S t r i n g   <K e y S e l e c t U p B y L i n e D i s p l a y S t r i n g 0  <K e y S e l e c t U p B y P a g e D i s p l a y S t r i n g :  FK e y S e l e c t U p B y P a r a g r a p h D i s p l a y S t r i n g H  <K e y S h i f t B a c k s p a c e D i s p l a y S t r i n g W  6K e y S h i f t D e l e t e D i s p l a y S t r i n g h  6K e y S h i f t I n s e r t D i s p l a y S t r i n g v  4K e y S h i f t S p a c e D i s p l a y S t r i n g Ñ  *K e y S p a c e D i s p l a y S t r i n g ñ  2K e y S p l i t C e l l D i s p l a y S t r i n g ¢  BK e y S w i t c h V i e w i n g M o d e D i s p l a y S t r i n g ¥  6K e y T a b B a c k w a r d D i s p l a y S t r i n g º  4K e y T a b F o r w a r d D i s p l a y S t r i n g «  4K e y T o g g l e B o l d D i s p l a y S t r i n g Ã  :K e y T o g g l e B u l l e t s D i s p l a y S t r i n g ‘  8K e y T o g g l e I n s e r t D i s p l a y S t r i n g ‚  8K e y T o g g l e I t a l i c D i s p l a y S t r i n g Í  >K e y T o g g l e N u m b e r i n g D i s p l a y S t r i n g Ú  &K e y T o g g l e S p e l l C h e c k  Ä  @K e y T o g g l e S p e l l C h e c k D i s p l a y S t r i n g Ä  >K e y T o g g l e S u b s c r i p t D i s p l a y S t r i n g Ä  BK e y T o g g l e S u p e r s c r i p t D i s p l a y S t r i n g Ä  >K e y T o g g l e U n d e r l i n e D i s p l a y S t r i n g &Ä  (K e y U n d o D i s p l a y S t r i n g .Ä  .K i l l B i t E n f o r c e d S h u t d o w n 6Ä  "L e n g t h F o r m a t E r r o r ØÄ  @L i s t B o x S e l e c t A l l K e y D i s p l a y S t r i n g ÍÄ  :L i s t B o x S e l e c t A l l S e l e c t i o n M o d e ÚÄ  (L i s t B o x S e l e c t A l l T e x t AÅ  <L i s t E l e m e n t I t e m N o t A C h i l d O f L i s t SÅ  VL i s t V i e w _ G r i d V i e w C o l u m n C o l l e c t i o n I s R e a d O n l y ±Å  8L i s t V i e w _ I l l e g a l C h i l d r e n T y p e ﬂÅ  PL i s t V i e w _ M i s s i n g P a r a m e t e r l e s s C o n s t r u c t o r !Ç  bL i s t V i e w _ N o t A l l o w S h a r e C o l u m n T o T w o C o l u m n C o l l e c t i o n œÇ  6L i s t V i e w _ V i e w C a n n o t B e S h a r e d äÉ  L o g i c a l T r e e L o o p ÕÉ  L o o p D e t e c t e d oÑ  6M a r k u p E x t e n s i o n A r r a y B a d T y p e †Ñ  0M a r k u p E x t e n s i o n A r r a y T y p e Ö  0M a r k u p E x t e n s i o n B a d S t a t i c oÖ  VM a r k u p E x t e n s i o n D y n a m i c O r B i n d i n g I n C o l l e c t i o n „Ö  PM a r k u p E x t e n s i o n D y n a m i c O r B i n d i n g O n C l r P r o p ~Ü  0M a r k u p E x t e n s i o n N o C o n t e x t á  .M a r k u p E x t e n s i o n P r o p e r t y Çá  4M a r k u p E x t e n s i o n R e s o u r c e K e y Ùá  >M a r k u p E x t e n s i o n R e s o u r c e N o t F o u n d mà  6M a r k u p E x t e n s i o n S t a t i c M e m b e r Üà  .M a r k u p E x t e n s i o n T y p e N a m e Úà  4M a r k u p E x t e n s i o n T y p e N a m e B a d ^â  NM a r k u p W r i t e r _ C a n n o t S e r i a l i z e G e n e r i c t y p e èâ  XM a r k u p W r i t e r _ C a n n o t S e r i a l i z e N e s t e d P u b l i c t y p e Ωâ  RM a r k u p W r i t e r _ C a n n o t S e r i a l i z e N o n P u b l i c t y p e Úâ  4M a x L e n g t h E x c e e d s B u f f e r S i z e %ä  .M a x i m u m N o t e S i z e E x c e e d e d Éä  0M e a s u r e R e e n t r a n c y I n v a l i d ªä  nM e d i a E l e m e n t _ C a n n o t S e t S o u r c e O n M e d i a E l e m e n t D r i v e n B y C l o c k ¸ä  >M e m b e r N o t A l l o w e d D u r i n g A d d O r E d i t Nã  BM e m b e r N o t A l l o w e d D u r i n g T r a n s a c t i o n íã  .M e m b e r N o t A l l o w e d F o r V i e w ⁄ã  >M i s s i n g A n n o t a t i o n H i g h l i g h t L a y e r å  (M i s s i n g C o n t e n t S o u r c e /å  *M i s s i n g V a l u e C o n v e r t e r üå  >M o d i f i c a t i o n E a r l i e r T h a n C r e a t i o n »å  VM o d i f y i n g L o g i c a l T r e e V i a S t y l e s N o t I m p l e m e n t e d ç  :M o r e T h a n O n e A t t a c h e d A n n o t a t i o n èç  0M o r e T h a n O n e S t a r t i n g P a r t s —ç  4M o v e I n D e f e r S e l e c t i o n A c t i v e é  4M u l t i B i n d i n g H a s N o C o n v e r t e r [é  ,M u l t i S e l e c t o r S e l e c t A l l ≠é  M u l t i S i n g l e t o n Òé  RM u l t i T h r e a d e d C o l l e c t i o n C h a n g e N o t S u p p o r t e d Mè  4M u s t B a s e O n S t y l e O f A B a s e T y p e Àè  M u s t B e C o n d i t i o n ê  ,M u s t B e F r a m e w o r k D e r i v e d yê  4M u s t B e F r a m e w o r k O r 3 D D e r i v e d Õê  M u s t B e O f T y p e +ë  &M u s t B e T r i g g e r A c t i o n Lë  $M u s t B e T y p e O r S t r i n g †ë  0M u s t I m p l e m e n t I U r i C o n t e x t Ûë  DM u s t N o t T e m p l a t e U n a s s o c i a t e d C o n t r o l 4í  ,M u s t U s e W i n d o w S t y l e N o n e ˇí  $N a m e N o t E m p t y S t r i n g aì  N a m e N o t F o u n d Üì  BN a m e S c o p e D u p l i c a t e N a m e s N o t A l l o w e d Œì  <N a m e S c o p e I n v a l i d I d e n t i f i e r N a m e î  6N a m e S c o p e N a m e N o t E m p t y S t r i n g -î  *N a m e S c o p e N a m e N o t F o u n d Rî  "N a m e S c o p e N o t F o u n d nî  BN a m e d O b j e c t M u s t B e F r a m e w o r k E l e m e n t ùî  RN a m e s N o t S u p p o r t e d I n s i d e R e s o u r c e D i c t i o n a r y ’î  0N a v W i n d o w M e n u C u r r e n t P a g e ï  $N e e d T o B e C o m V i s i b l e &ï  N e g a t i v e V a l u e åï  6N e s t e d B e g i n I n i t N o t S u p p o r t e d Õï  N o A d d C h i l d ñ  8N o A t t a c h e d A n n o t a t i o n T o M o d i f y dñ  N o B a c k E n t r y ìñ  6N o C h e c k O r C h a n g e W h e n D e f e r r e d Êñ  8N o D e f a u l t U p d a t e S o u r c e T r i g g e r Zó  N o E l e m e n t ˘ó  N o E l e m e n t O b j e c t 4ò  N o F o r w a r d E n t r y Éò  HN o P r e s e n t a t i o n C o n t e x t F o r G i v e n E l e m e n t Ÿò  6N o P r o c e s s o r F o r S e l e c t i o n T y p e ô   N o S c o p i n g E l e m e n t Rô  dN o U p d a t e S o u r c e T r i g g e r F o r I n n e r B i n d i n g O f M u l t i B i n d i n g |ô  N o n C L S E x c e p t i o n 	ö  2N o n C l s A c t i v a t i o n E x c e p t i o n Cö  >N o n P a c k A p p A b s o l u t e U r i N o t A l l o w e d ûö  >N o n P a c k S o o A b s o l u t e U r i N o t A l l o w e d .õ  ,N o n W h i t e S p a c e I n A d d T e x t ¿õ  4N o t H i g h l i g h t A n n o t a t i o n T y p e ú  0N o t I n A s s o c i a t e d C o n t a i n e r `ú  &N o t I n A s s o c i a t e d T r e e ¨ú  N o t I n T h i s T r e e ˚ú  N o t S u p p o r t e d #ù  *N o t S u p p o r t e d I n B r o w s e r {ù  N u l l P a r e n t N o d e ºù  &N u l l P r o p e r t y I l l e g a l /û  N u l l T y p e I l l e g a l ]û  N u l l U r i Üû  LO b j e c t D a t a P r o v i d e r C a n H a v e O n l y O n e S o u r c e  û  :O b j e c t D a t a P r o v i d e r H a s N o S o u r c e 6ü  BO b j e c t D a t a P r o v i d e r N o n C L S E x c e p t i o n xü  NO b j e c t D a t a P r o v i d e r N o n C L S E x c e p t i o n I n v o k e ›ü  ^O b j e c t D a t a P r o v i d e r P a r a m e t e r C o l l e c t i o n I s N o t I n U s e T†  4O b j e c t D i s p o s e d _ S t o r e C l o s e d ›†  2O n l y F l o w A n d F i x e d S u p p o r t e d °  ,O n l y F l o w F i x e d S u p p o r t e d N°  P T S E r r o r ü°   P T S I n v a l i d H a n d l e ¯°  :P a g e C a n n o t H a v e M u l t i p l e C o n t e n t W¢  &P a g e C o n t e n t N o t F o u n d ã¢  <P a g e C o n t e n t U n s u p p o r t e d M i m e T y p e ∞¢  <P a g e C o n t e n t U n s u p p o r t e d P a g e T y p e ˆ¢  &P a n e l I s N o t I t e m s H o s t Z£  6P a n e l _ B o u n d P a n e l _ N o C h i l d r e n î£  4P a n e l _ I t e m s C o n t r o l N o t F o u n d D§  (P a n e l _ N o N u l l C h i l d r e n Á§  0P a n e l _ N o N u l l V i s u a l P a r e n t S•  2P a r a m e t e r C a n n o t B e N e g a t i v e ç•  4P a r a m e t e r M u s t B e L o g i c a l N o d e »•  >P a r e n t O f P a g e M u s t B e W i n d o w O r F r a m e ¶  @P a r s e r A b a n d o n e d T y p e C o n v e r t e r T e x t V¶  "P a r s e r A s y n c O n R o o t ß  <P a r s e r A t t a c h e d P r o p I n h e r i t E r r o r Yß  ,P a r s e r A t t r i b u t e A r g s L o w ∞ß  @P a r s e r A t t r i b u t e N a m e s p a c e M i s M a t c h Õß  *P a r s e r B a d A s s e m b l y N a m e +®  *P a r s e r B a d A s s e m b l y P a t h n®  P a r s e r B a d C h i l d ±®  4P a r s e r B a d C o n s t r u c t o r P a r a m s %©  "P a r s e r B a d E n c o d i n g q©  P a r s e r B a d K e y Î©  0P a r s e r B a d M e m b e r R e f e r e n c e i™  P a r s e r B a d N a m e ø™  *P a r s e r B a d N u l l a b l e T y p e u´  P a r s e r B a d S t r i n g ¯´  "P a r s e r B a d S y n c M o d e 2¨  8P a r s e r B a d T y p e I n A r r a y P r o p e r t y ó¨  (P a r s e r B a d U i d O r N a m e M E ˛¨  P a r s e r B a m l E v e n t f≠  "P a r s e r B a m l V e r s i o n …≠  2P a r s e r C a n O n l y H a v e O n e C h i l d 8Æ  4P a r s e r C a n n o t A d d A n y C h i l d r e n ØÆ  6P a r s e r C a n n o t A d d A n y C h i l d r e n 2 ÁÆ  (P a r s e r C a n n o t A d d C h i l d ,Ø  JP a r s e r C a n n o t C o n v e r t I n i t i a l i z a t i o n T e x t `Ø  @P a r s e r C a n n o t C o n v e r t P r o p e r t y V a l u e ùØ  LP a r s e r C a n n o t C o n v e r t P r o p e r t y V a l u e S t r i n g ÍØ  2P a r s e r C a n n o t C o n v e r t S t r i n g <∞  6P a r s e r C a n n o t R e u s e X a m l R e a d e r ã∞  (P a r s e r C a n n o t S e t V a l u e ˘∞  0P a r s e r C a n t C r e a t e D e l e g a t e F±  8P a r s e r C a n t C r e a t e I n s t a n c e T y p e ﬁ±  >P a r s e r C a n t C r e a t e T e x t C o m p l e x P r o p P≤  &P a r s e r C a n t G e t D P O r P i •≤  *P a r s e r C a n t G e t P r o p e r t y )≥  ,P a r s e r C a n t S e t A t t r i b u t e ø≥  8P a r s e r C a n t S e t C o n t e n t P r o p e r t y ¥  :P a r s e r C a n t S e t T r i g g e r C o n d i t i o n ô¥  *P a r s e r C o m p a t D u p l i c a t e µ  :P a r s e r C o n t e n t M u s t B e C o n t i g u o u s ﬁµ  :P a r s e r D e f S h a r e d O n l y I n C o m p i l e d n∂  P a r s e r D e f T a g ˇ∂  :P a r s e r D e f a u l t C o n v e r t e r E l e m e n t Ñ∑  <P a r s e r D e f a u l t C o n v e r t e r P r o p e r t y ﬂ∑  .P a r s e r D e f e r C o n t e n t A s y n c P∏  ,P a r s e r D i c t i o n a r y S e a l e d ≠∏  ,P a r s e r D u p D i c t i o n a r y K e y Ï∏  LP a r s e r D u p l i c a t e M a r k u p E x t e n s i o n P r o p e r t y :π  0P a r s e r D u p l i c a t e P r o p e r t y 1 ïπ  0P a r s e r D u p l i c a t e P r o p e r t y 2 ﬂπ  ,P a r s e r E m p t y C o m p l e x P r o p V∫  *P a r s e r E n t i t y R e f e r e n c e ∫∫  .P a r s e r E r r o r C o n t e x t _ F i l e Â∫  8P a r s e r E r r o r C o n t e x t _ F i l e _ L i n e ª  .P a r s e r E r r o r C o n t e x t _ L i n e 3ª  .P a r s e r E r r o r C o n t e x t _ T y p e Tª  8P a r s e r E r r o r C o n t e x t _ T y p e _ F i l e jª  BP a r s e r E r r o r C o n t e x t _ T y p e _ F i l e _ L i n e ïª  8P a r s e r E r r o r C o n t e x t _ T y p e _ L i n e ÷ª  6P a r s e r E r r o r C r e a t i n g I n s t a n c e º  0P a r s e r E r r o r P a r s i n g A t t r i b Dº  8P a r s e r E r r o r P a r s i n g A t t r i b T y p e çº  HP a r s e r E v e n t D e l e g a t e T y p e N o t A c c e s s i b l e ¯º  $P a r s e r F a i l F i n d T y p e äΩ  &P a r s e r F a i l e d E n d I n i t <æ  FP a r s e r F a i l e d T o C r e a t e F r o m C o n s t r u c t o r Üæ  hP a r s e r F i l t e r X m l R e a d e r N o D e f i n i t i o n P r e f i x C h a n g e A l l o w e d ≠æ  VP a r s e r F i l t e r X m l R e a d e r N o I n d e x A t t r i b u t e A c c e s s ¯æ  &P a r s e r I A d d C h i l d T e x t Åø  4P a r s e r I E n u m e r a b l e I A d d C h i l d ﬁø  JP a r s e r I n v a l i d C o n t e n t P r o p e r t y A t t r i b u t e :¿  6P a r s e r I n v a l i d I d e n t i f i e r N a m e ã¿  2P a r s e r I n v a l i d S t a t i c M e m b e r ¥¿  :P a r s e r K e y O n E x p l i c i t D i c t i o n a r y Ï¿  (P a r s e r K e y s A r e S t r i n g s m¡  &P a r s e r L i n e A n d O f f s e t Ø¡  4P a r s e r M a p P I M i s s i n g A s s e m b l y «¡  *P a r s e r M a p P I M i s s i n g K e y ~¬  .P a r s e r M a p p i n g U r i I n v a l i d —¬  PP a r s e r M a r k u p E x t e n s i o n B a d C o n s t r u c t o r P a r a m ı¬  BP a r s e r M a r k u p E x t e n s i o n B a d D e l i m i t e r T√  dP a r s e r M a r k u p E x t e n s i o n D e l i m i t e r B e f o r e F i r s t A t t r i b u t e ˘√  @P a r s e r M a r k u p E x t e n s i o n N o E n d C u r l i e …ƒ  @P a r s e r M a r k u p E x t e n s i o n N o N a m e V a l u e Úƒ  FP a r s e r M a r k u p E x t e n s i o n N o Q u o t e s I n N a m e ê≈  HP a r s e r M a r k u p E x t e n s i o n T r a i l i n g G a r b a g e ∆  @P a r s e r M a r k u p E x t e n s i o n U n k n o w n A t t r h∆  6P a r s e r M e t r o U n k n o w n A t t r i b u t e ”∆   P a r s e r M u l t i B a m l s ;«  P a r s e r M u l t i R o o t Ä«  .P a r s e r N e s t e d C o m p l e x P r o p ’«  "P a r s e r N o A t t r A r r a y 0»  &P a r s e r N o C h i l d r e n T a g ]»  (P a r s e r N o C o m p l e x M u l t i ç»  "P a r s e r N o D P O n O w n e r –»  4P a r s e r N o D e f a u l t C o n s t r u c t o r ü…  <P a r s e r N o D e f a u l t P r o p C o n s t r u c t o r B   *P a r s e r N o D i c t i o n a r y K e y %À  ,P a r s e r N o D i c t i o n a r y N a m e ïÀ  $P a r s e r N o D i g i t E n u m s 
+Ã  ,P a r s e r N o E l e m e n t C r e a t e 2 sÃ   P a r s e r N o E v e n t T a g Õ  P a r s e r N o E v e n t s vÕ  *P a r s e r N o M a t c h i n g A r r a y æÕ  6P a r s e r N o M a t c h i n g I D i c t i o n a r y Œ  *P a r s e r N o M a t c h i n g I L i s t ´Œ  $P a r s e r N o N a m e O n T y p e œ  HP a r s e r N o N a m e U n d e r D e f i n i t i o n S c o p e T y p e §œ  "P a r s e r N o N a m e s p a c e b–  8P a r s e r N o N e s t e d X m l D a t a I s l a n d s £–  2P a r s e r N o P r o p O n C o m p l e x P r o p  –   P a r s e r N o P r o p T y p e —   P a r s e r N o R e s o u r c e 6—  $P a r s e r N o S e r i a l i z e r Ñ—  &P a r s e r N o S e t t e r C h i l d Ÿ—  P a r s e r N o T y p e ?“   P a r s e r N o T y p e C o n v Ç“  8P a r s e r N o t A l l o w e d I n t e r n a l T y p e ∫“  *P a r s e r N o t M a r k e d P u b l i c ”  0P a r s e r N o t M a r k u p E x t e n s i o n _”  8P a r s e r N u l l P r o p e r t y C o l l e c t i o n Ú”  $P a r s e r N u l l R e t u r n e d 5‘  8P a r s e r O w n e r E v e n t M u s t B e P u b l i c Ï‘  P a r s e r P a r e n t D O 9’  *P a r s e r P r e f i x N S E l e m e n t †’  ,P a r s e r P r e f i x N S P r o p e r t y ÷  "P a r s e r P r o p N o V a l u e Ö÷  <P a r s e r P r o p e r t y C o l l e c t i o n C l o s e d ´÷  8P a r s e r P r o v i d e V a l u e C a n t S e t U r i P◊   P a r s e r P u b l i c T y p e ì◊  4P a r s e r R e a d O n l y N u l l P r o p e r t y Ò◊  $P a r s e r R e a d O n l y P r o p Sÿ  *P a r s e r R e s o u r c e K e y T y p e •ÿ   P a r s e r S y n c O n R o o t Îÿ  .P a r s e r T e x t I n C o m p l e x P r o p ,Ÿ  HP a r s e r T e x t I n v a l i d I n A r r a y O r D i c t i o n a r y áŸ  .P a r s e r T o o M a n y A s s e m b l i e s ≈Ÿ  LP a r s e r T y p e C o n v e r t e r T e x t N e e d s E n d E l e m e n t  ⁄  >P a r s e r T y p e C o n v e r t e r T e x t U n u s a b l e z⁄  $P a r s e r U n d e c l a r e d N S 4€  "P a r s e r U n e x p I n B A M L _€  ,P a r s e r U n e x p e c t e d E n d E l e π€  ,P a r s e r U n k n o w n A t t r i b u t e 5‹  "P a r s e r U n k n o w n B a m l l‹  2P a r s e r U n k n o w n D e f A t t r i b u t e ˛‹  BP a r s e r U n k n o w n D e f A t t r i b u t e C o m p i l e r _›  RP a r s e r U n k n o w n P r e s e n t a t i o n O p t i o n s A t t r i b u t e ¿›   P a r s e r U n k n o w n T a g 6ﬁ  (P a r s e r U n k n o w n X m l T y p e kﬁ  *P a r s e r W r i t e r N o S e e k E n d öﬁ  2P a r s e r W r i t e r U n k n o w n O r i g i n Ïﬁ  ,P a r s e r X m l I s l a n d M i s s i n g Mﬂ  2P a r s e r X m l I s l a n d U n e x p e c t e d ‡  BP a r s e r X m l L a n g P r o p e r t y V a l u e I n v a l i d i‡  2P a r s e r X m l R e a d e r N o L i n e I n f o ®‡  HP a r t i a l T r u s t P r i n t D i a l o g M u s t B e I n v o k e d ·  >P a s s w o r d B o x I n v a l i d T e x t C o n t a i n e r ~·  &P a t h P a r a m e t e r I s N u l l Õ·  :P a t h P a r a m e t e r s I n d e x O u t O f R a n g e  ‚  P a t h S y n t a x [‚  0P l a t f o r m R e q u i r e m e n t T i t l e Ü‚  0P o p u p R e o p e n i n g N o t A l l o w e d ∂‚  JP r e v o i u s P a r t i a l P a g e C o n t e n t O u t s t a n d i n g ˛‚  bP r e v o i u s U n i n i t i a l i z e d D o c u m e n t R e f e r e n c e O u t s t a n d i n g X„  JP r i n t D i a l o g I n s t a l l P r i n t S u p p o r t C a p t i o n ª„  PP r i n t D i a l o g I n s t a l l P r i n t S u p p o r t M e s s a g e B o x ÿ„  6P r i n t D i a l o g I n v a l i d P a g e R a n g e F‰  (P r i n t D i a l o g P a g e R a n g e ê‰  2P r i n t D i a l o g Z e r o N o t A l l o w e d ô‰  &P r i n t J o b D e s c r i p t i o n À‰  &P r o g r e s s B a r R e a d O n l y ÷‰  &P r o p e r t y I s I m m u t a b l e Â  0P r o p e r t y I s I n i t i a l i z e O n l y sÂ  *P r o p e r t y M u s t H a v e V a l u e ÕÂ  &P r o p e r t y N o t B i n d a b l e !Ê  4P r o p e r t y P a t h I n d e x W r o n g T y p e UÊ  6P r o p e r t y P a t h I n v a l i d A c c e s s o r «Ê  .P r o p e r t y P a t h N o O w n e r T y p e xÁ  ,P r o p e r t y P a t h N o P r o p e r t y ƒÁ  .P r o p e r t y P a t h S y n t a x E r r o r  Ë  <P r o p e r t y T o S o r t B y N o t F o u n d O n T y p e CË  8P r o p e r t y T r i g g e r C y c l e D e t e c t e d ∞Ë  BP r o p e r t y T r i g g e r L a y e r L i m i t E x c e e d e d AÈ  0R a n g e A c t i o n s N o t S u p p o r t e d úÈ  "R e a d C o u n t N e g a t i v e ŒÈ   R e a d N o t S u p p o r t e d Í  4R e a d O n l y P r o p e r t y N o t A l l o w e d /Í  FR e c t _ W i d t h A n d H e i g h t C a n n o t B e N e g a t i v e yÍ  DR e l a t i v e S o u r c e I n v a l i d A n c e s t o r L e v e l •Í  2R e l a t i v e S o u r c e M o d e I n v a l i d ÈÍ  :R e l a t i v e S o u r c e M o d e I s I m m u t a b l e (Î  >R e l a t i v e S o u r c e N e e d s A n c e s t o r T y p e ÙÎ  .R e l a t i v e S o u r c e N e e d s M o d e QÏ  FR e l a t i v e S o u r c e N o t I n F i n d A n c e s t o r M o d e âÏ  0R e m o v e R e q u i r e s O f f s e t Z e r o ≈Ï  6R e m o v e R e q u i r e s P o s i t i v e C o u n t %Ì  &R e m o v e d I t e m N o t F o u n d bÌ  &R e m o v i n g P l a c e h o l d e r ´Ì  2R e p a r e n t M o d e l C h i l d I l l e g a l ÈÌ  NR e q u e s t N a v i g a t e E v e n t M u s t H a v e R o u t e d E v e n t §Ó  0R e q u i r e d A t t r i b u t e M i s s i n g ˜Ó  .R e q u i r e s E x p l i c i t C u l t u r e +Ô  6R e q u i r e s X m l N a m e s p a c e M a p p i n g ‰Ô  <R e q u i r e s X m l N a m e s p a c e M a p p i n g U r i N   R e s h o w N o t A l l o w e d ∏  PR e s o u r c e D i c t i o n a r y D e f e r r e d C o n t e n t F a i l u r e Ò  TR e s o u r c e D i c t i o n a r y D u p l i c a t e D e f e r r e d C o n t e n t |Ò  RR e s o u r c e D i c t i o n a r y I n v a l i d M e r g e d D i c t i o n a r y ∫Ò  8R e s o u r c e D i c t i o n a r y I s R e a d O n l y ìÚ  BR e s o u r c e D i c t i o n a r y L o a d F r o m F a i l u r e ’Ú  HR e t u r n E v e n t H a n d l e r M u s t B e O n P a r e n t P a g e Û  XR i c h T e x t B o x _ C a n t S e t D o c u m e n t I n s i d e C h a n g e B l o c k âÛ  lR i c h T e x t B o x _ D o c u m e n t B e l o n g s T o A n o t h e r R i c h T e x t B o x A l r e a d y Ù  HR i c h T e x t B o x _ P o i n t e r N o t I n S a m e D o c u m e n t 7Ù  JR o w C a c h e C a n n o t M o d i f y N o n E x i s t e n t L a y o u t mÙ  (R o w C a c h e P a g e N o t F o u n d ¶Ù  :R o w C a c h e R e c a l c W i t h N o P a g e C a c h e ’Ù  8S c r o l l B a r _ C o n t e x t M e n u _ B o t t o m ı  <S c r o l l B a r _ C o n t e x t M e n u _ L e f t E d g e "ı  <S c r o l l B a r _ C o n t e x t M e n u _ P a g e D o w n .ı  <S c r o l l B a r _ C o n t e x t M e n u _ P a g e L e f t =ı  >S c r o l l B a r _ C o n t e x t M e n u _ P a g e R i g h t Pı  8S c r o l l B a r _ C o n t e x t M e n u _ P a g e U p dı  >S c r o l l B a r _ C o n t e x t M e n u _ R i g h t E d g e sı  @S c r o l l B a r _ C o n t e x t M e n u _ S c r o l l D o w n Äı  @S c r o l l B a r _ C o n t e x t M e n u _ S c r o l l H e r e ëı  @S c r o l l B a r _ C o n t e x t M e n u _ S c r o l l L e f t †ı  BS c r o l l B a r _ C o n t e x t M e n u _ S c r o l l R i g h t µı  <S c r o l l B a r _ C o n t e x t M e n u _ S c r o l l U p Àı  2S c r o l l B a r _ C o n t e x t M e n u _ T o p ‹ı  0S c r o l l V i e w e r _ C a n n o t B e N a N „ı  .S c r o l l V i e w e r _ O u t O f R a n g e ˆ  `S e c u r i t y E x c e p t i o n F o r S e t t i n g S a n d b o x E x t e r n a l T o T r u e dˆ  S e e k F a i l e d ¥ˆ  S e e k N e g a t i v e ﬁˆ   S e e k N o t S u p p o r t e d ˜  *S e l e c t i o n C h a n g e A c t i v e G˜  0S e l e c t i o n C h a n g e N o t A c t i v e é˜  <S e l e c t i o n D o e s N o t R e s o l v e T o A P a g e ≤˜  <S e l e c t i o n M u s t B e S e r v i c e P r o v i d e r Ù˜  FS e r i a l i z e r P r o v i d e r A l r e a d y R e g i s t e r e d 1¯  8S e r i a l i z e r P r o v i d e r C a n n o t L o a d ç¯  TS e r i a l i z e r P r o v i d e r D e f a u l t F i l e E x t e n s i o n N u l l ∂¯  BS e r i a l i z e r P r o v i d e r D i s p l a y N a m e N u l l 	˘  LS e r i a l i z e r P r o v i d e r M a n u f a c t u r e r N a m e N u l l S˘  RS e r i a l i z e r P r o v i d e r M a n u f a c t u r e r W e b s i t e N u l l ¢˘  >S e r i a l i z e r P r o v i d e r N o t R e g i s t e r e d Ù˘  FS e r i a l i z e r P r o v i d e r U n k n o w n S e r i a l i z e r `˙  <S e r i a l i z e r P r o v i d e r W r o n g V e r s i o n é˙  2S e t I n D e f e r S e l e c t i o n A c t i v e ‹˙  *S e t L e n g t h N o t S u p p o r t e d B˚  .S e t P o s i t i o n N o t S u p p o r t e d t˚  FS e t t e r O n S t y l e N o t A l l o w e d T o H a v e T a r g e t ≥˚  0S e t t e r V a l u e C a n n o t B e U n s e t >¸  PS e t t e r V a l u e O f M a r k u p E x t e n s i o n N o t S u p p o r t e d {¸  "S h o w D i a l o g O n M o d a l ˝  &S h o w D i a l o g O n V i s i b l e K˝  8S h o w N o n A c t i v a t e d A n d M a x i m i z e d å˝  6S h u t d o w n M o d e W h e n A p p S h u t d o w n Ï˝  JS o u r c e N a m e N o t S u p p o r t e d F o r D a t a T r i g g e r s I˛  LS o u r c e N a m e N o t S u p p o r t e d F o r S t y l e T r i g g e r s °˛  <S t a c k _ V i s u a l I n D i f f e r e n t S u b T r e e Rˇ  6S t a r t I n d e x E x c e e d s B u f f e r S i z e ëˇ  TS t a r t N o d e M u s t B e D o c u m e n t P a g e V i e w O r F i x e d P a g e ◊ˇ  :S t a r t N o d e M u s t B e F i x e d P a g e P r o x y   0S t a t i c R e s o u r c e I n X a m l O n l y 8  8S t o r y b o a r d _ A n i m a t i o n M i s m a t c h ï  LS t o r y b o a r d _ B e g i n S t o r y b o a r d N a m e N o t F o u n d # LS t o r y b o a r d _ B e g i n S t o r y b o a r d N a m e R e q u i r e d j LS t o r y b o a r d _ B e g i n S t o r y b o a r d N o S t o r y b o a r d ∞ DS t o r y b o a r d _ C o m p l e x P a t h N o t S u p p o r t e d Ô LS t o r y b o a r d _ I m m u t a b l e T a r g e t N o t S u p p o r t e d ∫ >S t o r y b o a r d _ M e d i a E l e m e n t N o t F o u n d ˘ >S t o r y b o a r d _ M e d i a E l e m e n t R e q u i r e d ? .S t o r y b o a r d _ N a m e N o t F o u n d ∂ .S t o r y b o a r d _ N e v e r A p p l i e d Û ,S t o r y b o a r d _ N o N a m e S c o p e h &S t o r y b o a r d _ N o T a r g e t ± 8S t o r y b o a r d _ P r o p e r t y P a t h E m p t y ÷ PS t o r y b o a r d _ P r o p e r t y P a t h F r o z e n C h e c k F a i l e d ˛ hS t o r y b o a r d _ P r o p e r t y P a t h I n c l u d e s N o n A n i m a t a b l e P r o p e r t y Y dS t o r y b o a r d _ P r o p e r t y P a t h M u s t P o i n t T o D e p e n d e n c y O b j e c t ¶ hS t o r y b o a r d _ P r o p e r t y P a t h M u s t P o i n t T o D e p e n d e n c y P r o p e r t y Í JS t o r y b o a r d _ P r o p e r t y P a t h O b j e c t N o t F o u n d 5 NS t o r y b o a r d _ P r o p e r t y P a t h P r o p e r t y N o t F o u n d w PS t o r y b o a r d _ P r o p e r t y P a t h S e a l e d C h e c k F a i l e d  BS t o r y b o a r d _ P r o p e r t y P a t h U n r e s o l v e d ` LS t o r y b o a r d _ S t o r y b o a r d R e f e r e n c e R e q u i r e d ± LS t o r y b o a r d _ T a r g e t N a m e N o t A l l o w e d I n S t y l e  PS t o r y b o a r d _ T a r g e t N a m e N o t D e p e n d e n c y O b j e c t x BS t o r y b o a r d _ T a r g e t P r o p e r t y R e q u i r e d √ 2S t o r y b o a r d _ U n a b l e T o F r e e z e  LS t o r y b o a r d _ U n r e c o g n i z e d H a n d o f f B e h a v i o r I	 JS t o r y b o a r d _ U n r e c o g n i z e d T i m e S e e k O r i g i n t	 *S t r e a m C a n n o t B e W r i t t e n û	 0S t r e a m D o e s N o t S u p p o r t S e e k ¬	 2S t r e a m D o e s N o t S u p p o r t W r i t e  
+ S t r e a m N o t S e t :
+ (S t r e a m O b j e c t D i s p o s e d j
+ S t r i n g E m p t y Ω
+ &S t y l e B a s e d O n H a s L o o p ¸
+ 0S t y l e C a n n o t B e B a s e d O n S e l f C DS t y l e D a t a T r i g g e r B i n d i n g H a s B a d V a l u e u <S t y l e D a t a T r i g g e r B i n d i n g M i s s i n g µ "S t y l e F o r W r o n g T y p e ˜ .S t y l e H a s T o o M a n y E l e m e n t s F <S t y l e I m p l i e d A n d C o m p l e x C h i l d r e n | ,S t y l e I n v a l i d E l e m e n t T a g Ó 4S t y l e K n o w n T a g W r o n g L o c a t i o n C S t y l e N o C l r E v e n t § S t y l e N o D e f  (S t y l e N o D i c t i o n a r y K e y Z &S t y l e N o E v e n t S e t t e r s – $S t y l e N o P r o p O r E v e n t 1 *S t y l e N o S e t t e r R e s o u r c e d S t y l e N o T a r g e t ú 8S t y l e N o T e m p l a t e B i n d I n S e t t e r s B DS t y l e N o T e m p l a t e B i n d I n V i s u a l T r i g g e r ¶ ,S t y l e N o T o p L e v e l E l e m e n t  6S t y l e P r o p T r i g g e r P r o p M i s s i n g î &S t y l e P r o p e r t y C u s t o m ÿ <S t y l e P r o p e r t y I n S t y l e N o t A l l o w e d . 6S t y l e P r o p e r t y S e t t e r M i n A t t r s ú ,S t y l e S e t t e r U n k n o w n P r o p ﬂ (S t y l e T a g N o t S u p p o r t e d £ DS t y l e T a r g e t T y p e M i s m a t c h W i t h E l e m e n t ﬁ *S t y l e T e x t N o t S u p p o r t e d  HS t y l e T r i g g e r s C a n n o t T a r g e t T h e T e m p l a t e `  S t y l e U n k n o w n P r o p # &S t y l e U n k n o w n T r i g g e r y DS t y l e V a l u e O f E x p r e s s i o n N o t S u p p o r t e d Æ >S y s t e m R e s o u r c e F o r T y p e I s N o t S t y l e ‰ BT a b l e C o l l e c t i o n C o u n t N e e d N o n N e g N u m  DT a b l e C o l l e c t i o n E l e m e n t T y p e E x p e c t e d @ @T a b l e C o l l e c t i o n I n O t h e r C o l l e c t i o n k 8T a b l e C o l l e c t i o n I n v a l i d O f f L e n ú @T a b l e C o l l e c t i o n N o t E n o u g h C a p a c i t y ¿ 2T a b l e C o l l e c t i o n O u t O f R a n g e  LT a b l e C o l l e c t i o n O u t O f R a n g e N e e d N o n N e g N u m - <T a b l e C o l l e c t i o n R a n g e O u t O f R a n g e ^ NT a b l e C o l l e c t i o n R a n k M u l t i D i m N o t S u p p o r t e d ™ >T a b l e C o l l e c t i o n W r o n g P r o x y P a r e n t ﬂ 4T a b l e I n v a l i d P a r e n t N o d e T y p e  $T a r g e t N a m e N o t F o u n d G JT a r g e t N a m e N o t S u p p o r t e d F o r S t y l e S e t t e r s w &T e m p l a t e 3 D V a l u e O n l y ∂ 0T e m p l a t e B a d D i c t i o n a r y K e y ? ~T e m p l a t e C a n n o t H a v e N e s t e d C o n t e n t P r e s e n t e r A n d G r i d V i e w R o w P r e s e n t e r ì 8T e m p l a t e C h i l d I n d e x O u t O f R a n g e  <T e m p l a t e C i r c u l a r R e f e r e n c e F o u n d C T e m p l a t e D u p N a m e « @T e m p l a t e F i n d N a m e I n I n v a l i d E l e m e n t ˛ 4T e m p l a t e H a s N e s t e d N a m e S c o p e Q 2T e m p l a t e I n v a l i d B a m l R e c o r d Ù :T e m p l a t e I n v a l i d R o o t E l e m e n t T a g 9 :T e m p l a t e K n o w n T a g W r o n g L o c a t i o n ﬁ  T e m p l a t e M u s t B e F E # .T e m p l a t e N o M u l t i p l e R o o t s ∞ T e m p l a t e N o P r o p ˆ  T e m p l a t e N o T a r g e t . JT e m p l a t e N o T e m p l a t e B i n d I n V i s u a l T r i g g e r · .T e m p l a t e N o T r i g g e r T a r g e t 7 *T e m p l a t e N o t T a r g e t T y p e ª .T e m p l a t e T a g N o t S u p p o r t e d 0  4T e m p l a t e T a r g e t T y p e M i s m a t c h n  0T e m p l a t e T e x t N o t S u p p o r t e d ∫  &T e m p l a t e U n k n o w n P r o p ¸  bT e x t B o x B a s e _ C a n t S e t I s U n d o E n a b l e d I n s i d e C h a n g e B l o c k R! <T e x t B o x B a s e _ U n m a t c h e d E n d C h a n g e –! nT e x t B o x D e c o r a t o r M a r k e d A s T e x t B o x C o n t e n t M u s t H a v e N o C o n t e n t #" &T e x t B o x I n v a l i d C h i l d j" 6T e x t B o x I n v a l i d T e x t C o n t a i n e r ÿ" 4T e x t B o x M i n M a x L i n e s M i s m a t c h 2# tT e x t B o x S c r o l l V i e w e r M a r k e d A s T e x t B o x C o n t e n t M u s t H a v e N o C o n t e n t |# 0T e x t B o x _ C o n t e x t M e n u _ C o p y œ# .T e x t B o x _ C o n t e x t M e n u _ C u t €# RT e x t B o x _ C o n t e x t M e n u _ D e s c r i p t i o n _ D B C S S p a c e Â# RT e x t B o x _ C o n t e x t M e n u _ D e s c r i p t i o n _ S B C S S p a c e Ù# :T e x t B o x _ C o n t e x t M e n u _ I g n o r e A l l $ 0T e x t B o x _ C o n t e x t M e n u _ M o r e $ RT e x t B o x _ C o n t e x t M e n u _ N o S p e l l i n g S u g g e s t i o n s $ 2T e x t B o x _ C o n t e x t M e n u _ P a s t e 8$ LT e x t C o n t a i n e r C h a n g i n g R e e n t r a n c y I n v a l i d B$ DT e x t C o n t a i n e r D o e s N o t C o n t a i n E l e m e n t å$ XT e x t C o n t a i n e r _ U n d o M a n a g e r C r e a t e d M o r e T h a n O n c e —$ LT e x t E d i t o r C a n N o t R e g i s t e r C o m m a n d H a n d l e r ˛$ fT e x t E d i t o r C o p y P a s t e _ E n t r y P a r t I s M i s s i n g I n X a m l P a c k a g e Ö% dT e x t E d i t o r P r o p e r t y I s N o t A p p l i c a b l e F o r T e x t F o r m a t t i n g æ% NT e x t E d i t o r S p e l l e r I n t e r o p H a s B e e n D i s p o s e d ˆ% |T e x t E d i t o r T y p e O f P a r a m e t e r I s N o t A p p r o p r i a t e F o r F o r m a t t i n g P r o p e r t y <& tT e x t E l e m e n t C o l l e c t i o n _ C a n n o t C o p y T o A r r a y N o t S u f f i c i e n t M e m o r y à& JT e x t E l e m e n t C o l l e c t i o n _ I n d e x O u t O f R a n g e Ì& VT e x t E l e m e n t C o l l e c t i o n _ I t e m H a s U n e x p e c t e d T y p e ' |T e x t E l e m e n t C o l l e c t i o n _ N e x t S i b l i n g D o e s N o t B e l o n g T o T h i s C o l l e c t i o n j' DT e x t E l e m e n t C o l l e c t i o n _ N o E n u m e r a t o r ®' ÑT e x t E l e m e n t C o l l e c t i o n _ P r e v i o u s S i b l i n g D o e s N o t B e l o n g T o T h i s C o l l e c t i o n Ó' ZT e x t E l e m e n t C o l l e c t i o n _ T e x t E l e m e n t T y p e E x p e c t e d 0( >T e x t E l e m e n t _ U n m a t c h e d E n d P o i n t e r M( HT e x t P a n e l I l l e g a l P a r a T y p e F o r I A d d C h i l d å( ÄT e x t P o i n t e r _ C a n n o t I n s e r t T e x t E l e m e n t B e c a u s e I t B e l o n g s T o A n o t h e r T r e e ) (T e x t P o s i t i o n I s F r o z e n L) @T e x t P r o v i d e r _ I n v a l i d C h i l d E l e m e n t â) 2T e x t P r o v i d e r _ I n v a l i d P o i n t √) LT e x t P r o v i d e r _ T e x t S e l e c t i o n N o t S u p p o r t e d * XT e x t R a n g e E d i t _ I n v a l i d S t r u c t u r a l P r o p e r t y A p p l y N* LT e x t R a n g e P r o v i d e r _ E m p t y S t r i n g P a r a m e t e r ®* NT e x t R a n g e P r o v i d e r _ I n v a l i d P a r a m e t e r V a l u e œ* @T e x t R a n g e P r o v i d e r _ W r o n g T e x t R a n g e + >T e x t R a n g e _ I n v a l i d P a r a m e t e r V a l u e =+ dT e x t R a n g e _ P r o p e r t y C a n n o t B e I n c r e m e n t e d O r D e c r e m e n t e d a+ VT e x t R a n g e _ U n r e c o g n i z e d S t r u c t u r e I n D a t a F o r m a t ö+ >T e x t R a n g e _ U n s u p p o r t e d D a t a F o r m a t “+ XT e x t S c h e m a _ C a n n o t I n s e r t C o n t e n t I n T h i s P o s i t i o n , :T e x t S c h e m a _ C a n n o t S p l i t E l e m e n t ., :T e x t S c h e m a _ C h i l d T y p e I s I n v a l i d ^, 2T e x t S c h e m a _ I l l e g a l E l e m e n t ¬, @T e x t S c h e m a _ I l l e g a l H y p e r l i n k C h i l d ˘, 6T e x t S c h e m a _ T e x t I s N o t A l l o w e d V- PT e x t S c h e m a _ T e x t I s N o t A l l o w e d I n T h i s C o n t e x t t- jT e x t S c h e m a _ T h e C h i l d E l e m e n t B e l o n g s T o A n o t h e r T r e e A l r e a d y ∞- pT e x t S c h e m a _ T h i s B l o c k U I C o n t a i n e r H a s A C h i l d U I E l e m e n t A l r e a d y (. rT e x t S c h e m a _ T h i s I n l i n e U I C o n t a i n e r H a s A C h i l d U I E l e m e n t A l r e a d y í. XT e x t S c h e m a _ U I E l e m e n t N o t A l l o w e d I n T h i s P o s i t i o n ˝. 4T e x t S e g m e n t s M u s t N o t O v e r l a p (/ 4T e x t S t o r e _ B a d I M E C h a r O f f s e t `/ ,T e x t S t o r e _ B a d L o c k F l a g s ü/ BT e x t S t o r e _ C O N N E C T _ E _ C A N N O T C O N N E C T …/ @T e x t S t o r e _ C O N N E C T _ E _ N O C O N N E C T I O N Î/ :T e x t S t o r e _ C o m p o s i t i o n R e j e c t e d 10 .T e x t S t o r e _ E _ N O I N T E R F A C E f0 &T e x t S t o r e _ E _ N O T I M P L ´0  T e x t S t o r e _ N o S i n k —0 <T e x t S t o r e _ R e e n t r a n t R e q u e s t L o c k ˙0 *T e x t S t o r e _ T S _ E _ F O R M A T ó1 6T e x t S t o r e _ T S _ E _ I N V A L I D P O I N T À1 .T e x t S t o r e _ T S _ E _ N O L A Y O U T Ô1 .T e x t S t o r e _ T S _ E _ R E A D O N L Y 2 *T e x t V i e w I n v a l i d L a y o u t 92 :T h e m e D i c t i o n a r y E x t e n s i o n _ N a m e ®2 >T h e m e D i c t i o n a r y E x t e n s i o n _ S o u r c e ˘2 FT o S t r i n g F o r m a t S t r i n g _ G r i d V i e w C o l u m n ^3 RT o S t r i n g F o r m a t S t r i n g _ G r i d V i e w R o w P r e s e n t e r n3 ZT o S t r i n g F o r m a t S t r i n g _ G r i d V i e w R o w P r e s e n t e r B a s e ë3 VT o S t r i n g F o r m a t S t r i n g _ H e a d e r e d C o n t e n t C o n t r o l ®3 RT o S t r i n g F o r m a t S t r i n g _ H e a d e r e d I t e m s C o n t r o l ƒ3 BT o S t r i n g F o r m a t S t r i n g _ I t e m s C o n t r o l ‰3 <T o S t r i n g F o r m a t S t r i n g _ R a n g e B a s e ˘3 BT o S t r i n g F o r m a t S t r i n g _ T o g g l e B u t t o n !4 2T o k e n i z e r H e l p e r E m p t y T o k e n ?4 FT o k e n i z e r H e l p e r E x t r a D a t a E n c o u n t e r e d u4 <T o k e n i z e r H e l p e r M i s s i n g E n d Q u o t e ∫4 RT o k e n i z e r H e l p e r P r e m a t u r e S t r i n g T e r m i n a t i o n 5 RT o o l B a r _ I n v a l i d S t y l e _ T o o l B a r O v e r f l o w P a n e l ^5 BT o o l B a r _ I n v a l i d S t y l e _ T o o l B a r P a n e l ‘5 >T o o l T i p S t a y s O p e n F a l s e N o t A l l o w e d :6 "T r a c k _ S a m e B u t t o n s ¶6 *T r a n s f o r m N o t S u p p o r t e d ,7 4T r i g g e r A c t i o n A l r e a d y S e a l e d W7 NT r i g g e r A c t i o n M u s t B e l o n g T o A S i n g l e T r i g g e r w7 HT r i g g e r O n S t y l e N o t A l l o w e d T o H a v e S o u r c e ∆7 BT r i g g e r s S u p p o r t s E v e n t T r i g g e r s O n l y 58 &T r u s t N o t G r a n t e d T e x t Ä8 (T r u s t N o t G r a n t e d T i t l e Í8 ,T w o W a y B i n d i n g N e e d s P a t h 9 @T y p e M e t a d a t a C a n n o t C h a n g e A f t e r U s e <9 4T y p e M u s t I m p l e m e n t I A d d C h i l d ï9 .T y p e N a m e M u s t B e S p e c i f i e d ˛9 <T y p e V a l u e S e r i a l i z e r U n a v a i l a b l e *: <U I A _ O p e r a t i o n C a n n o t B e P e r f o r m e d ö: HU i L e s s P a g e F u n c t i o n N o t C a l l i n g O n R e t u r n º: 0U n R e c o g n i z e d B a m l N o d e T y p e ; ,U n a b l e T o L o c a t e R e s o u r c e 8; 0U n d e f i n e d H i g h l i g h t A n c h o r S; 2U n d o C o n t a i n e r T y p e M i s m a t c h z; 4U n d o M a n a g e r A l r e a d y A t t a c h e d Œ; (U n d o N o O p e n P a r e n t U n i t ˙; U n d o N o O p e n U n i t U< (U n d o N o t I n N o r m a l S t a t e ù< &U n d o S e r v i c e D i s a b l e d ¯< &U n d o U n i t A l r e a d y O p e n 6= 0U n d o U n i t C a n t B e A d d e d T w i c e É= 2U n d o U n i t C a n t B e O p e n e d T w i c e Í= U n d o U n i t L o c k e d >  U n d o U n i t N o t F o u n d I> .U n d o U n i t N o t O n T o p O f S t a c k Œ> U n d o U n i t O p e n ? &U n e x p e c t e d A t t r i b u t e h? @U n e x p e c t e d C o l l e c t i o n C h a n g e A c t i o n ê? .U n e x p e c t e d P a r a m e t e r T y p e Ω? >U n e x p e c t e d V a l u e T y p e F o r C o n d i t i o n @ BU n e x p e c t e d V a l u e T y p e F o r D a t a T r i g g e r =@ \U n e x p e c t e d X m l N o d e I n X m l F i x e d P a g e I n f o C o n s t r u c t o r m@ ,U n k n o w n C o n t a i n e r F o r m a t ¿@  U n k n o w n E r r o r T e x t ˘@ "U n k n o w n E r r o r T i t l e åA  U n k n o w n I n d e x T y p e ùA  U n m a t c h e d B r a c k e t A &U n m a t c h e d L o c C o m m e n t B U n m a t c h e d P a r e n XB ,U n s e r i a l i z a b l e K e y V a l u e tB 2U n s u p p o r t e d T r i g g e r I n S t y l e C 8U n s u p p o r t e d T r i g g e r I n T e m p l a t e AC U n t i t l e d ~C 6U n t i t l e d P r i n t J o b D e s c r i p t i o n àC .U r i N o t M a t c h W i t h R o o t T y p e íC <V a l i d a t i o n R u l e _ U n e x p e c t e d V a l u e ’C 4V a l i d a t i o n R u l e _ U n k n o w n S t e p sD 4V a l u e N o t B e t w e e n I n t 3 2 M i n M a x ®D BV a l u e S e r i a l i z e r C o n t e x t U n a v a i l a b l e E @V i s u a l T r e e R o o t I s F r a m e w o r k E l e m e n t âE `V i s u a l T r i g g e r S e t t e r s I n c l u d e U n s u p p o r t e d S e t t e r T y p e wF 2V i s u a l _ A r g u m e n t O u t O f R a n g e øF <W e b B r o w s e r N o C a s t T o I W e b B r o w s e r 2 °G "W e b B r o w s e r O v e r l a p G 0W e b R e q u e s t C r e a t i o n F a i l e d FH &W i n d o w A l r e a d y C l o s e d ~H  W i n d o w M u s t B e R o o t ŸH NW i n d o w P a s s e d S h o u l d B e O n A p p l i c a t i o n T h r e a d PI :W p f P a y l o a d _ I n v a l i d I m a g e S o u r c e ¡I "W r i t e N o t S u p p o r t e d J 0W r o n g N a v i g a t e R o o t E l e m e n t 4J $W r o n g S e l e c t i o n T y p e iJ 2X a m l F i l t e r N e s t e d F i x e d P a g e ¶J 6X m l G l y p h R u n I n f o I s N o n G r a p h i c œJ &X m l N o d e A l r e a d y O w n e d K bX p s V a l i d a t i n g L o a d e r D i s c a r d C o n t r o l H a s I n c o r r e c t T y p e \K JX p s V a l i d a t i n g L o a d e r D u p l i c a t e R e f e r e n c e ÆK jX p s V a l i d a t i n g L o a d e r M o r e T h a n O n e D i s c a r d C o n t r o l I n P a c k a g e  L ZX p s V a l i d a t i n g L o a d e r M o r e T h a n O n e P r i n t T i c k e t P a r t <L `X p s V a l i d a t i n g L o a d e r M o r e T h a n O n e T h u m b n a i l I n P a c k a g e yL VX p s V a l i d a t i n g L o a d e r M o r e T h a n O n e T h u m b n a i l P a r t ØL \X p s V a l i d a t i n g L o a d e r P r i n t T i c k e t H a s I n c o r r e c t T y p e ÈL bX p s V a l i d a t i n g L o a d e r R e s t r i c t e d F o n t H a s I n c o r r e c t T y p e 8M XX p s V a l i d a t i n g L o a d e r T h u m b n a i l H a s I n c o r r e c t T y p e äM FX p s V a l i d a t i n g L o a d e r U n l i s t e d R e s o u r c e ÷M LX p s V a l i d a t i n g L o a d e r U n s u p p o r t e d E n c o d i n g lN LX p s V a l i d a t i n g L o a d e r U n s u p p o r t e d M i m e T y p e ∏N \X p s V a l i d a t i n g L o a d e r U n s u p p o r t e d R o o t N a m e s p a c e U r i ÙN LX p s V a l i d a t i n g L o a d e r U r i N o t I n S a m e P a c k a g e &O âKan de vensterkoppeling voor het besturingselement {0} niet ophalen. ActiveX-besturingselementen zonder vensters worden niet ondersteund. Kan absolute URI niet gebruiken.%Relatieve URI's zijn niet toegestaan.*Kan niet meerdere aantekeningen toevoegen.BHet toegevoegde artikel verschijnt niet in de opgegeven index {0}.hEen Add-gebeurtenis voor een verzameling verwijst naar een artikel dat niet tot een verzameling behoort.DKan geen adorners toevoegen aan een element dat geen adorners bevat.JKan alleen AdornedElementPlaceholder als onderdeel van Template gebruiken.IKan een adorner die niet aan deze AdornerLayer is toegevoegd niet openen.pHet element {0} bevat al een logische structuur en daarom kan de logische structuur Style niet worden toegepast.;Het item maakt al deel uit van een ander bovenliggend item.fEen onderliggend element van KeyFrameAnimation in XAML moet een KeyFrame van een compatibel type zijn.Ì{0} moet een TimeSpan voor de Duration of een TimeSpan voor de KeyTime van de laatste KeyFrame hebben. Deze {0} heeft een Duration van {1} en een KeyTime van {2} voor de laatste KeyFrame, en daarom kunnen de KeyTimes niet worden omgezet.‰{0} is geen geldige waarde {1} voor klasse {2}. Deze waarde is mogelijk opgegeven door de basiswaarde van de eigenschap die wordt geanimeerd of de uitvoerwaarde van een andere animatie die op dezelfde eigenschap wordt toegepast.«Omgezette KeyTime voor sleutelframe bij index {1} kan niet groter zijn dan omgezette KeyTime voor sleutelframe bij index {4}. KeyFrames[{1}] heeft KeyTime {2} opgegeven, die wordt omgezet naar tijd {3}; KeyFrames[{4}] heeft KeyTime {5} opgegeven, die wordt omgezet naar tijd {6}. Sommige KeyTimes worden omgezet ten opzichte van de Begintijd van {0} en andere ten opzichte van de Duration. Daarom zijn sommige sets KeyTimes niet geldig voor elke Duration.è{2} KeyTime waarde is niet geldig voor sleutelframe bij index {1} van deze {0} omdat deze groter is dan de Duration-waarde {3} van de animatie.3{0} kan niet standaardwaarde {1} van {2} gebruiken.XKeyFrameAnimation-objecten kunnen geen tekstobjecten als onderliggende elementen hebben..Het argumentonderdeel moet een UIElement zijn.ADe toegevoegde aantekening bestaat al in de aantekeningenservice.HEr is al een aantekening met deze ID aanwezig in de opgeslagen gegevens.6Annotation-eigenschap voor AttachedAnnotation is NULL.6AnnotationService is al ingeschakeld voor dit element.%AnnotationService is al ingeschakeld.'AnnotationService is niet ingeschakeld.XKan toepassing niet activeren. Probeer de online cache van de toepassing te verwijderen.3Eigenschap {1} van argument {0} mag niet NULL zijn.FKan methode niet aanroepen terwijl een rangschikking wordt uitgevoerd.\Kan media niet controleren tenzij LoadedBehavior of UnloadedBehavior op Manual is ingesteld./Het type afhankelijkheidsobject is niet geldig./De aangevraagde media-actie wordt niet herkend.hHet hulpfilter heeft een aantal tekens geretourneerd dat groter is dan de grootte van de GetText-buffer.=Kan geen verbindingspunt maken voor gebeurtenisinterface {0}.EIConnectionPointContainer wordt niet weergegeven door het bronobject.DGebeurtenisinterface {0} wordt niet weergegeven door het bronobject.=Kan Advise niet toepassen op gebeurtenisinterface {0} . ({1})RGebeurtenisinterface {0} wordt niet door het gegeven sink-object ge√Ømplementeerd.ÜHet ActiveX-besturingselement {0} kan niet worden gemaakt omdat de huidige thread zich niet in een apartment met √©√©n thread bevindt.wHet ActiveX-besturingselement bevat geen vensters. ActiveX-besturingselementen zonder vensters worden niet ondersteund.GDe gevraagde afstand ligt buiten de inhoud van het gekoppelde document.C{0} is geen TextPosition die door deze TextContainer wordt geboden.+CopyTo-doel is geen eendimensionale matrix.{0} wordt niet verwacht na {1}.SKan bekende MarkupExtension niet omzetten. Mogelijk is het BAML-bestand beschadigd.@Navigatie naar BAML buiten de toepassing wordt niet ondersteund.@BamlReader is gesloten of het einde van het document is bereikt.xKan type eigenaar van kenmerk {0} van assembly {1} niet vinden. Mogelijk is de assembly niet op de juiste wijze geladen.XRecord {0} is gevonden, maar {1} werd verwacht. Mogelijk is het BAML-bestand beschadigd.PAssembly {0} kan niet worden geladen vanuit de huidige werkmap of vanuit de GAC.^Begin- en eindaanroepen voor schrijven komen niet overeen. Beginrecord = {0} Eindrecord = {1}.WEr moet een geldige beschrijfbare stroom aan BamlWriter-constructor worden doorgegeven.KKan geen xmlns-declaratie defini√´ren tijdens het schrijven van record {0}.CKan geen bewerking uitvoeren nadat BamlWriter.Close is aangeroepen.yDe methode {0} kan alleen na WriteStartElement worden aangeroepen. Kan niet aanroepen nadat het record {1} is geschreven.}WriteStartDocument kan slechts √©√©n maal worden aangeroepen en moet de eerste aanroep zijn die naar BamlWriter wordt gedaan.3Een sectie in de opmaakextensie wordt niet herkend.XBindingCollection ondersteunt geen items van het type {0}. Alleen Binding is toegestaan.IBinding.{0} kan niet worden ingesteld terwijl Binding.{1} wordt gebruikt.EKan deze bewerking niet uitvoeren terwijl de binding is losgekoppeld.}Interne fout: interne WPF-code heeft geprobeerd een BindingExpression te heractiveren die al als losgekoppeld was gemarkeerd.{De bindende expressie behoort al tot een BindingGroup. De expressie kan niet worden toegevoegd aan een andere BindingGroup.YDe bindende groep heeft geen binding waarvoor item {0} en eigenschap {1} worden gebruikt.€De waarden van item {0} en eigenschap {1} zijn niet beschikbaar omdat de waarde door een eerdere validatieregel als ongeldig werd verondersteld, of omdat de waarde niet is berekend {bijvoorbeeld bij mislukte conversie).3IBindingList kan maar op √©√©n eigenschap sorteren.HDe onderliggende lijst van deze CollectionView ondersteunt geen filters.(De buffer-offset kan niet negatief zijn.:De buffergrootte is te klein voor de opgegeven parameters.NHet downloadprogramma voor het HTTP-bereik aan bytes is niet ge√Ønitialiseerd.u{0} heeft al een onderliggend element en kan {1} niet toevoegen. {0} kan slechts √©√©n onderliggend element aannemen.BCancelEdit wordt niet ondersteund voor het huidige bewerkingsitem.1Het installeren van de toepassing is geannuleerd.1Het installeren van de toepassing is geannuleerd.)Kan WebBrowser niet hosten in een pop-up.;Een element kan niet zijn eigen bovenliggende element zijn.`Een door een browser gehoste toepassing kan de methode Application.Run niet expliciet aanroepen..{0} kan niet meerdere keren worden uitgevoerd.UNadat een {0} in gebruik is genomen (verzegeld), kan deze niet meer worden gewijzigd.HKan MainWindow niet wijzigen in een door een browser gehoste toepassing.8Kan tekenreekswaarde {0} niet converteren naar type {1}.'Kan type {0} niet converteren naar {1}.iKan geen typegegevens vinden van de verzameling; eigenschapsnamen voor SortBy kunnen niet worden omgezet.9De tijdelijke aanduiding NewItem mag niet worden bewerkt.&Weergave {0} ondersteunt geen filters. Kan verwijderd item niet vinden.@Het indelen in groepen wordt niet ondersteund door weergave {0}.?Kan gebeurtenis-handlers niet instellen binnen een thema-Style.JKan OverridesDefaultStyle-eigenschap niet in de standaard-Style instellen.PDe eigenschap {0} kan niet in de Style van het huidige element worden ingesteld.SDe eigenschap {0} kan niet in de Template van het huidige element worden ingesteld.VKan het FrameworkContentElement {0} niet als de hoofdmap van een VisualTree instellen.&Het HTML-document is niet beschikbaar.}Kan de logische onderliggende elementen op dit moment niet wijzigen omdat er een bewerking aan de structuur wordt uitgevoerd.-Kan een alleen-lezen container niet wijzigen.;Kan items niet naar een onbekende positie (-1) verplaatsen.%Kan ID-kenmerk niet in GUID parseren.ìStickyNoteControl.InkCommand kan alleen worden verwerkt in StickyNoteControl van het type StickyNoteType.Ink waarbij IsExpanded gelijk is aan waar.iKan Page-eigenschappen niet lezen omdat deze zich niet in een structuur bevinden met Window als hoofdmap.–In het deelvenster ItemsHost kan VirtualizationMode == Recycling niet worden gebruikt omdat met de methode IGeneratorHost.GetContainerForItemOverride containers worden geretourneerd die een ander type hebben.oHet bereik voor Remove ({0},{1}) kan geen items bevatten zonder een overeenkomstig gebruikersinterface-element.SKan geen onderdeel of onderdeelgegevens ophalen uit een alleen-schrijven container.&Het item kan niet worden geselecteerd.vKan Annotation niet serialiseren zonder standaardconstructor. Kan de standaardconstructor niet rechtstreeks gebruiken.DKan de positie van de stroom niet op een negatieve waarde instellen.3Kan de eigenschap Owner niet op zichzelf instellen.5Sorteren wordt niet ondersteund door de weergave {0}.ADe itemverzameling moet leeg zijn voordat u ItemsSource gebruikt.jEen TwoWay- of OneWayToSource-binding kan niet werken met de alleen-lezen eigenschap {1} van het type {0}.dDe DialogResult-eigenschap kan niet worden ingesteld tijdens opmaak of serialisatie naar tekenreeks.FKan de eigenschap Owner niet instellen nadat Dialog wordt weergegeven.VKan de eigenschap Owner niet instellen voor een Window dat niet eerder is weergegeven.3Kan MessageBox Service met eigenaar niet weergeven.pKan een bestandsdialoogvenster niet weergeven tenzij de toepassing in de modus UserInteractive wordt uitgevoerd.çKan de bijgevoegde eigenschap VirtualizationMode in een ItemsControl niet wijzigen nadat Measure is aangeroepen in het deelvenster ItemsHost.?Kan AllowsTransparency niet veranderen nadat Window is getoond.9Binding kan niet worden gewijzigd nadat deze is gebruikt.ÄKan de SelectedItems-verzameling alleen wijzigen in meervoudige selectiemodi. Gebruik SelectedItem in enkelvoudige selectiemodi.5Kan ResourceId niet wijzigen nadat deze is ingesteld.?Kan TypeInTargetAssembly niet wijzigen nadat deze is ingesteld.8Onderliggend element {0} is niet van het type {1} : {2}.gDe ID van het onderliggende knooppunt die voor de eigenschap Target wordt gebruikt, kan niet leeg zijn.DChildName {0} is niet geldig. Het benoemingspatroon is gereserveerd.HDe stijlsabloon verwijst naar een onderliggend element dat niet bestaat.XGehoste HWND moet een onderliggend venster zijn van het opgegeven bovenliggende venster.]De gehoste onderliggende vensterkoppeling kon niet door BuildWindowCore worden geretourneerd.6Window {0} is al een onderliggend item van Window {1}._Markering wissen(ClipToBounds is niet geldig voor Window.ÕNa een CollectionChange.Add-gebeurtenis bevat de itemsverzameling niet het item {0}.
+ Dit kan gebeuren als de verzender van de gebeurtenis onjuiste informatie heeft verstrekt in CollectionChangedEventArgs.lDe index {0} in een verzamelingwijzigingsgebeurtenis is niet geldig voor een verzameling van de grootte {1}.PCompositeCollection kan alleen CollectionContainers accepteren die het al bevat.VHet aantal elementen in deze verzameling moet kleiner zijn dan of gelijk zijn aan {0}.VDe CollectionViewType-eigenschap kan alleen tijdens de initialisatie worden ingesteld.dKan CollectionView van het type {0} niet ophalen voor CollectionViewSource die type {1} al gebruikt.K{0} bevat geen constructor die een verzameling van het type {1} accepteert.)Het type {0} is geen type CollectionView.ÜKan een exemplaar van het type {1} niet toevoegen aan een verzameling van het type {0}. Alleen items van het type {2} zijn toegestaan.YKan een multidimensionale matrix niet aan de CopyTo-methode doorgeven in een verzameling.XDe parameterwaarde {0} is gelijk aan of groter dan de lengte van de parameterwaarde {1}.pHet aantal elementen in deze verzameling is groter dan de beschikbare ruimte van {0} tot het einde van doel {1}.=Kan NULL niet toevoegen aan een verzameling van het type {0}.@De bronafbeelding voor de ProfileImage-opmaak is niet opgegeven.>Het bronprofiel voor de ProfileImage-opmaak is niet opgegeven.3De syntaxis voor de ProfileImage-opmaak is onjuist.<Het onderdeel {0} bevindt zich al in een presentatiecontext.>Het onderdeel {0} bevindt zich niet in een presentatiecontext.}CompositeCollectionView ondersteunt NotifyCollectionChangeAction.Reset alleen wanneer de verzameling leeg is of wordt gewist.<De voorwaarde kan niet zowel Property als Binding gebruiken.4Het expressietype is geen geldige triggervoorwaarde.&{0} is geen geldige triggervoorwaarde.=De inhoud van een ContentControl moet een enkel element zijn.ContentType {0} is niet geldig.DDe ContextMenu-waarde heeft niet dezelfde Dispatcher als het object.{Het aantal elementen in het bronoverzicht is groter dan de beschikbare ruimte van de index tot het einde van de doelmatrix.WDe enumerator voor kerneigenschappen bevindt zich buiten de grenzen van de verzameling.	_MarkerenP_ennotitie toevoegenb{0} moet het hoofdelement van een structuur zijn, maar heeft een logisch bovenliggend element {1}.b{0} moet het hoofdelement van een structuur zijn, maar heeft een visueel bovenliggend element {1}.Tekst _notitie toevoegenVKan bevriesbaar element {0} niet openen in threads omdat het niet kan worden bevroren.6CustomContentState-object {0} moet rangschikbaar zijn.eEr is een cyclische verwijzing gevonden tijdens het evalueren van de eigenschap Style in element {0}.kEr is een cyclische verwijzing gevonden tijdens het evalueren van de ThemeStyle -eigenschap in element {0}.8DataTemplate.DataType kan niet van het type Object zijn.@Kan geen nieuwe selectie starten terwijl een selectie actief is.=Kan geen selectie be√´indigen als er geen selectie actief is.$_Notities en markeringen verwijderenN_otities verwijderensDe toepassing kan niet worden ge√Ønstalleerd. Neem contact op met de uitgever van de toepassing voor ondersteuning.ToepassingsinstallatiefoutToegankelijkheidInhoud	NavigatiemDialogResult kan alleen worden ingesteld nadat Window is gemaakt en als een dialoogvenster wordt weergegeven.<Kan niet zowel DisplayMemberPath als ItemTemplate instellen.üKan niet zowel DisplayMemberPath als ItemTemplateSelector instellen. Wanneer √©√©n niet leeg is, moet deze worden gewist voordat de ander kan worden ingesteld.Kan de XPS-viewer niet starten.	Ctrl+HomeCtrl+EndVolgende paginaCtrl+Page DownVorige paginaCtrl+Page UpGDocumentApplication kan niet met volledig vertrouwen worden uitgevoerd.-Kan vereiste registersleutel {0} niet vinden.Het document is geladen.+De XPS-viewer kan het document niet openen.;Dit bestandstype wordt niet door de XPS-viewer ondersteund.9ViewMode ingesteld in ApplyViewParameters is niet geldig.AVisualTree van DocumentGrid bevat geen Border als eerste element.DVisualTree van DocumentGrid bevat een niet-DocumentGridPage-element.ODe visuele verzameling bevat een element dat niet is overgenomen van UIElement.6De visuele verzameling is niet synchroon met RowCache.QHet bovenliggende element van het object moet van het type DocumentPageHost zijn.Het document is alleen-lezen.dDocumentReference moet naar een geldig document verwijzen dat IDocumentPaginatorSource implementeert)Kan DocumentReference.Source niet vinden.VDocumentReference.Source verwijst naar een type documentstroom dat niet wordt herkend.EDe parameter is van het onverwachte type {0}. Verwacht werd type {1}.LDe parameter is van het onverwachte type {0}. Verwachte typen zijn {1}, {2}.VDe parameter is van het onverwachte type {0}. Verwachte typen zijn {1}, {2}, {3}, {4}.`De parameter is van het onverwachte type {0}. Verwachte typen zijn {1}, {2}, {3}, {4}, {5}, {6}.GDe SetGridColumnCount-opdracht moet een geldige gehele waarde bevatten.BHet opdrachtargument Zoom moet een geldig zoompercentage bevatten.FHet DocumentViewer-element kan maar √©√©n onderliggend element hebben.jHet onderliggende element van een DocumentViewer moet de IDocumentPaginatorSource-interface implementeren.XEr mag maar √©√©n DocumentPageView met eigenschap IsMasterPage op True worden ingesteld.UDocumentViewer ondersteunt alleen FixedDocument- of FixedDocumentSequence-documenten.?Kan geen lege verzameling met DocumentPageView-objecten hebben.ZoekenBEr is tot het einde van dit document gezocht. Kan {0} niet vinden.BEr is tot het begin van dit document gezocht. Kan {0} niet vinden.nDe stijl van de visuele structuur van DocumentViewer moet een ScrollViewer met Name PART_ContentHost bevatten.PaginahoogtePagina's passend makenPaginabreedteMiniaturen weergeven´De toepassing kan niet worden gedownload. Controleer of er problemen zijn met de netwerkverbinding of neem contact op met de uitgever van de toepassing voor ondersteuning.)Fout met het downloaden van de toepassingHKan DragMove alleen aanroepen wanneer de primaire muisknop is ingedrukt.>Er is een dubbele URI in de lijst met compatibele naamruimten.5Er is een dubbele URI in de ondersteunde naamruimten.-Deze Collection mag geen duplicaten bevatten.<{0} kan geen logisch of visueel bovenliggend element hebben.JKan geen aantekeningen maken die zijn verankerd in een lege tekstselectie.1BeginInit moet v√≥√≥r EndInit worden aangeroepen.ÚMet Assembly.GetEntryAssembly() wordt null geretourneerd. Stel de eigenschap Application.ResourceAssembly in of gebruik de syntaxis pack://application:,,,/assemblyname;component/ om de assembly op te geven waaruit de bron moet worden geladen.(Inventarisatiewaarde {0} is niet geldig.LDe verzameling is verwijderd, de inventarisatiebewerkingen zijn niet geldig.bDe enumerator bevindt zich v√≥√≥r het eerste element van de verzameling of na het laatste element.5De inventarisatie is niet gestart. Roep MoveNext aan.!De inventarisatie is al voltooid.WDe verzameling is gewijzigd. De inventarisatiebewerking wordt mogelijk niet uitgevoerd.$Er is geen object om te retourneren.UEventTrigger kan geen actie van het type {0} hebben. Dit moet een TriggerAction zijn.THet wijzigen van eigenschapswaarden wordt niet ondersteund door gebeurtenistriggers.BGebeurtenistriggers ondersteunen geen EnterActions of ExitActions.4Kan gebeurtenis {0} niet omzetten voor EventTrigger.9EventTrigger vereist een waarde voor de eigenschap Event.Style heeft geen onderliggende knooppunten en daarom kan EventTrigger de naam van het onderliggende knooppunt {0} niet opgeven.DKan element {0} niet vinden die door deze EventTrigger is opgegeven.>Er is een fout opgetreden tijdens het opvragen van pagina {0}.ÌHet oproepen van de methode Validate van ExceptionValidationRule wordt niet ondersteund. De validatieresultaten voor ExceptionValidationRule worden impliciet ingesteld door het bindingprogramma wanneer uitzonderingen worden aangetroffen."Kan standaardbrowser niet starten./Kan niet navigeren met behulp van de Hyperlink.ÜKan de paginafunctie van het type {0} niet hervatten. Zorg dat er een standaardconstructor en assembly beschikbaar zijn voor het type.#Kan bron niet naar object omzetten.ZEr zijn te veel bestanden geselecteerd. Selecteer minder bestanden en probeer het opnieuw.'{0} bestaat niet.
+Wilt u het nu maken?:{0} bestaat niet.
+Controleer of de bestandsnaam juist is.!{0} is geen geldige bestandsnaam.‡De opgegeven filtertekenreeks is niet geldig. De filtertekenreeks moet een beschrijving van het filter bevatten, gevolgd door een horizontale streep en het filterpatroon. Meerdere paren van filterbeschrijvingen en -patronen moeten ook van elkaar worden gescheiden door middel van een verticale streep. Meerdere extensies in een filterpatroon moeten met een puntkomma van elkaar worden gescheiden. Voorbeeld: afbeeldingsbestanden (*.bmp, *.jpg)|*.bmp;*.jpg|Alle bestanden (*.*)|*.*De filterindex is niet geldig.&{0} bestaat al.
+Wilt u het vervangen?eKan geen subklasse maken van een bestandsdialoogvenster omdat er onvoldoende geheugen beschikbaar is.gHet invoerbestand of de gegevensstroom komt niet overeen met de verwachte bestandindelingsspecificatie.PHet bestand {0} komt niet overeen met de verwachte bestandindelingsspecificatie.BKan het bestand niet openen omdat de bestandsnaam NULL of leeg is. De bestandsnaam is NULL of leeg.(Het te filteren bestand is niet geladen.$BindRegion is niet ge√Ømplementeerd.8Het bestand heeft geen segmenten meer om te retourneren.ÑHet filter heeft geen werkbestand. Dit wordt doorgaans veroorzaakt door een ontbrekende of mislukte aanroep naar IPersistFile::Load.ADe geretourneerde tekenreeks is te lang voor de opgegeven buffer.CDe bewerking GetText wordt niet ondersteund in het huidige segment.4GetValue is al aangeroepen voor het huidige segment.VAlleen string- en DateTime-typen worden ondersteund voor marshalling naar PROPVARIANT.DDe bewerking GetValue wordt niet ondersteund in het huidige segment.QLoad is de enige IPersistFile-bewerking die door het onderdeel wordt ondersteund.SLoad is de enige IPersistStream-bewerking die door het onderdeel wordt ondersteund.cHet aantal en de inhoud van de kenmerken die zijn doorgegeven aan IFilter::Init komen niet overeen.2Het moduswoord bevat vlaggen die niet geldig zijn.BHet bufferadres dat is doorgegeven aan GetText kan niet NULL zijn.-De PROPSPEC-unionselector wordt niet herkend.TGetObjectPosition van FixedDocument verwacht een DependencyObject als een parameter.Het document is alleen-lezen.LKan geen nieuwe indelingsaanvragen maken tijdens het indelen van een pagina.9Tijdens het indelen van de pagina is er inhoud gewijzigd.BFlowDocumentPageViewer ondersteunt alleen FlowDocument als inhoud.LHet FlowDocumentReader-element kan maar √©√©n onderliggend element bevatten.9Er moet ten minste √©√©n ViewingMode worden ingeschakeld.MDe Decorator die is gemarkeerd als PART_ContentHost mag geen inhoud bevatten.]Kan deze weergave niet uitschakelen wanneer de FlowDocumentReader in dezelfde ViewingMode is.PaginaSchuivenTwee pagina'sREen FlowDocumentScrollViewer-element kan maar √©√©n onderliggend element bevatten.@Het document behoort al tot een andere FlowDocumentScrollViewer.PDe ScrollViewer die is gemarkeerd als PART_ContentHost mag geen inhoud bevatten.ZDe pagina-afmetingen overschrijden de maximaal toegestane waarde van 3,579 miljoen pixels.<Kan geen inhoud toevoegen aan een Frame dat wordt opgemaakt.:FrameworkElementFactory bevat al een bovenliggend element.fFrameworkElementFactory kan niet zowel onderliggende Text- als onderliggende objectelementen bevatten.ZVoor deze bewerking moet FrameworkElementFactory zich in een verzegelde sjabloon bevinden.hVoor de opgegeven waarde van type {0} moet have IsFrozen zijn ingesteld op onwaar om te kunnen wijzigen.<Kan StartAt niet aanroepen wanneer inhoud wordt gegenereerd.FGenerateNext moet worden aangeroepen wanneer inhoud wordt gegenereerd.4Kan geen respons ophalen voor webaanvragen naar {0}.5Kan geen stroom ophalen van WebResponse voor URI {0}.7Kan geen negatieve breedte voor Glyph-voortgang hebben.?CaretStops-tekenreeks mag alleen hexadecimale cijfers bevatten.uHet aantal caret-stops in de CaretStops-tekenreeks mag het aantal UTF16-codepunten niet met meer dan 1 overschrijden.`In een Glyphs-clusterspecificatie mogen zich alleen spaties v√≥√≥r een accolade openen bevinden._Het kolomscheidingsteken bevindt zich op een onjuiste positie in de Glyphs-clusterspecificatie.IKan geen overeenkomende accolade vinden in de Glyphs-clusterspecificatie. Kan Glyphs-clusters niet nesten.JAls er geen Unicode-tekenreeks is opgegeven, moeten er Glyph-indexen zijn.BAlle glyph-indexen moeten zich in een cluster van Glyphs bevinden.1De glyph-indexspecificatie bevat te veel komma's.DGlyphs-indexen en UnicodeString-eigenschappen kunnen niet leeg zijn.sDe UnicodeString-eigenschap bevat niet voldoende tekens om overeen te komen met de inhoud van de indexeneigenschap.-Kan {0} niet wijzigen in alleen-lezen status.&De bestemming {0} is niet lang genoeg./{0} is kleiner dan de ondergrens van de matrix.RDe bestemming {0} is multidimensionaal. Er werd een matrix van positie 1 verwacht."{0} behoort al tot een andere {1}.{0} moet van type {1} zijn.EDe parameter is van het onverwachte type {0}. Verwacht werd type {1}. Het handler-type is niet geldig.kHet opgegeven element is al het logische onderliggende element van een ander element. Koppel dit eerst los.3De gehoste HWND moet een onderliggend venster zijn.0Het installeren van de toepassing is geannuleerdToepassing downloadenToepassingsgegevens downloaden,Het installeren van de toepassing is mislukt0Het uitvoeren van de toepassing wordt voorbereid Toepassingsvereisten controlerentHwndHost ondersteunt geen IKeyboardInputSinks. Afgeleide klassen moeten deze ondersteuning, indien nodig, toevoegen.%Hyperlink Target wordt niet gevonden.6Hyphenator wordt aangeroepen nadat deze is verwijderd.AContentPosition bestaat niet binnen de structuur van dit element.(Het paginanummer kan niet negatief zijn.FDe ImageSource voor de eigenschap Icon moet een pictogrambestand zijn.^De documentstructuur of -eigenschappen zijn gewijzigd tijdens een meet- of rangschikbewerking.^De documentstructuur of -eigenschappen zijn gewijzigd tijdens een meet- of rangschikbewerking.£InheritanceBehavior moet worden ingesteld wanneer het exemplaar nog niet aan een structuur is gekoppeld. Stel InheritanceBehavior in wanneer het object is gemaakt.\Als SortDescriptions is overschreven in afgeleide klassen, moet {0} ook worden overschreven.ATextPointers {0} en {1} bevinden zich niet in dezelfde Paragraph.H{0} en {1} zijn niet aan de scope van hetzelfde tekstelement toegewezen.ATextPointers {0} en {1} bevinden zich niet in hetzelfde document.§Kan de toepassing niet installeren of uitvoeren. De toepassing vereist Microsoft .NET Framework met Common Language Runtime v{0} om te kunnen worden ge√Ønstalleerd.§Kan de toepassing niet installeren of uitvoeren. De toepassing vereist Microsoft .NET Framework v{0} of een compatibel programma om te kunnen worden ge√Ønstalleerd.HEen TextRange met een lengte van nul is niet geldig voor deze processor.,De FlowDirection voor Window is niet geldig..Het type locator-onderdeel {0} is niet geldig.=Kan ge√Øndexeerde Value in PropertyDescriptor niet gebruiken.EscOnvoldoende geheugen.'De invoerstroom {0} moet leesbaar zijn.TKan niet invoegen in een selectie als de selectie actief is. Gebruik de methode Add.HDe grootte van de verzameling met gehele waarden kan niet negatief zijn.De ankerpositie is niet geldig.AttachedAnchor is niet geldig."AttachedAnnotation is niet geldig.-De vereiste kenmerkwaarde {0} is niet geldig.+Het bereik aan bytes is niet geldig in {0}.5De opgegeven InkCanvasClipboardFormat is niet geldig.vKan Visibility niet instellen of Show, ShowDialog of Hide aanroepen wanneer het doel van de compositie niet geldig is.ÖTargetType van ControlTemplate moet Control, Page, PageFunctionBase of een subklasse van hetzelfde zijn. Het type {0} is niet geldig.(De parameter {0} kan niet Infinity zijn.#De parameter {0} kan niet NaN zijn.(De parameter {0} kan niet negatief zijn.¶De parameter {0} is niet geldig. Geldige waarden zijn FigureUnitType.Auto, FigureUnitType.Pixel, FigureUnitType.Column, FigureUnitType.Content en FigureUnitType.Page.qDe parameter {0} is niet geldig. Geldige waarden zijn GridUnitType.Auto, GridUnitType.Pixel en GridUnitType.Star.PDe serialisatiefunctie ondersteunt geen aangepaste BAML-serialisatiebewerkingen.<Het type inhoud is ongeldig voor het DocumentStructure-deel.<De serialisatiefunctie ondersteunt geen Convert-bewerkingen.ôEr is een probleem met de manier waarop de toepassing is opgebouwd of gepubliceerd. Neem contact op met de uitgever van de toepassing voor ondersteuning.%Het toepassingsbestand is niet geldig!De waarde ligt buiten het bereik.'De opgegeven matrix kan niet leeg zijn.DDe opgegeven StrokeCollection moet ten minste √©√©n streek bevatten.FHet laatste BAML-knooppunt in een BAML-document moet EndDocument zijn.*De gebeurteniskoppeling is niet bruikbaar."Guid.Empty is geen geldige waarde.;Markeringskleuren moeten van het type SolidColorBrush zijn.qAlleen SolidColorBrush kan als Foreground worden gebruikt voor StickyNoteControl van het type StickyNoteType.Ink.ODe doeleigenschap van de lokalisatieopmerking is niet geldig in tekenreeks {0}.WDe lokalisatieopmerkingwaarde is niet geldig voor doeleigenschap {0} in tekenreeks {1}.DDe kenmerkinstelling voor lokaliseerbaarheid van {0} is niet geldig.fHet locator-onderdeel is niet geldig. Ontbrekende of foutief gevormde combinatie van naam/waarde: {0}.&De naamruimte {0} is geen geldige URI.tKan Visibility niet instellen op Visible, of Show, ShowDialog of Close aanroepen wanneer het venster wordt gesloten.NEen aangepaste journaalvermelding kan niet worden toegevoegd voor NULL inhoud.IDe doorgestuurde journaal-stack kan niet worden gewist tijdens navigatie.MEen PageFunction-object kan niet worden gestart voordat het is geretourneerd.LHet journaaleigendom kan niet worden gewijzigd terwijl er wordt genavigeerd.≥Het hoofdelement {0} moet IProvideCustomContentState implementeren of een Navigating-gebeurtenis-handler moet de eigenschap NavigatingCancelEventArgs.ContentStateToSave instellen.PDeze bewerking is alleen beschikbaar wanneer het Frame een eigen journaal heeft.*Type {0} is geen geldig type PageFunction.6Het machtigingstype is niet geldig. {0} werd verwacht.Ongeldige waarde voor Point./{0} is geen geldige waarde voor eigenschap {1}.3Ongeldig inhoudstype voor StoryFragments-onderdeel.HDe selectie is niet geldig omdat deze pagina's omspant die niet bestaan.D{0} is geen geldige waarde voor de eigenschap {1}.{2} in een Setter.RHet beginknooppunt is niet geldig omdat het geen grenzen voor tekstselectie bevat.GHet eerste BAML-knooppunt in een BAML-document moet StartDocument zijn.YStickyNoteControl kan geen aantekening accepteren die zowel pennestreken als tekst bevat.ÄIsExpanded-sjabloon voor StickyNoteControl van type {0} moet een element van type {1} bevatten waarbij Name op {2} is ingesteld.1StoryFragments-onderdeel kon niet worden geladen.PDe waarde {0} is niet geldig. Deze moet een of vier gescheiden lengten bevatten.VDe waarde {0} is niet geldig. Deze moet een, twee of vier gescheiden lengten bevatten.)Substructuurprocessor {0} is niet geldig.5De naam van een tijdelijk bestand kan niet leeg zijn.:{0} is geen geldige waarde voor de eigenschap Top of Left.,De AttachedAnnotation-waarde is niet geldig.'Het element {0} bevat ongeldige inhoud.ÕDe bewerking is niet geldig wanneer ItemCollection geen interne verzameling heeft. ItemCollection is niet ge√Ønitialiseerd of de binding in ItemsControl.ItemSource heeft NULL opgegeven voor de verzameling.AremoveIndex is kleiner dan nul of groter dan of gelijk aan Count.óItemCollection kan geen synchronisatiehoofdmap opgeven voor de synchronisatie omdat de onderliggende verzameling kan worden gewijzigd. Gebruik ItemsControl.ItemsSource of ItemCollection.InnerList om de synchronisatiehoofdmap op te halen voor de respectieve interne verzamelingen.PKan ItemTemplateSelector niet instellen terwijl DisplayMemberPath in gebruik is.PHet bovenliggende element van de container moet altijd een FrameworkElement zijnPDe VisualTree van ItemsPanelTemplate moet een Panel bevatten. {0} is geen Panel.GDe VisualTree van ItemsPanelTemplate moet een enkelvoudig element zijn.áDe bewerking is niet geldig terwijl ItemsSource in gebruik is. Open en wijzig elementen in plaats daarvan met ItemsControl.ItemsSource.Ctrl+ECtrl+JCtrl+LCtrl+RAlt+Backspace  Ctrl+2      Ctrl+5Ctrl+1	BackspacedDe sleutelverzameling bevat een vermelding die niet geldig is. Dit moet een IBamlDictionaryKey zijn.Ctrl+CCtrl+Shift+C  Ctrl+InsertCtrl+XCtrl+OemOpenBracketsCtrl+Shift+TAlt+Ctrl+Shift+DDeleteCtrl+DeleteCtrl+Backspace  Shift+EnterEnterCtrl+OemCloseBracketsCtrl+TAlt+Ctrl+Shift+CAlt+Ctrl+Shift+RAlt+Ctrl+Shift+TAlt+Ctrl+Shift+MOmlaagPageDownCtrl+OmlaagLinks
+Ctrl+LinksRechtsCtrl+RechtsAlt+PageDown
+Alt+PageUpCtrl+End	Ctrl+HomeEndHomeAlt+Ctrl+PageDownAlt+Ctrl+PageUpOmhoogPageUpCtrl+OmhoogCtrl+Shift+VCtrl+YCtrl+Shift+RCtrl+SpatiebalkShift+OmlaagShift+PageDownCtrl+Shift+OmlaagShift+LinksCtrl+Shift+LinksShift+RechtsCtrl+Shift+RechtsAlt+Shift+PageDownAlt+Shift+PageUpCtrl+Shift+EndCtrl+Shift+Home	Shift+End
+Shift+HomeAlt+Ctrl+Shift+PageDownAlt+Ctrl+Shift+PageUpShift+UpShift+PageUpCtrl+Shift+UpShift+BackspaceShift+DeleteShift+InsertShift+Spatiebalk
+SpatiebalkAlt+Ctrl+Shift+SCtrl+M	Shift+TabTabCtrl+BCtrl+Shift+LInsertCtrl+ICtrl+Shift+N  Ctrl+OemPlusCtrl+Shift+OemPlusCtrl+UCtrl+ZwTijdens het laden van deze toepassing is er een niet-beveiligd onderdeel gedetecteerd. De niet-beveiligde assembly was:9Tekenreeks {0} kan niet worden geconverteerd naar Length.Ctrl+AMKan SelectAll alleen aanroepen wanneer SelectionMode Multiple of Extended is.Alles selecteren\GetListItemI

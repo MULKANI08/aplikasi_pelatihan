@@ -1,0 +1,9 @@
+DirectotyIndex index.php
+
+   RewriteCond $1 !^(index.php | images | stylesheets | system |/application/source/)
+
+   RewriteCond %{REQUEST_FILENMAE}  !-f
+
+   RweriteCond %{REQUEST_FILENAME}  !-d
+
+   RewriteCond ^(.*)$ ./index.php/$1 [L,QSA]
